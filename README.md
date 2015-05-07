@@ -16,7 +16,7 @@ Train/dev/test: 80/10/10 % randomly selected
 ## Basic statistics
 
 - Sentences:  2411
-- Tokens/:  59156
+- Tokens:  59156
 
 ## Acknowledgments
 
