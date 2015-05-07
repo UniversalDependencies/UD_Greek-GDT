@@ -11,14 +11,12 @@ automatic conversion of the original annotations. The conversion and harmonizati
 
 ## Data split
 
-Train/dev/test: 80/10/10 randomly selected
+Train/dev/test: 80/10/10 % randomly selected
 
 ## Basic statistics
 
 - Sentences:  2411
 - Tokens/:  59156
-
-Train/dev/test sets were randomly created.
 
 ## Acknowledgments
 
