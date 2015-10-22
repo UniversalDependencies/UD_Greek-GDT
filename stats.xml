@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>2411</sentences><tokens>59156</tokens><words>59156</words><fused>0</fused></total>
+  </size>
+  <lemmas unique="6174" /><!-- ο, ,, ., και, στου, να, για, με, από, που, μου, είμαι, αυτός, ότι, σε -->
+  <forms unique="11104" /><!-- ,, ., και, να, της, το, την, η, του, για, με, των, από, που, ότι -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
+  <tags unique="10">
+    <tag name="ADJ">14167</tag><!-- ο, ένας, ευρωπαϊκός, πολύς, όλος, μεγάλος, νέος, σημαντικός, πολιτικός, εθνικός -->
+    <tag name="ADP">5105</tag><!-- στου, για, με, από, σε, κατά, προς, μεταξύ, μέχρι, μετά -->
+    <tag name="ADV">2632</tag><!-- ως, επίσης, όπως, όσο, σχετικά, πολύ, σήμερα, μόνο, ακόμα, εδώ -->
+    <tag name="CONJ">2973</tag><!-- και, ότι, αλλά, αν, ενώ, ή, ωστόσο, όμως, όταν, προκειμένου -->
+    <tag name="NOUN">15250</tag><!-- επιτροπή, χώρα, κοινοβούλιο, ένωση, συμβούλιο, χρόνος, πρόεδρος, κράτος, μέλος, ομάδα -->
+    <tag name="NUM">952</tag><!-- δύο, πρώτος, ένας, τρεις, δεύτερος, τρίτος, πέντε, 1, 15, Β' -->
+    <tag name="PART">2288</tag><!-- να, θα, δεν, μην, όχι, ας, άραγε, μη -->
+    <tag name="PRON">2775</tag><!-- μου, που, αυτός, οποίος, εγώ, άλλος, κανένας, κάθε, κάποιος, τέτοιος -->
+    <tag name="PUNCT">6326</tag><!-- ,, ., ", -, «, », (, ), ΗΠΑ, : -->
+    <tag name="VERB">6688</tag><!-- είμαι, έχω, πρέπει, μπορώ, γίνομαι, αποτελώ, υπάρχω, αναφέρω, βρίσκω, θέλω -->
+  </tags>
+  <!-- Statistics of features and values. The comments with the most frequent word forms are optional (but easy to obtain). -->
+  <feats unique="30">
+    <feat name="Case" value="Acc" upos="ADJ,ADP,NOUN,NUM,PRON,VERB">15624</feat><!-- την, το, στην, τη, στο, τις, τον, τα, τους, στη -->
+    <feat name="Case" value="Dat" upos="ADJ,NOUN">36</feat><!-- λόγω, πάση, μέρει, περιπτώσει, βάσει, μέσω, τω, θυσία, συνεχεία, συντομία -->
+    <feat name="Case" value="Gen" upos="ADJ,NOUN,NUM,PRON,VERB">8622</feat><!-- της, του, των, τους, μας, μου, σας, επιτροπής, ένωσης, Κοινοβουλίου -->
+    <feat name="Case" value="Nom" upos="ADJ,NOUN,NUM,PRON,VERB">8830</feat><!-- η, ο, οι, το, που, τα, αυτό, επιτροπή, οποία, αυτή -->
+    <feat name="Case" value="Voc" upos="ADJ,NOUN">61</feat><!-- κύριε, Πρόεδρε, κυρίες, κύριοι, κυρία, Επίτροπε, Αντιπρόεδρε, Προεδρεύοντα, αγαπητοί, βουλευτές -->
+    <feat name="Definite" value="Def" upos="ADJ">9017</feat><!-- την, το, της, η, του, των, ο, οι, τα, τη -->
+    <feat name="Definite" value="Ind" upos="ADJ">448</feat><!-- μια, ένα, μία, ένας, ενός, μιας, έναν, μίας -->
+    <feat name="Degree" value="Comp" upos="ADJ,ADV">251</feat><!-- περισσότερο, μεγαλύτερο, μεγαλύτερη, περισσότερα, περισσότερες, αργότερα, περισσότεροι, καλύτερη, νωρίτερα, καλύτερα -->
+    <feat name="Degree" value="Sup" upos="ADJ,ADV">39</feat><!-- σοβαρότατες, ελάχιστα, ελάχιστες, ελάχιστο, Ανώτατο, ανώτατων, μέγιστη, πιθανότατα, Γαληνότατης, Δριμύτατη -->
+    <feat name="Gender" value="Fem" upos="ADJ,ADP,NOUN,NUM,PRON,VERB">17374</feat><!-- της, την, η, στην, τη, τις, των, οι, που, στη -->
+    <feat name="Gender" value="Masc" upos="ADJ,ADP,NOUN,NUM,PRON,VERB">7077</feat><!-- ο, του, τους, τον, οι, των, μας, που, στον, το -->
+    <feat name="Gender" value="Neut" upos="ADJ,ADP,NOUN,NUM,PRON,VERB">8722</feat><!-- το, του, τα, στο, που, των, αυτό, ένα, στα, κοινοβούλιο -->
+    <feat name="Mood" value="Imp" upos="VERB">18</feat><!-- επιτρέψτε, Δώστε, Αφήστε, Δείτε, Επιλέξτε, επίκρινε, λάβετε, περιορίστε -->
+    <feat name="Mood" value="Ind" upos="VERB">6222</feat><!-- είναι, πρέπει, έχει, ήταν, έχουν, μπορεί, είχε, αφορά, αποτελεί, δήλωσε -->
+    <feat name="Number" value="Plur" upos="ADJ,ADP,NOUN,NUM,PRON,VERB">12304</feat><!-- των, οι, τα, τους, τις, που, στις, μας, δύο, στα -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,NOUN,NUM,PRON,VERB">27109</feat><!-- της, το, την, η, του, ο, στην, τη, στο, τον -->
+    <feat name="Person" value="1" upos="PRON,VERB">1246</feat><!-- μας, μου, έχουμε, ήθελα, πιστεύω, εμείς, θεωρώ, μπορούμε, είμαστε, θέλω -->
+    <feat name="Person" value="2" upos="PRON,VERB">188</feat><!-- σας, είπατε, εσείς, έχετε, επιτρέψτε, Δώστε, αναφερθήκατε, επισκεφθείτε, κάνετε, μπορείτε -->
+    <feat name="Person" value="3" upos="PRON,VERB">7581</feat><!-- που, είναι, πρέπει, τους, αυτό, του, έχει, αυτή, οποία, ήταν -->
+    <feat name="PronType" value="Dem" upos="PRON">599</feat><!-- αυτό, αυτή, αυτά, αυτές, αυτής, αυτού, αυτών, αυτόν, αυτήν, αυτούς -->
+    <feat name="PronType" value="Ind" upos="PRON">293</feat><!-- κάθε, κάτι, άλλες, άλλη, άλλων, άλλα, κανείς, κάποια, άλλο, καμία -->
+    <feat name="PronType" value="Int" upos="PRON">19</feat><!-- τι, ποιο, Τίνος, ποιες, ποιος -->
+    <feat name="PronType" value="Prs" upos="PRON">890</feat><!-- τους, μας, του, της, μου, σας, το, εμείς, την, τον -->
+    <feat name="PronType" value="Rel" upos="PRON">974</feat><!-- που, οποία, οποίο, οποίες, οποίος, οποίων, οποίοι, όσα, οποίας, οποίους -->
+    <feat name="Tense" value="Past" upos="VERB">1822</feat><!-- ήταν, είχε, δήλωσε, είχαν, ήθελα, ανέφερε, έγινε, μπορούσε, έπρεπε, ανακοίνωσε -->
+    <feat name="Tense" value="Pres" upos="VERB">3179</feat><!-- είναι, πρέπει, έχει, έχουν, μπορεί, αφορά, αποτελεί, υπάρχει, βρίσκεται, έχουμε -->
+    <feat name="VerbForm" value="Inf" upos="VERB">233</feat><!-- γίνει, λάβει, δημιουργήσει, επιτύχει, συλληφθεί, τεθεί, χάσει, αποκλειστεί, αρχίσει, εκφράσει -->
+    <feat name="VerbForm" value="Part" upos="VERB">215</feat><!-- λέγοντας, έχοντας, προκαλώντας, χτισμένη, περιορισμένη, χτισμένο, Απαντώντας, Τελειώνοντας, ακολουθώντας, χαρακτηρίζοντας -->
+    <feat name="Voice" value="Act" upos="VERB">4377</feat><!-- πρέπει, έχει, έχουν, μπορεί, είχε, αφορά, αποτελεί, δήλωσε, υπάρχει, έχουμε -->
+    <feat name="Voice" value="Pass" upos="VERB">2311</feat><!-- είναι, ήταν, βρίσκεται, πρόκειται, γίνει, γίνεται, βρίσκονται, έγινε, είμαστε, γίνουν -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="28">
+    <dep name="acl">410</dep>
+    <dep name="acl:relcl">839</dep>
+    <dep name="advcl">708</dep>
+    <dep name="advmod">2372</dep>
+    <dep name="amod">4271</dep>
+    <dep name="appos">232</dep>
+    <dep name="aux">2108</dep>
+    <dep name="case">5095</dep>
+    <dep name="cc">2074</dep>
+    <dep name="ccomp">1023</dep>
+    <dep name="compound">7</dep>
+    <dep name="conj">2167</dep>
+    <dep name="cop">802</dep>
+    <dep name="csubj">402</dep>
+    <dep name="dep">61</dep>
+    <dep name="det">9821</dep>
+    <dep name="dobj">2644</dep>
+    <dep name="iobj">408</dep>
+    <dep name="mark">1034</dep>
+    <dep name="mwe">1</dep>
+    <dep name="neg">368</dep>
+    <dep name="nmod">9639</dep>
+    <dep name="nsubj">3520</dep>
+    <dep name="nummod">403</dep>
+    <dep name="punct">5979</dep>
+    <dep name="remnant">249</dep>
+    <dep name="root">2411</dep>
+    <dep name="xcomp">108</dep>
+  </deps>
+</treebank>
