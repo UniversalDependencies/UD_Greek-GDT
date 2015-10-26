@@ -24,6 +24,7 @@ We wish to thank all contributors to the original annotation efforts. A large pa
 
 
 Documentation status: partial
-Data source: unknown
+Data source: automatic
 Data available since: UD v1.1
 License: CC BY-NC-SA 3.0
+Genre: news wiki spoken
