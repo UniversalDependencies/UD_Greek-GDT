@@ -22,9 +22,17 @@ We wish to thank all contributors to the original annotation efforts. A large pa
 
 * Prokopis Prokopidis, Elina Desypri, Maria Koutsombogera, Haris Papageorgiou, and Stelios Piperidis. Theoretical and Practical Issues in the Construction of a Greek Dependency Treebank. In Montserrat Civit, Sandra Kubler, and Ma. Antonia Marti, editors, Proceedings of The Fourth Workshop on Treebanks and Linguistic Theories (TLT 2005), pages 149-160, Barcelona, Spain, December 2005. Universitat de Barcelona.
 
+## CHANGELOG
 
-Documentation status: partial
-Data source: automatic
-Data available since: UD v1.1
-License: CC BY-NC-SA 3.0
-Genre: news wiki spoken
+### 1.2
+- Fixed issues in conversion of determiner pos and adjective degree
+
+### 1.1 
+- Initial release of automatic conversion to UD
+
+    Documentation status: partial
+    Data source: automatic
+    Data available since: UD v1.1
+    License: CC BY-NC-SA 3.0
+    Genre: news wiki spoken
+    Contributors: Prokopidis, Prokopis
