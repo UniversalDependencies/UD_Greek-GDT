@@ -24,6 +24,9 @@ We wish to thank all contributors to the original annotation efforts. A large pa
 
 ### CHANGELOG
 
+#### 1.3
+- Improved conversion of abbreviations
+
 #### 1.2
 - Fixed issues in conversion of determiner pos and adjective degree
 
