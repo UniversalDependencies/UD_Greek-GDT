@@ -304,7 +304,7 @@
 25	προγραμματικές	προγραμματικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	26	amod	_	_
 26	ομιλίες	ομιλία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	36	remnant	_	_
 27	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	28	det	_	_
-28	ΕΕ	ΕΕ	PUNCT	PUNCT	_	26	amod	_	_
+28	ΕΕ	ΕΕ	NOUN	NOUN	_	26	amod	_	_
 29	,	,	PUNCT	PUNCT	_	31	punct	_	_
 30	θα	θα	PART	PART	_	31	aux	_	_
 31	πρέπει	πρέπει	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	acl	_	_
@@ -480,7 +480,7 @@
 10	και	και	CONJ	CONJ	_	9	cc	_	_
 11	Χάλυβα	χάλυβας	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	9	conj	_	_
 12	(	(	PUNCT	PUNCT	_	13	punct	_	_
-13	ΕΚΑΧ	ΕΚΑΧ	PUNCT	PUNCT	_	8	appos	_	_
+13	ΕΚΑΧ	ΕΚΑΧ	NOUN	NOUN	_	8	appos	_	_
 14	)	)	PUNCT	PUNCT	_	13	punct	_	_
 15	από	από	ADP	ADP	_	32	case	_	_
 16	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	18	det	_	_
@@ -919,7 +919,7 @@
 
 # 405 χλμ.  
 1	405	405	NUM	NUM	_	2	nmod	_	_
-2	χλμ.	χλμ.	PUNCT	PUNCT	_	0	root	_	_
+2	χλμ.	χλμ.	NOUN	NOUN	_	0	root	_	_
 
 # Όμως , νέα τροπή στα ιατρικά δεδομένα έρχεται να δώσει ένα λογισμικό πρόγραμμα , που δημιούργησε ο Δρ Τσαρλς Τέιλορ , από το Πανεπιστήμιο του Στάνφορντ , με το οποίο χρησιμοποιεί εικόνες από τα αιμοφόρα αγγεία , από τη ροή της κυκλοφορίας του αίματος του καθενός , που σε συνδυασμό με την επιστημονική εμπειρία , μπορεί να προβλέψει κατά ένα μεγάλο ποσοστό την έκβαση της επέμβασης .  
 1	Όμως	όμως	ADV	ADV	_	8	cc	_	_
@@ -939,7 +939,7 @@
 15	που	που	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel	16	dobj	_	_
 16	δημιούργησε	δημιουργώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	13	acl:relcl	_	_
 17	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	20	det	_	_
-18	Δρ	Δρ	PUNCT	PUNCT	_	20	amod	_	_
+18	Δρ	Δρ	NOUN	NOUN	_	20	amod	_	_
 19	Τσαρλς	Τσαρλς	NOUN	NOUN	_	20	nmod	_	_
 20	Τέιλορ	Τέιλορ	NOUN	NOUN	_	16	nsubj	_	_
 21	,	,	PUNCT	PUNCT	_	24	punct	_	_
@@ -991,7 +991,7 @@
 67	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 # ΗΠΑ : Ισχυροί ανεμοστρόβιλοι ισοπέδωσαν ολόκληρες γειτονιές σε κεντρικές πολιτείες της χώρας .  
-1	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	0	root	_	_
+1	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	0	root	_	_
 2	:	:	PUNCT	PUNCT	_	1	punct	_	_
 3	Ισχυροί	ισχυρός	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	4	amod	_	_
 4	ανεμοστρόβιλοι	ανεμοστρόβιλος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
@@ -1105,7 +1105,7 @@
 25	ότι	ότι	CONJ	CONJ	_	29	mark	_	_
 26	«	«	PUNCT	PUNCT	_	29	punct	_	_
 27	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	28	det	_	_
-28	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	29	nsubj	_	_
+28	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	29	nsubj	_	_
 29	περιμένουν	περιμένω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	24	ccomp	_	_
 30	τώρα	τώρα	ADV	ADV	_	29	advmod	_	_
 31	να	να	PART	PART	_	32	aux	_	_
@@ -1127,9 +1127,9 @@
 1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	3	det	_	_
 2	νικητήριες	νικητήριος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	3	amod	_	_
 3	δυνάμεις	δύναμη	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	_
-4	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	3	amod	_	_
+4	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	3	amod	_	_
 5	,	,	PUNCT	PUNCT	_	4	punct	_	_
-6	ΕΣΣΔ	ΕΣΣΔ	PUNCT	PUNCT	_	4	conj	_	_
+6	ΕΣΣΔ	ΕΣΣΔ	NOUN	NOUN	_	4	conj	_	_
 7	και	και	CONJ	CONJ	_	4	cc	_	_
 8	Ηνωμένο	ηνωμένος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	9	amod	_	_
 9	Βασίλειο	Βασίλειος	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	_
@@ -1341,7 +1341,7 @@
 22	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	24	det	_	_
 23	7ου	7ος	NUM	NUM	Case=Gen|Gender=Masc|Number=Sing	24	nummod	_	_
 24	αιώνα	αιώνας	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
-25	π.Χ.	π.Χ.	PUNCT	PUNCT	_	24	amod	_	_
+25	π.Χ.	π.Χ.	NOUN	NOUN	_	24	amod	_	_
 26	καθώς	καθώς	ADV	ADV	_	27	advmod	_	_
 27	και	και	CONJ	CONJ	_	2	cc	_	_
 28	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	29	det	_	_
@@ -1392,17 +1392,17 @@
 
 # 405 χλμ.  
 1	405	405	NUM	NUM	_	2	nmod	_	_
-2	χλμ.	χλμ.	PUNCT	PUNCT	_	0	root	_	_
+2	χλμ.	χλμ.	NOUN	NOUN	_	0	root	_	_
 
 # Η ΕΟΚ , η ΕΚΑΧ και η ΕΥΡΑΤΟΜ συγχωνεύθηκαν αποκτώντας την ιδιότητα μέλους σε ένα συνδυασμένο σύνολο συνθηκών και θεσμών .  
 1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	det	_	_
-2	ΕΟΚ	ΕΟΚ	PUNCT	PUNCT	_	9	nsubj	_	_
+2	ΕΟΚ	ΕΟΚ	NOUN	NOUN	_	9	nsubj	_	_
 3	,	,	PUNCT	PUNCT	_	2	punct	_	_
 4	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	det	_	_
-5	ΕΚΑΧ	ΕΚΑΧ	PUNCT	PUNCT	_	2	conj	_	_
+5	ΕΚΑΧ	ΕΚΑΧ	NOUN	NOUN	_	2	conj	_	_
 6	και	και	CONJ	CONJ	_	2	cc	_	_
 7	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	det	_	_
-8	ΕΥΡΑΤΟΜ	ΕΥΡΑΤΟΜ	PUNCT	PUNCT	_	2	conj	_	_
+8	ΕΥΡΑΤΟΜ	ΕΥΡΑΤΟΜ	NOUN	NOUN	_	2	conj	_	_
 9	συγχωνεύθηκαν	συγχωνεύω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass	0	root	_	_
 10	αποκτώντας	αποκτώ	VERB	VERB	VerbForm=Part|Voice=Act	9	advcl	_	_
 11	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	12	det	_	_
@@ -1818,7 +1818,7 @@
 30	κεντρικές	κεντρικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	31	amod	_	_
 31	πολιτείες	πολιτεία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	28	dobj	_	_
 32	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	33	det	_	_
-33	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	31	amod	_	_
+33	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	31	amod	_	_
 34	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	35	det	_	_
 35	Παρασκευή	Παρασκευή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	31	nmod	_	_
 36	.	.	PUNCT	PUNCT	_	8	punct	_	_
@@ -1971,7 +1971,7 @@
 3	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	4	det	_	_
 4	έκθεση	έκθεση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
 5	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	det	_	_
-6	κ.	κ.	PUNCT	PUNCT	_	7	amod	_	_
+6	κ.	κ.	NOUN	NOUN	_	7	amod	_	_
 7	Gahrton	Gahrton	NOUN	NOUN	_	4	nmod	_	_
 8	,	,	PUNCT	PUNCT	_	14	punct	_	_
 9	επειδή	επειδή	CONJ	CONJ	_	14	mark	_	_
@@ -2497,7 +2497,7 @@
 16	)	)	PUNCT	PUNCT	_	15	punct	_	_
 17	προσχώρησαν	προσχωρώ	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
 18	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	19	case	_	_
-19	ΕΕ.	ΕΕ.	PUNCT	PUNCT	_	17	advmod	_	_
+19	ΕΕ.	ΕΕ.	NOUN	NOUN	_	17	advmod	_	_
 
 # Πλέον οι αδιάθετες ποσότητες πατάτας Νευροκοπίου έχουν περιοριστεί σε 3.000 με 4.000 τόνους , και αναμένεται να εξαντληθούν τις επόμενες μέρες .  
 1	Πλέον	πλέον	ADV	ADV	_	8	advmod	_	_
@@ -2668,7 +2668,7 @@
 8	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	det	_	_
 9	έκθεσης	έκθεση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
 10	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	det	_	_
-11	κ.	κ.	PUNCT	PUNCT	_	12	amod	_	_
+11	κ.	κ.	NOUN	NOUN	_	12	amod	_	_
 12	Oostlander	Oostlander	NOUN	NOUN	_	9	nmod	_	_
 13	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
@@ -2724,7 +2724,7 @@
 19	αυτό	αυτός	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	18	det	_	_
 20	με	με	ADP	ADP	_	23	case	_	_
 21	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	23	det	_	_
-22	κ.	κ.	PUNCT	PUNCT	_	23	amod	_	_
+22	κ.	κ.	NOUN	NOUN	_	23	amod	_	_
 23	Hughes	Hughes	NOUN	NOUN	_	16	dobj	_	_
 24	-	-	PUNCT	PUNCT	_	16	punct	_	_
 25	όλες	όλος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	28	amod	_	_
@@ -2973,7 +2973,7 @@
 1	Μάλιστα	μάλιστα	ADV	ADV	_	6	advmod	_	_
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
 3	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	5	det	_	_
-4	Δρ.	Δρ.	PUNCT	PUNCT	_	5	amod	_	_
+4	Δρ.	Δρ.	NOUN	NOUN	_	5	amod	_	_
 5	Τέιλορ	Τέιλορ	NOUN	NOUN	_	6	nsubj	_	_
 6	επισημαίνει	επισημαίνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 7	,	,	PUNCT	PUNCT	_	13	punct	_	_
@@ -3055,7 +3055,7 @@
 7	Υπουργός	υπουργός	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
 8	Εξωτερικών	εξωτερικά	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
 9	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	10	det	_	_
-10	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	7	amod	_	_
+10	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	7	amod	_	_
 11	,	,	PUNCT	PUNCT	_	13	punct	_	_
 12	Χίλαρι	Χίλαρι	NOUN	NOUN	_	13	nmod	_	_
 13	Κλίντον	Κλίντον	NOUN	NOUN	_	7	appos	_	_
@@ -3179,7 +3179,7 @@
 3	λόγου	λόγος	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	πρόβαλε	προβάλλω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 5	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	6	det	_	_
-6	ΕΛΔΥΚ	ΕΛΔΥΚ	PUNCT	PUNCT	_	4	nsubj	_	_
+6	ΕΛΔΥΚ	ΕΛΔΥΚ	NOUN	NOUN	_	4	nsubj	_	_
 7	και	και	CONJ	CONJ	_	6	cc	_	_
 8	ορισμένα	ορισμένος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	9	amod	_	_
 9	σώματα	σώμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	6	conj	_	_
@@ -3288,7 +3288,7 @@
 5	οποίο	οποίος	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	6	nmod	_	_
 6	θέλουμε	θέλω	VERB	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	3	acl:relcl	_	_
 7	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	8	det	_	_
-8	ΜΜΕ	ΜΜΕ	PUNCT	PUNCT	_	6	dobj	_	_
+8	ΜΜΕ	ΜΜΕ	NOUN	NOUN	_	6	dobj	_	_
 9	να	να	PART	PART	_	11	aux	_	_
 10	είναι	είμαι	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	11	cop	_	_
 11	ανταγωνιστικές	ανταγωνιστικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	6	ccomp	_	_
@@ -3403,7 +3403,7 @@
 10	δεδομένου	δεδομένο	ADV	ADV	_	6	advmod	_	_
 11	ότι	ότι	CONJ	CONJ	_	15	mark	_	_
 12	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	det	_	_
-13	ΕΛΑΣ	ΕΛΑΣ	PUNCT	PUNCT	_	15	nsubj	_	_
+13	ΕΛΑΣ	ΕΛΑΣ	NOUN	NOUN	_	15	nsubj	_	_
 14	δεν	δεν	PART	PART	_	15	neg	_	_
 15	διέθετε	διαθέτω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	10	advcl	_	_
 16	αντιαεροπορικό	αντιαεροπορικός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	17	amod	_	_
@@ -3576,7 +3576,7 @@
 9	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	10	det	_	_
 10	εκτιμήσεις	εκτίμηση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	7	dobj	_	_
 11	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	det	_	_
-12	ΠΟΥ	ΠΟΥ	PUNCT	PUNCT	_	10	amod	_	_
+12	ΠΟΥ	ΠΟΥ	NOUN	NOUN	_	10	amod	_	_
 13	για	για	ADP	ADP	_	16	case	_	_
 14	τους	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	16	det	_	_
 15	υπάρχοντες	υπάρχων	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Plur	16	amod	_	_
@@ -3592,7 +3592,7 @@
 
 # Οι ΗΠΑ χρηματοδοτούν πρόγραμμα χαρτογράφησης του ανθρώπινου εγκεφάλου .  
 1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	2	det	_	_
-2	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	3	nsubj	_	_
+2	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	3	nsubj	_	_
 3	χρηματοδοτούν	χρηματοδοτώ	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 4	πρόγραμμα	πρόγραμμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	dobj	_	_
 5	χαρτογράφησης	χαρτογράφηση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
@@ -3915,7 +3915,7 @@
 16	δημόσια	δημόσιος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	17	amod	_	_
 17	τηλεόραση	τηλεόραση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	14	dobj	_	_
 18	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	19	det	_	_
-19	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	17	amod	_	_
+19	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	17	amod	_	_
 20	,	,	PUNCT	PUNCT	_	14	punct	_	_
 21	ότι	ότι	CONJ	CONJ	_	26	mark	_	_
 22	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	23	det	_	_
@@ -3925,7 +3925,7 @@
 26	ζητήσει	ζητώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Voice=Act	10	ccomp	_	_
 27	από	από	ADP	ADP	_	29	case	_	_
 28	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	29	det	_	_
-29	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	26	iobj	_	_
+29	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	26	iobj	_	_
 30	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	31	det	_	_
 31	έκδοση	έκδοση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	26	dobj	_	_
 32	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	33	case	_	_
@@ -3970,7 +3970,7 @@
 5	με	με	ADP	ADP	_	6	case	_	_
 6	τμήματα	τμήμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	4	nmod	_	_
 7	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	det	_	_
-8	ΕΛΑΣ	ΕΛΑΣ	PUNCT	PUNCT	_	6	amod	_	_
+8	ΕΛΑΣ	ΕΛΑΣ	NOUN	NOUN	_	6	amod	_	_
 9	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	10	det	_	_
 10	Οκτώβριο_του_1944	Οκτώβριο_του_1944	NOUN	NOUN	_	4	nmod	_	_
 11	,	,	PUNCT	PUNCT	_	4	punct	_	_
@@ -4005,7 +4005,7 @@
 19	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	20	det	_	_
 20	συστάσεων	σύσταση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	_
 21	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	22	det	_	_
-22	ΠΟΥ	ΠΟΥ	PUNCT	PUNCT	_	20	amod	_	_
+22	ΠΟΥ	ΠΟΥ	NOUN	NOUN	_	20	amod	_	_
 23	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # Η Αλόννησος πήρε το όνομά της στα πρώτα χρόνια της απελευθέρωσης της Ελλάδας .  
@@ -4027,7 +4027,7 @@
 # Απαντώντας στην κ. Hautala , θα ήθελα να πω ότι όσον αφορά το προδικαστικό ερώτημα το οποίο έχει παραπεμφθεί στο Δικαστήριο , η Επιτροπή έχει λάβει υπόψη τα συμπεράσματα του Γενικού Εισαγγελέα .  
 1	Απαντώντας	απαντώ	VERB	VERB	VerbForm=Part|Voice=Act	7	advcl	_	_
 2	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
-3	κ.	κ.	PUNCT	PUNCT	_	4	amod	_	_
+3	κ.	κ.	NOUN	NOUN	_	4	amod	_	_
 4	Hautala	Hautala	NOUN	NOUN	_	1	iobj	_	_
 5	,	,	PUNCT	PUNCT	_	1	punct	_	_
 6	θα	θα	PART	PART	_	7	aux	_	_
@@ -4347,7 +4347,7 @@
 2	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	4	det	_	_
 3	διπλωματικές	διπλωματικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	4	amod	_	_
 4	σχέσεις	σχέση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	_
-5	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	4	amod	_	_
+5	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	4	amod	_	_
 6	και	και	CONJ	CONJ	_	5	cc	_	_
 7	Σομαλίας	Σομαλία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	5	conj	_	_
 8	μετά	μετά	ADV	ADV	_	1	advmod	_	_
@@ -4523,7 +4523,7 @@
 6	ανθρωπιστικών	ανθρωπιστικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Plur	7	amod	_	_
 7	υπηρεσιών	υπηρεσία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
 8	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	det	_	_
-9	ΟΗΕ	ΟΗΕ	PUNCT	PUNCT	_	7	amod	_	_
+9	ΟΗΕ	ΟΗΕ	NOUN	NOUN	_	7	amod	_	_
 10	μπήκε	μπαίνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	_
 11	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	13	case	_	_
 12	Μπάμπα	Μπάμπα	NOUN	NOUN	_	13	nmod	_	_
@@ -4908,7 +4908,7 @@
 3	ευρωπαϊκές	ευρωπαϊκός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	4	amod	_	_
 4	κυρώσεις	κύρωση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	8	nmod	_	_
 5	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	6	det	_	_
-6	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	8	nsubj	_	_
+6	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	8	nsubj	_	_
 7	είχαν	έχω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	8	aux	_	_
 8	ανακοινώσει	ανακοινώνω	VERB	VERB	VerbForm=Inf|Voice=Act	0	root	_	_
 9	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur	10	det	_	_
@@ -5126,7 +5126,7 @@
 
 # Ο κ. Watson , ανέφερε μετά την έκθεση Di Lello ήδη ότι , παραθέτω : " τα κράτη μέλη οφείλουν να συμφωνήσουν σχετικά με κοινές ελάχιστες προδιαγραφές για διάφορες πτυχές της δικονομίας , προκειμένου να εξασφαλίσουν κοινό επίπεδο προστασίας των θεμελιωδών δικαιωμάτων στο σύνολο της ΕΕ " .  
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	det	_	_
-2	κ.	κ.	PUNCT	PUNCT	_	3	amod	_	_
+2	κ.	κ.	NOUN	NOUN	_	3	amod	_	_
 3	Watson	Watson	NOUN	NOUN	_	5	nsubj	_	_
 4	,	,	PUNCT	PUNCT	_	5	punct	_	_
 5	ανέφερε	αναφέρω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
@@ -5170,7 +5170,7 @@
 43	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	44	case	_	_
 44	σύνολο	σύνολο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	36	nmod	_	_
 45	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	46	det	_	_
-46	ΕΕ	ΕΕ	PUNCT	PUNCT	_	44	amod	_	_
+46	ΕΕ	ΕΕ	NOUN	NOUN	_	44	amod	_	_
 47	"	"	PUNCT	PUNCT	_	20	punct	_	_
 48	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
@@ -5201,7 +5201,7 @@
 24	πολιτικές	πολιτικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	25	amod	_	_
 25	δράσεις	δράση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	19	iobj	_	_
 26	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	27	det	_	_
-27	ΕΕ	ΕΕ	PUNCT	PUNCT	_	25	amod	_	_
+27	ΕΕ	ΕΕ	NOUN	NOUN	_	25	amod	_	_
 28	,	,	PUNCT	PUNCT	_	32	punct	_	_
 29	ούτως	ούτως	ADV	ADV	_	30	advmod	_	_
 30	ώστε	ώστε	CONJ	CONJ	_	32	mark	_	_
@@ -5448,7 +5448,7 @@
 1	Έτσι	έτσι	ADV	ADV	_	7	advmod	_	_
 2	,	,	PUNCT	PUNCT	_	7	punct	_	_
 3	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	4	det	_	_
-4	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	7	nsubj	_	_
+4	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	7	nsubj	_	_
 5	έγιναν	γίνομαι	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass	7	cop	_	_
 6	πολύ	πολύ	ADV	ADV	_	7	advmod	_	_
 7	εχθρικές	εχθρικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	0	root	_	_
@@ -5501,7 +5501,7 @@
 2	να	να	PART	PART	_	3	aux	_	_
 3	απαντήσω	απαντώ	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Voice=Act	11	advcl	_	_
 4	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	6	case	_	_
-5	κ.	κ.	PUNCT	PUNCT	_	6	amod	_	_
+5	κ.	κ.	NOUN	NOUN	_	6	amod	_	_
 6	Schφrling	Schφrling	NOUN	NOUN	_	3	iobj	_	_
 7	,	,	PUNCT	PUNCT	_	3	punct	_	_
 8	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	det	_	_
@@ -5568,7 +5568,7 @@
 7	αρχίζει	αρχίζω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 8	στα	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Plur	9	case	_	_
 9	360/359	360/359	NUM	NUM	_	7	nmod	_	_
-10	π.Χ.	π.Χ.	PUNCT	PUNCT	_	9	amod	_	_
+10	π.Χ.	π.Χ.	NOUN	NOUN	_	9	amod	_	_
 11	όταν	όταν	CONJ	CONJ	_	16	mark	_	_
 12	άποικοι	άποικος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
 13	από	από	ADP	ADP	_	15	case	_	_
@@ -5960,7 +5960,7 @@
 12	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	det	_	_
 13	αποστολής	αποστολή	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
 14	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	15	det	_	_
-15	ΝΑΤΟ	ΝΑΤΟ	PUNCT	PUNCT	_	13	amod	_	_
+15	ΝΑΤΟ	ΝΑΤΟ	NOUN	NOUN	_	13	amod	_	_
 16	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	17	case	_	_
 17	Αφγανιστάν	Αφγανιστάν	NOUN	NOUN	_	11	nmod	_	_
 18	αποτελεί	αποτελώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	19	cop	_	_
@@ -6034,7 +6034,7 @@
 1	Συγχαίρω	συγχαίρω	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
 2	θερμά	θερμός	ADV	ADV	_	1	advmod	_	_
 3	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	det	_	_
-4	κ.	κ.	PUNCT	PUNCT	_	6	amod	_	_
+4	κ.	κ.	NOUN	NOUN	_	6	amod	_	_
 5	von	von	NOUN	NOUN	_	6	nmod	_	_
 6	Wogau	Wogau	NOUN	NOUN	_	1	dobj	_	_
 7	,	,	PUNCT	PUNCT	_	9	punct	_	_
@@ -6211,7 +6211,7 @@
 45	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	46	det	_	_
 46	συμβάσεων	σύμβαση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	44	nmod	_	_
 47	στις	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Plur	48	case	_	_
-48	ΜΜΕ	ΜΜΕ	PUNCT	PUNCT	_	43	iobj	_	_
+48	ΜΜΕ	ΜΜΕ	NOUN	NOUN	_	43	iobj	_	_
 49	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 # Οποιεσδήποτε ρυθμίσεις εγκρίνει η επιτροπή θα συνεχίσουν να ισχύουν ακόμη και αν οι αρμοδιότητές της ανασταλούν , αλλά το Κοινοβούλιο μπορεί να χτυπήσει το χέρι στο τραπέζι , αν χρειαστεί .  
@@ -6479,7 +6479,7 @@
 24	τους	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	25	det	_	_
 25	στόχους	στόχος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	22	nmod	_	_
 26	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	28	det	_	_
-27	κ.	κ.	PUNCT	PUNCT	_	28	amod	_	_
+27	κ.	κ.	NOUN	NOUN	_	28	amod	_	_
 28	Corbett	Corbett	NOUN	NOUN	_	25	nmod	_	_
 29	χωρίς	χωρίς	ADP	ADP	_	31	case	_	_
 30	να	να	PART	PART	_	31	aux	_	_
@@ -6659,7 +6659,7 @@
 6	συνολικού	συνολικός	ADJ	ADJ	Case=Gen|Gender=Neut|Number=Sing	7	amod	_	_
 7	μήκους	μήκος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
 8	115	115	NUM	NUM	_	9	nmod	_	_
-9	χλμ.	χλμ.	PUNCT	PUNCT	_	7	amod	_	_
+9	χλμ.	χλμ.	NOUN	NOUN	_	7	amod	_	_
 10	-	-	PUNCT	PUNCT	_	7	punct	_	_
 11	κάποιες	κάποιος	PRON	PRON	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	16	nsubj	_	_
 12	από	από	ADP	ADP	_	14	case	_	_
@@ -6767,9 +6767,9 @@
 17	από	από	ADP	ADP	_	19	case	_	_
 18	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	19	det	_	_
 19	Σύνοδο	σύνοδος	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	25	nmod	_	_
-20	Ε.Ε.	Ε.Ε.	PUNCT	PUNCT	_	19	amod	_	_
+20	Ε.Ε.	Ε.Ε.	NOUN	NOUN	_	19	amod	_	_
 21	-	-	PUNCT	PUNCT	_	19	punct	_	_
-22	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	19	amod	_	_
+22	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	19	amod	_	_
 23	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	24	case	_	_
 24	Πράγα	Πράγα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	25	nmod	_	_
 25	μίλησε	μιλώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	11	acl:relcl	_	_
@@ -6924,7 +6924,7 @@
 4	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	5	det	_	_
 5	παρατηρήσεις	παρατήρηση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	3	dobj	_	_
 6	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	det	_	_
-7	κ.	κ.	PUNCT	PUNCT	_	8	amod	_	_
+7	κ.	κ.	NOUN	NOUN	_	8	amod	_	_
 8	MacCormick	MacCormick	NOUN	NOUN	_	5	nmod	_	_
 9	διότι	διότι	CONJ	CONJ	_	11	mark	_	_
 10	μου	εγώ	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	11	dobj	_	_
@@ -6953,13 +6953,13 @@
 5	ευχαριστήσω	ευχαριστώ	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Voice=Act	2	ccomp	_	_
 6	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	det	_	_
 7	αντιπρόεδρο	αντιπρόεδρος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	5	dobj	_	_
-8	κ.	κ.	PUNCT	PUNCT	_	9	amod	_	_
+8	κ.	κ.	NOUN	NOUN	_	9	amod	_	_
 9	Friedrich	Friedrich	NOUN	NOUN	_	7	nmod	_	_
 10	και	και	CONJ	CONJ	_	7	cc	_	_
 11	κυρίως	κυρίως	ADV	ADV	_	13	advmod	_	_
 12	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	13	det	_	_
 13	εισηγητή	εισηγητής	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	7	conj	_	_
-14	κ.	κ.	PUNCT	PUNCT	_	15	amod	_	_
+14	κ.	κ.	NOUN	NOUN	_	15	amod	_	_
 15	Hughes	Hughes	NOUN	NOUN	_	13	nmod	_	_
 16	για	για	ADP	ADP	_	19	case	_	_
 17	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	19	det	_	_
@@ -7092,7 +7092,7 @@
 12	,	,	PUNCT	PUNCT	_	15	punct	_	_
 13	στα	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Plur	15	case	_	_
 14	17	17	NUM	NUM	_	15	nmod	_	_
-15	χλμ.	χλμ.	PUNCT	PUNCT	_	5	amod	_	_
+15	χλμ.	χλμ.	NOUN	NOUN	_	5	amod	_	_
 16	από	από	ADP	ADP	_	18	case	_	_
 17	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	18	det	_	_
 18	Καβάλα	Καβάλα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	15	nmod	_	_
@@ -7133,7 +7133,7 @@
 4	δεκάδες	δεκάδα	NUM	NUM	Case=Acc|Gender=Fem|Number=Plur	5	nummod	_	_
 5	νεκρούς	νεκρός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	3	dobj	_	_
 6	στις	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Plur	7	case	_	_
-7	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	3	advmod	_	_
+7	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	3	advmod	_	_
 
 # Γιατί να πρέπει να κάνει και κάτι άλλο ;  
 1	Γιατί	γιατί	ADV	ADV	_	3	advmod	_	_
@@ -7507,7 +7507,7 @@
 23	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	24	det	_	_
 24	αιγίδα	αιγίδα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	17	nmod	_	_
 25	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	26	det	_	_
-26	ΟΗΕ	ΟΗΕ	PUNCT	PUNCT	_	24	amod	_	_
+26	ΟΗΕ	ΟΗΕ	NOUN	NOUN	_	24	amod	_	_
 27	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
 # Η πρόταση αυτή δεν είναι ΟΛΗ η ευρωπαϊκή πολιτική για τα ναρκωτικά : η πρόταση αυτή αφορά μόνο μία ειδική συνιστώσα που σχετίζεται με την καταπολέμηση της διακίνησης ναρκωτικών .  
@@ -7736,7 +7736,7 @@
 4	απαντήσω	απαντώ	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Voice=Act	2	ccomp	_	_
 5	και	και	CONJ	CONJ	_	6	cc	_	_
 6	στον	στου	ADP	ADP	Case=Acc|Gender=Masc|Number=Sing	8	case	_	_
-7	κ.	κ.	PUNCT	PUNCT	_	8	amod	_	_
+7	κ.	κ.	NOUN	NOUN	_	8	amod	_	_
 8	Lehne	Lehne	NOUN	NOUN	_	4	iobj	_	_
 9	αλλά	αλλά	CONJ	CONJ	_	2	cc	_	_
 10	,	,	PUNCT	PUNCT	_	12	punct	_	_
@@ -8358,7 +8358,7 @@
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	det	_	_
 2	Πρόεδρος	πρόεδρος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
 3	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	4	det	_	_
-4	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	2	amod	_	_
+4	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	2	amod	_	_
 5	,	,	PUNCT	PUNCT	_	7	punct	_	_
 6	Μπαράκ	Μπαράκ	NOUN	NOUN	_	7	nmod	_	_
 7	Ομπάμα	Ομπάμα	NOUN	NOUN	_	2	appos	_	_
@@ -8451,7 +8451,7 @@
 7	σημείωσαν	σημειώνω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	5	acl:relcl	_	_
 8	και	και	CONJ	CONJ	_	10	cc	_	_
 9	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	10	det	_	_
-10	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	7	nsubj	_	_
+10	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	7	nsubj	_	_
 11	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	13	case	_	_
 12	ίδια	ίδιος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	13	amod	_	_
 13	έκθεση	έκθεση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	_
@@ -8841,7 +8841,7 @@
 26	που	που	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel	27	dobj	_	_
 27	αξιώνουν	αξιώνω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	25	acl:relcl	_	_
 28	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	29	det	_	_
-29	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	27	nsubj	_	_
+29	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	27	nsubj	_	_
 30	να	να	PART	PART	_	31	aux	_	_
 31	δοθεί	δίνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Voice=Pass	27	ccomp	_	_
 32	από	από	ADP	ADP	_	34	case	_	_
@@ -8990,7 +8990,7 @@
 3	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur	4	det	_	_
 4	λόγια	λόγος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	1	dobj	_	_
 5	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	det	_	_
-6	κ.	κ.	PUNCT	PUNCT	_	7	amod	_	_
+6	κ.	κ.	NOUN	NOUN	_	7	amod	_	_
 7	Watson	Watson	NOUN	NOUN	_	4	nmod	_	_
 8	και	και	CONJ	CONJ	_	1	cc	_	_
 9	ζητώ	ζητώ	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	1	conj	_	_
@@ -10057,7 +10057,7 @@
 # Απαντώντας στον κ. Zappalΰ , θα ήθελα να πω ότι ο τρέχων ορισμός των συμβάσεων έργου καθορίζει ρητά ότι οι συμβάσεις αυτές μπορεί να καλύπτουν μόνο την κατασκευή ή την κατασκευή και τη μελέτη .  
 1	Απαντώντας	απαντώ	VERB	VERB	VerbForm=Part|Voice=Act	7	advcl	_	_
 2	στον	στου	ADP	ADP	Case=Acc|Gender=Masc|Number=Sing	4	case	_	_
-3	κ.	κ.	PUNCT	PUNCT	_	4	amod	_	_
+3	κ.	κ.	NOUN	NOUN	_	4	amod	_	_
 4	Zappalΰ	Zappalΰ	NOUN	NOUN	_	1	iobj	_	_
 5	,	,	PUNCT	PUNCT	_	1	punct	_	_
 6	θα	θα	PART	PART	_	7	aux	_	_
@@ -10156,7 +10156,7 @@
 15	από	από	ADP	ADP	_	16	case	_	_
 16	χώρες	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	14	nmod	_	_
 17	εκτός	εκτός	ADV	ADV	_	18	case	_	_
-18	ΕΕ	ΕΕ	PUNCT	PUNCT	_	16	advmod	_	_
+18	ΕΕ	ΕΕ	NOUN	NOUN	_	16	advmod	_	_
 19	αφενός	αφενός	ADV	ADV	_	14	cc	_	_
 20	και	και	CONJ	CONJ	_	14	cc	_	_
 21	σε	σε	ADP	ADP	_	22	case	_	_
@@ -10165,7 +10165,7 @@
 24	κράτη	κράτος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	22	nmod	_	_
 25	μέλη	μέλος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	24	nmod	_	_
 26	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	27	det	_	_
-27	ΕΕ	ΕΕ	PUNCT	PUNCT	_	24	amod	_	_
+27	ΕΕ	ΕΕ	NOUN	NOUN	_	24	amod	_	_
 28	αφετέρου	αφετέρου	ADV	ADV	_	14	cc	_	_
 29	θα	θα	PART	PART	_	30	aux	_	_
 30	πρέπει	πρέπει	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	ccomp	_	_
@@ -10236,7 +10236,7 @@
 7	Σύνορα	σύνορο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	5	nmod	_	_
 8	"	"	PUNCT	PUNCT	_	5	punct	_	_
 9	στις	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Plur	10	case	_	_
-10	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	2	amod	_	_
+10	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	2	amod	_	_
 11	,	,	PUNCT	PUNCT	_	12	punct	_	_
 12	Ντελφίν	Ντελφίν	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
 13	Χολγκάντ	Χολγκάντ	NOUN	NOUN	_	12	nmod	_	_
@@ -10247,7 +10247,7 @@
 18	της	μου	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nmod	_	_
 19	προς	προς	ADP	ADP	_	21	case	_	_
 20	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	21	det	_	_
-21	ΦτΑ	ΦτΑ	PUNCT	PUNCT	_	17	amod	_	_
+21	ΦτΑ	ΦτΑ	NOUN	NOUN	_	17	amod	_	_
 22	ότι	ότι	CONJ	CONJ	_	28	mark	_	_
 23	"	"	PUNCT	PUNCT	_	28	punct	_	_
 24	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	25	det	_	_
@@ -10308,7 +10308,7 @@
 9	Τεπέ	τεπές	NOUN	NOUN	_	6	conj	_	_
 10	(	(	PUNCT	PUNCT	_	12	punct	_	_
 11	1956	1956μ	NUM	NUM	_	12	nmod	_	_
-12	μ.	μ.	PUNCT	PUNCT	_	6	amod	_	_
+12	μ.	μ.	NOUN	NOUN	_	6	amod	_	_
 13	)	)	PUNCT	PUNCT	_	12	punct	_	_
 14	,	,	PUNCT	PUNCT	_	15	punct	_	_
 15	περιοχή	περιοχή	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	6	appos	_	_
@@ -10745,7 +10745,7 @@
 3	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	det	_	_
 4	συνάδελφός	συνάδελφος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 5	μου	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nmod	_	_
-6	κ.	κ.	PUNCT	PUNCT	_	7	amod	_	_
+6	κ.	κ.	NOUN	NOUN	_	7	amod	_	_
 7	Kinnock	Kinnock	NOUN	NOUN	_	4	nmod	_	_
 8	,	,	PUNCT	PUNCT	_	2	punct	_	_
 9	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	10	det	_	_
@@ -11318,7 +11318,7 @@
 14	,	,	PUNCT	PUNCT	_	9	punct	_	_
 15	ψηφίζοντας	ψηφίζω	VERB	VERB	VerbForm=Part|Voice=Act	1	advcl	_	_
 16	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	18	det	_	_
-17	κ.	κ.	PUNCT	PUNCT	_	18	amod	_	_
+17	κ.	κ.	NOUN	NOUN	_	18	amod	_	_
 18	Bonde	Bonde	NOUN	NOUN	_	15	dobj	_	_
 19	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	20	det	_	_
 20	γραφείου	γραφείο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
@@ -11360,7 +11360,7 @@
 7	ότι	ότι	CONJ	CONJ	_	12	mark	_	_
 8	«	«	PUNCT	PUNCT	_	12	punct	_	_
 9	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	10	det	_	_
-10	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	12	nsubj	_	_
+10	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	12	nsubj	_	_
 11	θα	θα	PART	PART	_	12	aux	_	_
 12	διατηρούν	διατηρώ	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	6	ccomp	_	_
 13	και	και	CONJ	CONJ	_	15	cc	_	_
@@ -12199,11 +12199,11 @@
 2	να	να	PART	PART	_	3	aux	_	_
 3	απαντήσω	απαντώ	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Voice=Act	12	advcl	_	_
 4	στον	στου	ADP	ADP	Case=Acc|Gender=Masc|Number=Sing	6	case	_	_
-5	κ.	κ.	PUNCT	PUNCT	_	6	amod	_	_
+5	κ.	κ.	NOUN	NOUN	_	6	amod	_	_
 6	Rapkay	Rapkay	NOUN	NOUN	_	3	iobj	_	_
 7	και	και	CONJ	CONJ	_	6	cc	_	_
 8	στον	στου	ADP	ADP	Case=Acc|Gender=Masc|Number=Sing	10	case	_	_
-9	κ.	κ.	PUNCT	PUNCT	_	10	amod	_	_
+9	κ.	κ.	NOUN	NOUN	_	10	amod	_	_
 10	Hughes	Hughes	NOUN	NOUN	_	6	conj	_	_
 11	,	,	PUNCT	PUNCT	_	3	punct	_	_
 12	σκοπός	σκοπός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
@@ -12373,7 +12373,7 @@
 15	στοιχεία	στοιχείο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	19	nsubj	_	_
 16	από	από	ADP	ADP	_	18	case	_	_
 17	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	18	det	_	_
-18	ΕΣΣΔ	ΕΣΣΔ	PUNCT	PUNCT	_	15	amod	_	_
+18	ΕΣΣΔ	ΕΣΣΔ	NOUN	NOUN	_	15	amod	_	_
 19	έδειξαν	δείχνω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	10	advcl	_	_
 20	ότι	ότι	CONJ	CONJ	_	30	mark	_	_
 21	ίσως	ίσως	ADV	ADV	_	30	advmod	_	_
@@ -12669,7 +12669,7 @@
 8	ορίου	όριο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
 9	χρέους	χρέος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
 10	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	11	det	_	_
-11	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	8	amod	_	_
+11	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	8	amod	_	_
 12	και	και	CONJ	CONJ	_	4	cc	_	_
 13	απομακρύνει	απομακρύνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	conj	_	_
 14	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	15	det	_	_
@@ -12905,10 +12905,10 @@
 5	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	6	case	_	_
 6	παρελθόν	παρελθόν	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	4	nmod	_	_
 7	στις	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Plur	8	case	_	_
-8	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	4	iobj	_	_
+8	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	4	iobj	_	_
 9	και	και	CONJ	CONJ	_	8	cc	_	_
 10	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	11	case	_	_
-11	ΝΑΤΟ	ΝΑΤΟ	PUNCT	PUNCT	_	8	conj	_	_
+11	ΝΑΤΟ	ΝΑΤΟ	NOUN	NOUN	_	8	conj	_	_
 12	να	να	PART	PART	_	13	aux	_	_
 13	χρησιμοποιήσουν	χρησιμοποιώ	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Voice=Act	4	ccomp	_	_
 14	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	16	det	_	_
@@ -13044,7 +13044,7 @@
 
 # 470 χλμ.  
 1	470	470	NUM	NUM	_	2	nmod	_	_
-2	χλμ.	χλμ.	PUNCT	PUNCT	_	0	root	_	_
+2	χλμ.	χλμ.	NOUN	NOUN	_	0	root	_	_
 
 # Τούτο σημαίνει ότι πρέπει να υψώνουμε τη φωνή μας όταν παραβιάζονται τα ανθρώπινα δικαιώματα .  
 1	Τούτο	τούτος	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
@@ -13819,7 +13819,7 @@
 8	δρόμος	δρόμος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
 9	μήκους	μήκος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
 10	90	90	NUM	NUM	_	11	nmod	_	_
-11	χλμ.	χλμ.	PUNCT	PUNCT	_	9	amod	_	_
+11	χλμ.	χλμ.	NOUN	NOUN	_	9	amod	_	_
 12	,	,	PUNCT	PUNCT	_	2	punct	_	_
 13	ενώ	ενώ	CONJ	CONJ	_	2	cc	_	_
 14	συντομεύεται	συντομεύω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	2	conj	_	_
@@ -13843,7 +13843,7 @@
 3	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	det	_	_
 4	εμπάργκο	εμπάργκο	NOUN	NOUN	_	2	nmod	_	_
 5	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	det	_	_
-6	ΟΗΕ	ΟΗΕ	PUNCT	PUNCT	_	4	amod	_	_
+6	ΟΗΕ	ΟΗΕ	NOUN	NOUN	_	4	amod	_	_
 7	και	και	CONJ	CONJ	_	2	cc	_	_
 8	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	det	_	_
 9	παύση	παύση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	_
@@ -13852,7 +13852,7 @@
 12	ασκήσεων	άσκηση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	_
 13	από	από	ADP	ADP	_	16	case	_	_
 14	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	15	det	_	_
-15	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	9	amod	_	_
+15	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	9	amod	_	_
 16	και	και	CONJ	CONJ	_	15	cc	_	_
 17	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	19	det	_	_
 18	Νότια	νότιος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	19	amod	_	_
@@ -14860,7 +14860,7 @@
 1	Νομίζω	νομίζω	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
 2	ότι	ότι	CONJ	CONJ	_	7	mark	_	_
 3	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	det	_	_
-4	κ.	κ.	PUNCT	PUNCT	_	5	amod	_	_
+4	κ.	κ.	NOUN	NOUN	_	5	amod	_	_
 5	Επίτροπος	επίτροπος	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
 6	θα	θα	PART	PART	_	7	aux	_	_
 7	πρέπει	πρέπει	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	ccomp	_	_
@@ -15110,7 +15110,7 @@
 21	χώρες	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	19	nmod	_	_
 22	εκτός	εκτός	ADV	ADV	_	24	case	_	_
 23	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	24	det	_	_
-24	ΕΕ	ΕΕ	PUNCT	PUNCT	_	21	advmod	_	_
+24	ΕΕ	ΕΕ	NOUN	NOUN	_	21	advmod	_	_
 25	,	,	PUNCT	PUNCT	_	27	punct	_	_
 26	εάν	αν	CONJ	CONJ	_	27	mark	_	_
 27	λάβουμε	λαμβάνω	VERB	VERB	Mood=Ind|Number=Plur|Person=1|Voice=Act	14	advcl	_	_
@@ -15147,7 +15147,7 @@
 16	Υπουργό	υπουργός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	12	iobj	_	_
 17	Εξωτερικών	εξωτερικά	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	16	nmod	_	_
 18	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	19	det	_	_
-19	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	16	amod	_	_
+19	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	16	amod	_	_
 20	,	,	PUNCT	PUNCT	_	22	punct	_	_
 21	Χίλαρι	Χίλαρι	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	22	nmod	_	_
 22	Κλίντον	Κλίντον	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	16	nmod	_	_
@@ -15225,7 +15225,7 @@
 15	οποίος	οποίος	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	16	nsubj	_	_
 16	βρίσκεται	βρίσκω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	12	acl:relcl	_	_
 17	στις	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Plur	18	case	_	_
-18	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	16	advmod	_	_
+18	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	16	advmod	_	_
 19	με	με	ADP	ADP	_	20	case	_	_
 20	άδεια	άδεια	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	16	nmod	_	_
 21	παραμονής	παραμονή	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
@@ -15372,7 +15372,7 @@
 21	»	»	PUNCT	PUNCT	_	5	punct	_	_
 22	δήλωσε	δηλώνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 23	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	25	det	_	_
-24	κ.	κ.	PUNCT	PUNCT	_	25	amod	_	_
+24	κ.	κ.	NOUN	NOUN	_	25	amod	_	_
 25	Σουφλιάς	Σουφλιάς	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
 26	.	.	PUNCT	PUNCT	_	22	punct	_	_
 
@@ -15614,7 +15614,7 @@
 16	στους	στου	ADP	ADP	Case=Acc|Gender=Masc|Number=Plur	17	case	_	_
 17	αντάρτες	αντάρτης	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	15	nmod	_	_
 18	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	19	det	_	_
-19	ΕΛΑΣ	ΕΛΑΣ	PUNCT	PUNCT	_	17	amod	_	_
+19	ΕΛΑΣ	ΕΛΑΣ	NOUN	NOUN	_	17	amod	_	_
 20	και	και	CONJ	CONJ	_	17	cc	_	_
 21	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	22	det	_	_
 22	δυνάμεις	δύναμη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	17	conj	_	_
@@ -15802,7 +15802,7 @@
 13	συνθήκες	συνθήκη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	10	dobj	_	_
 14	,	,	PUNCT	PUNCT	_	6	punct	_	_
 15	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	16	det	_	_
-16	ΕΕ	ΕΕ	PUNCT	PUNCT	_	17	nsubj	_	_
+16	ΕΕ	ΕΕ	NOUN	NOUN	_	17	nsubj	_	_
 17	οφείλει	οφείλω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 18	να	να	PART	PART	_	21	aux	_	_
 19	είναι	είμαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	21	cop	_	_
@@ -16083,7 +16083,7 @@
 3	ήττα	ήττα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	_
 4	του	μου	PRON	PRON	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 5	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	det	_	_
-6	ΕΑΜ-ΕΛΑΣ	ΕΑΜ-ΕΛΑΣ	PUNCT	PUNCT	_	7	nsubj	_	_
+6	ΕΑΜ-ΕΛΑΣ	ΕΑΜ-ΕΛΑΣ	NOUN	NOUN	_	7	nsubj	_	_
 7	αποχώρησε	αποχωρώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 8	από	από	ADP	ADP	_	10	case	_	_
 9	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	10	det	_	_
@@ -16140,7 +16140,7 @@
 
 # 684 χλμ.  
 1	684	684	NUM	NUM	_	2	nmod	_	_
-2	χλμ.	χλμ.	PUNCT	PUNCT	_	0	root	_	_
+2	χλμ.	χλμ.	NOUN	NOUN	_	0	root	_	_
 
 # Τα κτίριά μας δεν είναι προετοιμασμένα για κάτι τέτοιο .  
 1	Τα	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	2	det	_	_
@@ -16303,7 +16303,7 @@
 12	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	13	det	_	_
 13	κυβέρνηση	κυβέρνηση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	_
 14	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	15	det	_	_
-15	ΗΒ	ΗΒ	PUNCT	PUNCT	_	13	amod	_	_
+15	ΗΒ	ΗΒ	NOUN	NOUN	_	13	amod	_	_
 16	,	,	PUNCT	PUNCT	_	10	punct	_	_
 17	αποκαλύπτει	αποκαλύπτω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 18	ότι	ότι	CONJ	CONJ	_	21	mark	_	_
@@ -16702,7 +16702,7 @@
 
 # 188 χλμ.  
 1	188	188	NUM	NUM	_	2	nmod	_	_
-2	χλμ.	χλμ.	PUNCT	PUNCT	_	0	root	_	_
+2	χλμ.	χλμ.	NOUN	NOUN	_	0	root	_	_
 
 # Είναι γνωστό ότι έχει σκοτώσει 29.000 Εβραίους .  
 1	Είναι	είμαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	2	cop	_	_
@@ -17409,7 +17409,7 @@
 59	θα	θα	PART	PART	_	60	aux	_	_
 60	έλεγα	λέγω	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	41	dep	_	_
 61	στον	στου	ADP	ADP	Case=Acc|Gender=Masc|Number=Sing	63	case	_	_
-62	κ.	κ.	PUNCT	PUNCT	_	63	amod	_	_
+62	κ.	κ.	NOUN	NOUN	_	63	amod	_	_
 63	Blockland	Blockland	NOUN	NOUN	_	60	iobj	_	_
 64	,	,	PUNCT	PUNCT	_	60	punct	_	_
 65	στον	στου	ADP	ADP	Case=Acc|Gender=Masc|Number=Sing	66	case	_	_
@@ -17418,7 +17418,7 @@
 68	Θεμελιωδών	θεμελιώδης	ADJ	ADJ	Case=Gen|Gender=Neut|Number=Plur	69	amod	_	_
 69	Δικαιωμάτων	δικαίωμα	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	66	nmod	_	_
 70	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	71	det	_	_
-71	ΕΕ	ΕΕ	PUNCT	PUNCT	_	69	amod	_	_
+71	ΕΕ	ΕΕ	NOUN	NOUN	_	69	amod	_	_
 
 # Με το σλόγκαν « Για τους πραγματικούς φίλους μετρά μόνο η εμπιστοσύνη » ξεκίνησε εκστρατεία προώθησης του τουριστικού προϊόντος της Ελλάδος από έξι μεγάλους « tour operators » της Γερμανίας .  
 1	Με	με	ADP	ADP	_	3	case	_	_
@@ -17577,7 +17577,7 @@
 10	Βουλγαρία	Βουλγαρία	NOUN	NOUN	_	7	conj	_	_
 11	προσχώρησαν	προσχωρώ	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
 12	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	13	case	_	_
-13	ΕΕ	ΕΕ	PUNCT	PUNCT	_	11	advmod	_	_
+13	ΕΕ	ΕΕ	NOUN	NOUN	_	11	advmod	_	_
 14	και	και	CONJ	CONJ	_	11	cc	_	_
 15	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	16	det	_	_
 16	ευρώ	ευρώ	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	_
@@ -17672,7 +17672,7 @@
 16	Συνέλευσης	συνέλευση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
 17	Ίσης	ίσος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	18	amod	_	_
 18	Εκπροσώπησης	εκπροσώπηση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
-19	ΑΚΕ/ΕΕ	ΑΚΕ/ΕΕ	PUNCT	PUNCT	_	18	amod	_	_
+19	ΑΚΕ/ΕΕ	ΑΚΕ/ΕΕ	NOUN	NOUN	_	18	amod	_	_
 20	που	που	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel	21	nsubj	_	_
 21	διεξήχθη	διεξάγω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	14	acl:relcl	_	_
 22	στις	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Plur	23	case	_	_
@@ -18009,7 +18009,7 @@
 5	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	det	_	_
 6	Πρόεδρος	πρόεδρος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
 7	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	8	det	_	_
-8	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	6	amod	_	_
+8	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	6	amod	_	_
 9	,	,	PUNCT	PUNCT	_	11	punct	_	_
 10	Μπαράκ	Μπαράκ	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	11	nmod	_	_
 11	Ομπάμα	Ομπάμα	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	6	appos	_	_
@@ -18091,14 +18091,14 @@
 2	περίοδο	περίοδος	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	_
 3	1943-44	1943-44	NOUN	NOUN	_	2	nmod	_	_
 4	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	5	det	_	_
-5	ΕΛΑΣ	ΕΛΑΣ	PUNCT	PUNCT	_	6	nsubj	_	_
+5	ΕΛΑΣ	ΕΛΑΣ	NOUN	NOUN	_	6	nsubj	_	_
 6	συγκρούστηκε	συγκρούομαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
 7	με	με	ADP	ADP	_	10	case	_	_
 8	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	9	det	_	_
-9	ΕΔΕΣ	ΕΔΕΣ	PUNCT	PUNCT	_	6	dobj	_	_
+9	ΕΔΕΣ	ΕΔΕΣ	NOUN	NOUN	_	6	dobj	_	_
 10	και	και	CONJ	CONJ	_	9	cc	_	_
 11	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	12	det	_	_
-12	ΕΚΚΑ	ΕΚΚΑ	PUNCT	PUNCT	_	9	conj	_	_
+12	ΕΚΚΑ	ΕΚΚΑ	NOUN	NOUN	_	9	conj	_	_
 13	εν	εν	ADP	ADP	_	14	case	_	_
 14	μέσω	μέσο	NOUN	NOUN	Case=Dat|Gender=Neut|Number=Sing	6	nmod	_	_
 15	γερμανικής	γερμανικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	16	amod	_	_
@@ -18110,7 +18110,7 @@
 2	πρόβλημα	πρόβλημα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
 3	με	με	ADP	ADP	_	5	case	_	_
 4	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	det	_	_
-5	ΣΕΒ	ΣΕΒ	PUNCT	PUNCT	_	2	amod	_	_
+5	ΣΕΒ	ΣΕΒ	NOUN	NOUN	_	2	amod	_	_
 6	είναι	είμαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	11	cop	_	_
 7	ότι	ότι	CONJ	CONJ	_	11	mark	_	_
 8	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	det	_	_
@@ -18131,7 +18131,7 @@
 5	χώρες	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	24	nmod	_	_
 6	-	-	PUNCT	PUNCT	_	11	punct	_	_
 7	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	10	det	_	_
-8	κ.	κ.	PUNCT	PUNCT	_	10	amod	_	_
+8	κ.	κ.	NOUN	NOUN	_	10	amod	_	_
 9	Carlos	Carlos	NOUN	NOUN	_	10	nmod	_	_
 10	Coelho	Coelho	NOUN	NOUN	_	11	nsubj	_	_
 11	ανέφερε	αναφέρω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	1	dep	_	_
@@ -18197,7 +18197,7 @@
 24	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 # ΗΠΑ : Προκαταρκτική συμφωνία για το δημοσιονομικό γκρεμό .  
-1	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	0	root	_	_
+1	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	0	root	_	_
 2	:	:	PUNCT	PUNCT	_	1	punct	_	_
 3	Προκαταρκτική	προκαταρκτικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
 4	συμφωνία	συμφωνία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	conj	_	_
@@ -18511,7 +18511,7 @@
 1	Πάντως	πάντως	ADV	ADV	_	20	advmod	_	_
 2	και	και	CONJ	CONJ	_	3	cc	_	_
 3	στις	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Plur	4	case	_	_
-4	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	20	remnant	_	_
+4	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	20	remnant	_	_
 5	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur	7	det	_	_
 6	απανωτά	απανωτός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	7	amod	_	_
 7	προβλήματα	πρόβλημα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	20	nsubj	_	_
@@ -18532,7 +18532,7 @@
 22	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	23	det	_	_
 23	Αρχές	αρχή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	20	dobj	_	_
 24	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	25	det	_	_
-25	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	23	amod	_	_
+25	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	23	amod	_	_
 26	να	να	PART	PART	_	27	aux	_	_
 27	ξεκινήσουν	ξεκινώ	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Voice=Act	20	ccomp	_	_
 28	διερεύνηση	διερεύνηση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	27	dobj	_	_
@@ -18666,7 +18666,7 @@
 18	εισηγητή	εισηγητής	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
 19	μας	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	18	nmod	_	_
 20	,	,	PUNCT	PUNCT	_	22	punct	_	_
-21	κ.	κ.	PUNCT	PUNCT	_	22	amod	_	_
+21	κ.	κ.	NOUN	NOUN	_	22	amod	_	_
 22	Grosch	Grosch	NOUN	NOUN	_	18	appos	_	_
 23	,	,	PUNCT	PUNCT	_	24	punct	_	_
 24	επιτρέπει	επιτρέπω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	ccomp	_	_
@@ -18780,14 +18780,14 @@
 3	κατηγορία	κατηγορία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
 4	εναντίον	εναντίον	ADP	ADP	_	3	case	_	_
 5	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	det	_	_
-6	κ.	κ.	PUNCT	PUNCT	_	7	amod	_	_
+6	κ.	κ.	NOUN	NOUN	_	7	amod	_	_
 7	Pasqua	Pasqua	NOUN	NOUN	_	4	nmod	_	_
 8	,	,	PUNCT	PUNCT	_	1	punct	_	_
 9	αλλά	αλλά	CONJ	CONJ	_	4	cc	_	_
 10	όχι	όχι	PART	PART	_	11	advmod	_	_
 11	εναντίον	εναντίον	ADP	ADP	_	4	conj	_	_
 12	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	det	_	_
-13	κ.	κ.	PUNCT	PUNCT	_	14	amod	_	_
+13	κ.	κ.	NOUN	NOUN	_	14	amod	_	_
 14	Marchiani	Marchiani	NOUN	NOUN	_	11	nmod	_	_
 15	,	,	PUNCT	PUNCT	_	1	punct	_	_
 16	για	για	ADP	ADP	_	18	case	_	_
@@ -19317,7 +19317,7 @@
 32	και	και	CONJ	CONJ	_	30	cc	_	_
 33	από	από	ADP	ADP	_	35	case	_	_
 34	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	35	det	_	_
-35	ΚΚΕ.	ΚΚΕ.	PUNCT	PUNCT	_	25	advmod	_	_
+35	ΚΚΕ.	ΚΚΕ.	NOUN	NOUN	_	25	advmod	_	_
 
 # ( Χειροκροτήματα )  
 1	(	(	PUNCT	PUNCT	_	2	punct	_	_
@@ -19443,7 +19443,7 @@
 
 # Ο κ. Dell' Alba έκανε μία παρατήρηση που ήθελα να κάνω και εγώ .  
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	det	_	_
-2	κ.	κ.	PUNCT	PUNCT	_	4	amod	_	_
+2	κ.	κ.	NOUN	NOUN	_	4	amod	_	_
 3	Dell'	Dell'	NOUN	NOUN	_	4	nmod	_	_
 4	Alba	Alba	NOUN	NOUN	_	5	nsubj	_	_
 5	έκανε	κάνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
@@ -19486,7 +19486,7 @@
 26	που	που	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Rel	27	dobj	_	_
 27	θέτει	θέτω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	25	acl:relcl	_	_
 28	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	29	det	_	_
-29	ΠΟΥ	ΠΟΥ	PUNCT	PUNCT	_	27	nsubj	_	_
+29	ΠΟΥ	ΠΟΥ	NOUN	NOUN	_	27	nsubj	_	_
 30	για	για	ADP	ADP	_	32	case	_	_
 31	ορισμένες	ορισμένος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	32	amod	_	_
 32	μέρες	μέρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	27	nmod	_	_
@@ -19566,7 +19566,7 @@
 1	Το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	3	det	_	_
 2	τηλεοπτικό	τηλεοπτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
 3	δίκτυο	δίκτυο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
-4	NTV	NTV	PUNCT	PUNCT	_	3	amod	_	_
+4	NTV	NTV	NOUN	NOUN	_	3	amod	_	_
 5	ήταν	είμαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	7	cop	_	_
 6	κάποτε	κάποτε	ADV	ADV	_	7	advmod	_	_
 7	ανεξάρτητο	ανεξάρτητος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
@@ -19604,7 +19604,7 @@
 9	αποτελεί	αποτελώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	cop	_	_
 10	αρμοδιότητα	αρμοδιότητα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	ccomp	_	_
 11	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	det	_	_
-12	ΕΕ	ΕΕ	PUNCT	PUNCT	_	10	amod	_	_
+12	ΕΕ	ΕΕ	NOUN	NOUN	_	10	amod	_	_
 13	,	,	PUNCT	PUNCT	_	1	punct	_	_
 14	θα	θα	PART	PART	_	15	aux	_	_
 15	μπορούσε	μπορώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	_
@@ -20016,7 +20016,7 @@
 25	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	27	case	_	_
 26	βρετανική	βρετανικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	27	amod	_	_
 27	εταιρεία	εταιρεία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	24	dobj	_	_
-28	BP.	BP.	PUNCT	PUNCT	_	27	amod	_	_
+28	BP.	BP.	NOUN	NOUN	_	27	amod	_	_
 
 # 2012-03-20  
 1	2012-03-20	2012-03-20	NOUN	NOUN	_	0	root	_	_
@@ -20205,7 +20205,7 @@
 7	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	8	det	_	_
 8	άποψη	άποψη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	4	dobj	_	_
 9	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	det	_	_
-10	κ.	κ.	PUNCT	PUNCT	_	12	amod	_	_
+10	κ.	κ.	NOUN	NOUN	_	12	amod	_	_
 11	Cerdeira	Cerdeira	NOUN	NOUN	_	12	nmod	_	_
 12	Morterero	Morterero	NOUN	NOUN	_	8	nmod	_	_
 13	ότι	ότι	CONJ	CONJ	_	15	mark	_	_
@@ -20824,7 +20824,7 @@
 12	αποικήθηκε	αποικώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	7	conj	_	_
 13	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	14	det	_	_
 14	775-_750	775-_750	NOUN	NOUN	_	12	nmod	_	_
-15	π.Χ.	π.Χ.	PUNCT	PUNCT	_	14	amod	_	_
+15	π.Χ.	π.Χ.	NOUN	NOUN	_	14	amod	_	_
 16	από	από	ADP	ADP	_	18	case	_	_
 17	τους	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	18	det	_	_
 18	Ερετριείς	Ερετριεύς	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	12	nmod	_	_
@@ -21219,7 +21219,7 @@
 16	βορειοανατολικών	βορειοανατολικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Plur	17	amod	_	_
 17	πολιτειών	πολιτεία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	_
 18	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	19	det	_	_
-19	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	17	amod	_	_
+19	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	17	amod	_	_
 20	,	,	PUNCT	PUNCT	_	10	punct	_	_
 21	ενώ	ενώ	CONJ	CONJ	_	10	cc	_	_
 22	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	24	det	_	_
@@ -21263,18 +21263,18 @@
 11	αφορά	αφορώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	acl:relcl	_	_
 12	λαθρεμπόριο	λαθρεμπόριο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	11	dobj	_	_
 13	όπλων	όπλο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	_
-14	κλπ.	κλπ.	PUNCT	PUNCT	_	12	amod	_	_
+14	κλπ.	κλπ.	NOUN	NOUN	_	12	amod	_	_
 15	,	,	PUNCT	PUNCT	_	11	punct	_	_
 16	και	και	CONJ	CONJ	_	11	cc	_	_
 17	βαρύνει	βαραίνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	conj	_	_
 18	τόσο	τόσο	ADV	ADV	_	21	cc	_	_
 19	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	21	det	_	_
-20	κ.	κ.	PUNCT	PUNCT	_	21	amod	_	_
+20	κ.	κ.	NOUN	NOUN	_	21	amod	_	_
 21	Pasqua	Pasqua	NOUN	NOUN	_	17	dobj	_	_
 22	όσο	όσο	ADV	ADV	_	23	advmod	_	_
 23	και	και	CONJ	CONJ	_	21	cc	_	_
 24	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	26	det	_	_
-25	κ.	κ.	PUNCT	PUNCT	_	26	amod	_	_
+25	κ.	κ.	NOUN	NOUN	_	26	amod	_	_
 26	Marchiani	Marchiani	NOUN	NOUN	_	21	conj	_	_
 27	,	,	PUNCT	PUNCT	_	41	punct	_	_
 28	ενώ	ενώ	CONJ	CONJ	_	11	cc	_	_
@@ -21284,7 +21284,7 @@
 32	μόνον	μόνο	ADV	ADV	_	31	advmod	_	_
 33	εναντίον	εναντίον	ADP	ADP	_	32	case	_	_
 34	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	36	det	_	_
-35	κ.	κ.	PUNCT	PUNCT	_	36	amod	_	_
+35	κ.	κ.	NOUN	NOUN	_	36	amod	_	_
 36	Pasqua	Pasqua	NOUN	NOUN	_	32	dobj	_	_
 37	,	,	PUNCT	PUNCT	_	31	punct	_	_
 38	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	40	det	_	_
@@ -22222,7 +22222,7 @@
 37	Ένωσης	ένωση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	34	nmod	_	_
 38	,	,	PUNCT	PUNCT	_	34	punct	_	_
 39	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	40	det	_	_
-40	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	34	conj	_	_
+40	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	34	conj	_	_
 41	και	και	CONJ	CONJ	_	34	cc	_	_
 42	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	43	det	_	_
 43	Αυστραλία	Αυστραλία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	34	conj	_	_
@@ -22494,7 +22494,7 @@
 51	απόρρητα	απόρρητος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	52	amod	_	_
 52	προγράμματα	πρόγραμμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	48	nmod	_	_
 53	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	54	det	_	_
-54	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	52	amod	_	_
+54	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	52	amod	_	_
 55	.	.	PUNCT	PUNCT	_	13	punct	_	_
 
 # Μέχρι αυτή την ώρα από το σύνολο των εμπλεκομένων προφυλακίστηκαν 14 κατηγορούμενοι , ενώ 12 αφέθηκαν ελεύθεροι με περιοριστικούς όρους .  
@@ -22984,8 +22984,8 @@
 8	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	det	_	_
 9	οργάνωση	οργάνωση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
 10	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	11	det	_	_
-11	ΚΚΕ	ΚΚΕ	PUNCT	PUNCT	_	9	amod	_	_
-12	ΟΠΛΑ	ΟΠΛΑ	PUNCT	PUNCT	_	9	amod	_	_
+11	ΚΚΕ	ΚΚΕ	NOUN	NOUN	_	9	amod	_	_
+12	ΟΠΛΑ	ΟΠΛΑ	NOUN	NOUN	_	9	amod	_	_
 13	,	,	PUNCT	PUNCT	_	18	punct	_	_
 14	τα	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	15	det	_	_
 15	μέλη	μέλος	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	18	nsubj	_	_
@@ -23010,7 +23010,7 @@
 34	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	35	case	_	_
 35	βιβλίο	βιβλίο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	30	nmod	_	_
 36	του	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	nmod	_	_
-37	ΕΑΜ-ΕΛΑΣ-ΟΠΛΑ	ΕΑΜ-ΕΛΑΣ-ΟΠΛΑ	PUNCT	PUNCT	_	35	amod	_	_
+37	ΕΑΜ-ΕΛΑΣ-ΟΠΛΑ	ΕΑΜ-ΕΛΑΣ-ΟΠΛΑ	NOUN	NOUN	_	35	amod	_	_
 38	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 # Η ζωή δεν έπαψε να εξελίσσεται - ούτε και οι αρνητικές της πλευρές .  
@@ -23104,7 +23104,7 @@
 4	,	,	PUNCT	PUNCT	_	3	punct	_	_
 5	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	6	case	_	_
 6	Ομάδα	ομάδα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	1	dobj	_	_
-7	ΟΑΣΕ	ΟΑΣΕ	PUNCT	PUNCT	_	6	amod	_	_
+7	ΟΑΣΕ	ΟΑΣΕ	NOUN	NOUN	_	6	amod	_	_
 8	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	det	_	_
 9	Μινσκ	Μινσκ	NOUN	NOUN	_	6	nmod	_	_
 10	για	για	ADP	ADP	_	12	case	_	_
@@ -23578,7 +23578,7 @@
 40	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	41	det	_	_
 41	δικτύου	δίκτυο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	39	nmod	_	_
 42	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	44	det	_	_
-43	Αλ	αλ	PUNCT	PUNCT	_	44	amod	_	_
+43	Αλ	αλ	NOUN	NOUN	_	44	amod	_	_
 44	Κάιντα	Κάιντα	NOUN	NOUN	_	41	nmod	_	_
 45	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	46	case	_	_
 46	Αφγανιστάν	Αφγανιστάν	NOUN	NOUN	_	41	nmod	_	_
@@ -23938,7 +23938,7 @@
 3	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	4	det	_	_
 4	έκθεση	έκθεση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	dobj	_	_
 5	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	det	_	_
-6	κ.	κ.	PUNCT	PUNCT	_	7	amod	_	_
+6	κ.	κ.	NOUN	NOUN	_	7	amod	_	_
 7	Grosch	Grosch	NOUN	NOUN	_	4	nmod	_	_
 8	,	,	PUNCT	PUNCT	_	2	punct	_	_
 9	θεωρώ	θεωρώ	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	10	cop	_	_
@@ -24221,7 +24221,7 @@
 1	O	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	_
 2	Πρόεδρος	πρόεδρος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
 3	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	4	det	_	_
-4	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	2	amod	_	_
+4	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	2	amod	_	_
 5	,	,	PUNCT	PUNCT	_	7	punct	_	_
 6	Μπαράκ	Μπαράκ	NOUN	NOUN	_	7	nmod	_	_
 7	Ομπάμα	Ομπάμα	NOUN	NOUN	_	2	appos	_	_
@@ -24987,7 +24987,7 @@
 3	να	να	PART	PART	_	4	aux	_	_
 4	πω	λέγω	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Voice=Act	2	ccomp	_	_
 5	στον	στου	ADP	ADP	Case=Acc|Gender=Masc|Number=Sing	7	case	_	_
-6	κ.	κ.	PUNCT	PUNCT	_	7	amod	_	_
+6	κ.	κ.	NOUN	NOUN	_	7	amod	_	_
 7	Zappala	Zappala	NOUN	NOUN	_	4	iobj	_	_
 8	ότι	ότι	CONJ	CONJ	_	10	mark	_	_
 9	έχει	έχω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	aux	_	_
@@ -25006,7 +25006,7 @@
 22	ότι	ότι	CONJ	CONJ	_	27	mark	_	_
 23	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	24	det	_	_
 24	Συνθήκη	συνθήκη	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	27	nsubj	_	_
-25	ΕΚ	ΕΚ	PUNCT	PUNCT	_	24	amod	_	_
+25	ΕΚ	ΕΚ	NOUN	NOUN	_	24	amod	_	_
 26	μας	εγώ	PRON	PRON	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	27	dobj	_	_
 27	υποχρεώνει	υποχρεώνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	conj	_	_
 28	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	29	case	_	_
@@ -25072,7 +25072,7 @@
 8	δυνατότητα	δυνατότητα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	4	dobj	_	_
 9	εξάπλωσης	εξάπλωση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
 10	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	det	_	_
-11	ΣΕΒ	ΣΕΒ	PUNCT	PUNCT	_	9	amod	_	_
+11	ΣΕΒ	ΣΕΒ	NOUN	NOUN	_	9	amod	_	_
 12	στα	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Plur	13	case	_	_
 13	πρόβατα	πρόβατο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	9	nmod	_	_
 14	.	.	PUNCT	PUNCT	_	4	punct	_	_
@@ -25118,12 +25118,12 @@
 
 # ( ΡΤ )  
 1	(	(	PUNCT	PUNCT	_	2	punct	_	_
-2	ΡΤ	ΡΤ	PUNCT	PUNCT	_	0	root	_	_
+2	ΡΤ	ΡΤ	NOUN	NOUN	_	0	root	_	_
 3	)	)	PUNCT	PUNCT	_	2	punct	_	_
 
 # Ο κ. Ερντογάν μιλώντας στο αμερικανικό τηλεοπτικό δίκτυο PBS , ανέφερε ότι το Κίνημα " Χιζμέτ " , που έχει δημιουργήσει ο Φετουλάχ Γκιουλέν , σχεδιάζει να " ρίξει " την τουρκική κυβέρνηση με κατασκευασμένες κατηγορίες και την καταγραφή τηλεφωνικών συνδιαλέξεων κυβερνητικών αξιωματούχων .  
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	det	_	_
-2	κ.	κ.	PUNCT	PUNCT	_	3	amod	_	_
+2	κ.	κ.	NOUN	NOUN	_	3	amod	_	_
 3	Ερντογάν	Ερντογάν	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
 4	μιλώντας	μιλώ	VERB	VERB	VerbForm=Part|Voice=Act	11	advcl	_	_
 5	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	8	case	_	_
@@ -25174,7 +25174,7 @@
 4	Υπουργείο	υπουργείο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
 5	Εξωτερικών	εξωτερικά	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
 6	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	7	det	_	_
-7	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	5	amod	_	_
+7	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	5	amod	_	_
 8	έχει	έχω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	9	aux	_	_
 9	επικρίνει	επικρίνω	VERB	VERB	VerbForm=Inf|Voice=Act	0	root	_	_
 10	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	13	det	_	_
@@ -25223,7 +25223,7 @@
 4	οδηγούς	οδηγός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	2	nmod	_	_
 5	από	από	ADP	ADP	_	7	case	_	_
 6	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	7	det	_	_
-7	ΕΕ	ΕΕ	PUNCT	PUNCT	_	4	amod	_	_
+7	ΕΕ	ΕΕ	NOUN	NOUN	_	4	amod	_	_
 8	θα	θα	PART	PART	_	9	aux	_	_
 9	πρέπει	πρέπει	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 10	να	να	PART	PART	_	11	aux	_	_
@@ -25396,7 +25396,7 @@
 2	Υπουργός	υπουργός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
 3	Εξωτερικών	εξωτερικά	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	_
 4	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	5	det	_	_
-5	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	3	amod	_	_
+5	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	3	amod	_	_
 6	,	,	PUNCT	PUNCT	_	8	punct	_	_
 7	Χίλαρι	Χίλαρι	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	8	nmod	_	_
 8	Κλίντον	Κλίντον	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	appos	_	_
@@ -25531,7 +25531,7 @@
 18	συμφωνία	συμφωνία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	16	dobj	_	_
 19	με	με	ADP	ADP	_	21	case	_	_
 20	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	21	det	_	_
-21	ΟΗΕ	ΟΗΕ	PUNCT	PUNCT	_	18	amod	_	_
+21	ΟΗΕ	ΟΗΕ	NOUN	NOUN	_	18	amod	_	_
 22	»	»	PUNCT	PUNCT	_	16	punct	_	_
 23	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
@@ -25926,7 +25926,7 @@
 5	συζητήσεις	συζήτηση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	2	dobj	_	_
 6	με	με	ADP	ADP	_	10	case	_	_
 7	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	9	det	_	_
-8	κ.	κ.	PUNCT	PUNCT	_	9	amod	_	_
+8	κ.	κ.	NOUN	NOUN	_	9	amod	_	_
 9	Thorning-Schmidt	Thorning-Schmidt	NOUN	NOUN	_	5	nmod	_	_
 10	και	και	CONJ	CONJ	_	9	cc	_	_
 11	άλλους	άλλος	PRON	PRON	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Ind	12	nmod	_	_
@@ -26397,7 +26397,7 @@
 15	ομάδων	ομάδα	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	_
 16	πίεσης	πίεση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
 17	,	,	PUNCT	PUNCT	_	8	punct	_	_
-18	κλπ.	κλπ	PUNCT	PUNCT	_	8	dep	_	_
+18	κλπ.	κλπ	NOUN	NOUN	_	8	dep	_	_
 19	,	,	PUNCT	PUNCT	_	1	punct	_	_
 20	όταν	όταν	CONJ	CONJ	_	22	mark	_	_
 21	όμως	όμως	CONJ	CONJ	_	1	cc	_	_
@@ -26555,7 +26555,7 @@
 5	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	6	det	_	_
 6	στάση	στάση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
 7	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	8	det	_	_
-8	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	6	amod	_	_
+8	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	6	amod	_	_
 9	έναντι	έναντι	ADP	ADP	_	6	case	_	_
 10	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	12	case	_	_
 11	κουβανική	κουβανικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	12	amod	_	_
@@ -26697,7 +26697,7 @@
 9	Ειρηνευτική	ειρηνευτικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	10	amod	_	_
 10	Δύναμη	δύναμη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
 11	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	12	det	_	_
-12	ΟΗΕ.	ΟΗΕ.	PUNCT	PUNCT	_	10	amod	_	_
+12	ΟΗΕ.	ΟΗΕ.	NOUN	NOUN	_	10	amod	_	_
 
 # Μέχρι τώρα , τα αίτια του δυστυχήματος παραμένουν άγνωστα , ενώ δηλώθηκε ότι το λεωφορείο , στο οποίο είχαν μεταβεί τα θύματα , ήταν καινούργιο και πως εκείνη την ώρα στο τούνελ δεν υπήρχε πολλή κίνηση .  
 1	Μέχρι	μέχρι	ADP	ADP	_	2	case	_	_
@@ -26804,7 +26804,7 @@
 2	Ταχυδρομική	ταχυδρομικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
 3	Υπηρεσία	υπηρεσία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
 4	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	5	det	_	_
-5	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	3	amod	_	_
+5	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	3	amod	_	_
 6	ανακοίνωσε	ανακοινώνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 7	ότι	ότι	CONJ	CONJ	_	10	mark	_	_
 8	"	"	PUNCT	PUNCT	_	10	punct	_	_
@@ -27046,7 +27046,7 @@
 38	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	39	det	_	_
 39	ζήτημα	ζήτημα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	36	nmod	_	_
 40	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	41	det	_	_
-41	ΗΒ	ΗΒ	PUNCT	PUNCT	_	39	amod	_	_
+41	ΗΒ	ΗΒ	NOUN	NOUN	_	39	amod	_	_
 42	,	,	PUNCT	PUNCT	_	39	punct	_	_
 43	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur	44	det	_	_
 44	αυτοκίνητα	αυτοκίνητο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	39	conj	_	_
@@ -27232,7 +27232,7 @@
 12	τμήματα	τμήμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	11	nsubj	_	_
 13	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	det	_	_
 14	εφεδρικού	εφεδρικός	ADJ	ADJ	Case=Gen|Gender=Masc|Number=Sing	15	amod	_	_
-15	ΕΛΑΣ	ΕΛΑΣ	PUNCT	PUNCT	_	12	amod	_	_
+15	ΕΛΑΣ	ΕΛΑΣ	NOUN	NOUN	_	12	amod	_	_
 16	που	που	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	18	nsubj	_	_
 17	την	εγώ	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	dobj	_	_
 18	συνόδευαν	συνοδεύω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	15	acl:relcl	_	_
@@ -27403,7 +27403,7 @@
 18	συνολικού	συνολικός	ADJ	ADJ	Case=Gen|Gender=Neut|Number=Sing	19	amod	_	_
 19	μήκους	μήκος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
 20	96	96	NUM	NUM	_	21	nmod	_	_
-21	χλμ.	χλμ.	PUNCT	PUNCT	_	19	amod	_	_
+21	χλμ.	χλμ.	NOUN	NOUN	_	19	amod	_	_
 22	από	από	ADP	ADP	_	24	case	_	_
 23	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur	24	det	_	_
 24	Γιάννενα	Γιάννενα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	19	nmod	_	_
@@ -27528,25 +27528,25 @@
 6	οδικώς	οδικώς	ADV	ADV	_	4	advmod	_	_
 7	,	,	PUNCT	PUNCT	_	4	punct	_	_
 8	135	135	NUM	NUM	_	9	nmod	_	_
-9	χλμ.	χλμ.	PUNCT	PUNCT	_	4	advmod	_	_
+9	χλμ.	χλμ.	NOUN	NOUN	_	4	advmod	_	_
 10	από	από	ADP	ADP	_	12	case	_	_
 11	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	12	det	_	_
 12	Θεσσαλονίκη	Θεσσαλονίκη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	9	conj	_	_
 13	,	,	PUNCT	PUNCT	_	9	punct	_	_
 14	35	35	NUM	NUM	_	15	nmod	_	_
-15	χλμ.	χλμ.	PUNCT	PUNCT	_	9	conj	_	_
+15	χλμ.	χλμ.	NOUN	NOUN	_	9	conj	_	_
 16	από	από	ADP	ADP	_	18	case	_	_
 17	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	18	det	_	_
 18	Καβάλα	Καβάλα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	9	conj	_	_
 19	,	,	PUNCT	PUNCT	_	9	punct	_	_
 20	22	22	NUM	NUM	_	21	nmod	_	_
-21	χλμ.	χλμ.	PUNCT	PUNCT	_	9	conj	_	_
+21	χλμ.	χλμ.	NOUN	NOUN	_	9	conj	_	_
 22	από	από	ADP	ADP	_	24	case	_	_
 23	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	24	det	_	_
 24	Δράμα	Δράμα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	9	conj	_	_
 25	και	και	CONJ	CONJ	_	9	cc	_	_
 26	64	64	NUM	NUM	_	27	nmod	_	_
-27	χλμ.	χλμ.	PUNCT	PUNCT	_	9	conj	_	_
+27	χλμ.	χλμ.	NOUN	NOUN	_	9	conj	_	_
 28	από	από	ADP	ADP	_	30	case	_	_
 29	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	30	det	_	_
 30	Σέρρες	Σέρρες	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	9	conj	_	_
@@ -27656,9 +27656,9 @@
 22	εκτιμημένη	εκτιμώ	VERB	VERB	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	23	acl	_	_
 23	αξία	αξία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	15	nmod	_	_
 24	1	1	NUM	NUM	_	25	nmod	_	_
-25	δισ.	δισ.	PUNCT	PUNCT	_	23	amod	_	_
+25	δισ.	δισ.	NOUN	NOUN	_	23	amod	_	_
 26	δολάρια	δολάριο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	25	nmod	_	_
-27	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	26	amod	_	_
+27	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	26	amod	_	_
 28	)	)	PUNCT	PUNCT	_	23	punct	_	_
 29	και	και	CONJ	CONJ	_	14	cc	_	_
 30	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	31	det	_	_
@@ -27669,7 +27669,7 @@
 35	ισχυρούς	ισχυρός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Plur	36	amod	_	_
 36	φίλους	φίλος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	33	nmod	_	_
 37	στις	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Plur	38	case	_	_
-38	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	36	amod	_	_
+38	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	36	amod	_	_
 39	δημιούργησαν	δημιουργώ	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
 40	εχθρότητα	εχθρότητα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	39	dobj	_	_
 41	και	και	CONJ	CONJ	_	39	cc	_	_
@@ -27683,7 +27683,7 @@
 49	ομάδα	ομάδα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	39	conj	_	_
 50	λόμπι	λόμπι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	49	nmod	_	_
 51	στις	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Plur	52	case	_	_
-52	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	49	amod	_	_
+52	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	49	amod	_	_
 53	,	,	PUNCT	PUNCT	_	54	punct	_	_
 54	ισχύ	ισχύς	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	49	remnant	_	_
 55	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	56	det	_	_
@@ -27750,7 +27750,7 @@
 15	όσο	όσο	ADV	ADV	_	16	advmod	_	_
 16	και	και	CONJ	CONJ	_	10	cc	_	_
 17	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	19	det	_	_
-18	κ.	κ.	PUNCT	PUNCT	_	19	amod	_	_
+18	κ.	κ.	NOUN	NOUN	_	19	amod	_	_
 19	Poettering	Poettering	NOUN	NOUN	_	10	conj	_	_
 20	αναφερθήκατε	αναφέρω	VERB	VERB	Mood=Ind|Number=Plur|Person=2|Tense=Past|Voice=Pass	6	acl	_	_
 21	σε	σε	ADP	ADP	_	22	case	_	_
@@ -27771,7 +27771,7 @@
 8	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	9	det	_	_
 9	κυρώσεις	κύρωση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	15	nsubj	_	_
 10	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	det	_	_
-11	ΕΕ	ΕΕ	PUNCT	PUNCT	_	9	amod	_	_
+11	ΕΕ	ΕΕ	NOUN	NOUN	_	9	amod	_	_
 12	αποτελούν	αποτελώ	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	15	cop	_	_
 13	"	"	PUNCT	PUNCT	_	15	punct	_	_
 14	άμεση	άμεσος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	15	amod	_	_
@@ -27890,15 +27890,15 @@
 20	από	από	ADP	ADP	_	22	case	_	_
 21	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	22	det	_	_
 22	9	9	NUM	NUM	_	13	nmod	_	_
-23	π.μ.	π.μ.	PUNCT	PUNCT	_	22	amod	_	_
+23	π.μ.	π.μ.	NOUN	NOUN	_	22	amod	_	_
 24	μέχρι	μέχρι	ADP	ADP	_	26	case	_	_
 25	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	26	det	_	_
 26	9	9	NUM	NUM	_	13	nmod	_	_
-27	μ.μ.	μ.μ.	PUNCT	PUNCT	_	26	amod	_	_
+27	μ.μ.	μ.μ.	NOUN	NOUN	_	26	amod	_	_
 
 # Οι ΗΠΑ βρέθηκαν στην 46η θέση το 2014 , ενώ την αμέσως προηγούμενη χρονιά είχαν καταταχθεί στην 33η θέση .  
 1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	2	det	_	_
-2	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	3	nsubj	_	_
+2	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	3	nsubj	_	_
 3	βρέθηκαν	βρίσκω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass	0	root	_	_
 4	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	6	case	_	_
 5	46η	46ος	NUM	NUM	Case=Acc|Gender=Fem|Number=Sing	6	nummod	_	_
@@ -28121,7 +28121,7 @@
 30	αίτημα	αίτημα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	27	dobj	_	_
 31	όταν	όταν	CONJ	CONJ	_	36	mark	_	_
 32	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	33	det	_	_
-33	κ.	κ.	PUNCT	PUNCT	_	34	amod	_	_
+33	κ.	κ.	NOUN	NOUN	_	34	amod	_	_
 34	Πούτιν	Πούτιν	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	36	nsubj	_	_
 35	είχε	έχω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	36	aux	_	_
 36	δηλώσει	δηλώνω	VERB	VERB	VerbForm=Inf|Voice=Act	27	advcl	_	_
@@ -28144,7 +28144,7 @@
 53	απόρρητα	απόρρητος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	54	amod	_	_
 54	προγράμματα	πρόγραμμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	50	nmod	_	_
 55	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	56	det	_	_
-56	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	54	amod	_	_
+56	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	54	amod	_	_
 57	.	.	PUNCT	PUNCT	_	20	punct	_	_
 
 # Παλιότερα , το νησάκι ονομαζόταν " Πτυχία " , " Ηραίου Νήσος " , " Άγιος Στέφανος " , αλλά και " Νησί της Ειρήνης " .  
@@ -28908,7 +28908,7 @@
 16	εμείς	εγώ	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	_
 17	ούτε	ούτε	CONJ	CONJ	_	16	cc	_	_
 18	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	20	det	_	_
-19	κ.	κ.	PUNCT	PUNCT	_	20	amod	_	_
+19	κ.	κ.	NOUN	NOUN	_	20	amod	_	_
 20	Sharon	Sharon	NOUN	NOUN	_	16	conj	_	_
 21	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
@@ -28956,7 +28956,7 @@
 13	εισηγήτρια	εισηγήτρια	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	3	acl:relcl	_	_
 14	είναι	είμαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	13	cop	_	_
 15	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	18	det	_	_
-16	κ.	κ.	PUNCT	PUNCT	_	18	amod	_	_
+16	κ.	κ.	NOUN	NOUN	_	18	amod	_	_
 17	Riita	Riita	NOUN	NOUN	_	18	nmod	_	_
 18	Myller	Myller	NOUN	NOUN	_	13	nsubj	_	_
 19	που	που	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel	20	nsubj	_	_
@@ -29488,7 +29488,7 @@
 8	Βουλής	βουλή	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
 9	,	,	PUNCT	PUNCT	_	2	punct	_	_
 10	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	12	det	_	_
-11	κ.	κ.	PUNCT	PUNCT	_	12	amod	_	_
+11	κ.	κ.	NOUN	NOUN	_	12	amod	_	_
 12	Λιου	Λιου	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
 13	επεσήμανε	επισημαίνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 14	ότι	ότι	CONJ	CONJ	_	18	mark	_	_
@@ -29824,7 +29824,7 @@
 24	τιμές	τιμή	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	22	nsubj	_	_
 25	στόχοι	στόχος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	24	nmod	_	_
 26	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	27	det	_	_
-27	ΠΟΥ	ΠΟΥ	PUNCT	PUNCT	_	25	amod	_	_
+27	ΠΟΥ	ΠΟΥ	NOUN	NOUN	_	25	amod	_	_
 28	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # Συμμετείχαν επίσης μέλη αντιστασιακών και άλλων οργανώσεων όπως η ΠΕΑΝ , η Ιερή Ταξιαρχία , η ΡΑΝ , η φοιτητική ΕΣΑΣ , η Εθνική Δράση , ο ΕΔΕΣ Αθηνών , η φιλοβασιλική Χ και άλλες μικρότερες ομάδες .  
@@ -29837,25 +29837,25 @@
 7	οργανώσεων	οργάνωση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
 8	όπως	όπως	ADV	ADV	_	7	remnant	_	_
 9	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	10	det	_	_
-10	ΠΕΑΝ	ΠΕΑΝ	PUNCT	PUNCT	_	7	remnant	_	_
+10	ΠΕΑΝ	ΠΕΑΝ	NOUN	NOUN	_	7	remnant	_	_
 11	,	,	PUNCT	PUNCT	_	10	punct	_	_
 12	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	14	det	_	_
 13	Ιερή	ιερός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	14	amod	_	_
 14	Ταξιαρχία	ταξιαρχία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	10	conj	_	_
 15	,	,	PUNCT	PUNCT	_	10	punct	_	_
 16	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	17	det	_	_
-17	ΡΑΝ	ΡΑΝ	PUNCT	PUNCT	_	10	conj	_	_
+17	ΡΑΝ	ΡΑΝ	NOUN	NOUN	_	10	conj	_	_
 18	,	,	PUNCT	PUNCT	_	10	punct	_	_
 19	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	21	det	_	_
 20	φοιτητική	φοιτητικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	21	amod	_	_
-21	ΕΣΑΣ	ΕΣΑΣ	PUNCT	PUNCT	_	10	conj	_	_
+21	ΕΣΑΣ	ΕΣΑΣ	NOUN	NOUN	_	10	conj	_	_
 22	,	,	PUNCT	PUNCT	_	10	punct	_	_
 23	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	25	det	_	_
 24	Εθνική	εθνικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	25	amod	_	_
 25	Δράση	δράση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	10	conj	_	_
 26	,	,	PUNCT	PUNCT	_	10	punct	_	_
 27	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	28	det	_	_
-28	ΕΔΕΣ	ΕΔΕΣ	PUNCT	PUNCT	_	10	conj	_	_
+28	ΕΔΕΣ	ΕΔΕΣ	NOUN	NOUN	_	10	conj	_	_
 29	Αθηνών	Αθήνα	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	28	nmod	_	_
 30	,	,	PUNCT	PUNCT	_	10	punct	_	_
 31	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	33	det	_	_
@@ -29961,7 +29961,7 @@
 14	από	από	ADP	ADP	_	15	case	_	_
 15	συμφωνία	συμφωνία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	13	nmod	_	_
 16	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	17	det	_	_
-17	Ε.Α.Μ.	Ε.Α.Μ.	PUNCT	PUNCT	_	15	amod	_	_
+17	Ε.Α.Μ.	Ε.Α.Μ.	NOUN	NOUN	_	15	amod	_	_
 18	με	με	ADP	ADP	_	21	case	_	_
 19	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	21	det	_	_
 20	βρετανό	βρετανός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	21	amod	_	_
@@ -30295,7 +30295,7 @@
 2	ειδική	ειδικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
 3	επιτροπή	επιτροπή	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
 4	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	det	_	_
-5	ΟΗΕ	ΟΗΕ	PUNCT	PUNCT	_	3	amod	_	_
+5	ΟΗΕ	ΟΗΕ	NOUN	NOUN	_	3	amod	_	_
 6	δήλωσε	δηλώνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 7	ότι	ότι	CONJ	CONJ	_	10	mark	_	_
 8	«	«	PUNCT	PUNCT	_	10	punct	_	_
@@ -30667,7 +30667,7 @@
 6	αντίτυπο	αντίτυπο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	4	dobj	_	_
 7	από	από	ADP	ADP	_	11	case	_	_
 8	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	11	det	_	_
-9	κ.	κ.	PUNCT	PUNCT	_	11	amod	_	_
+9	κ.	κ.	NOUN	NOUN	_	11	amod	_	_
 10	van	van	NOUN	NOUN	_	11	nmod	_	_
 11	Buitenen	Buitenen	NOUN	NOUN	_	4	iobj	_	_
 12	.	.	PUNCT	PUNCT	_	4	punct	_	_
@@ -30815,7 +30815,7 @@
 28	"	"	PUNCT	PUNCT	_	4	punct	_	_
 29	καταλήγει	καταλήγω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 30	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	32	det	_	_
-31	Δρ.	Δρ.	PUNCT	PUNCT	_	32	amod	_	_
+31	Δρ.	Δρ.	NOUN	NOUN	_	32	amod	_	_
 32	Τέιλορ	Τέιλορ	NOUN	NOUN	_	29	nsubj	_	_
 33	.	.	PUNCT	PUNCT	_	29	punct	_	_
 
@@ -30909,7 +30909,7 @@
 19	αμερικανικό	αμερικάνικος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	21	amod	_	_
 20	τηλεοπτικό	τηλεοπτικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	21	amod	_	_
 21	δίκτυο	δίκτυο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	15	nmod	_	_
-22	CNN	CNN	PUNCT	PUNCT	_	21	amod	_	_
+22	CNN	CNN	NOUN	NOUN	_	21	amod	_	_
 23	,	,	PUNCT	PUNCT	_	24	punct	_	_
 24	λέγοντας	λέγω	VERB	VERB	VerbForm=Part|Voice=Act	9	advcl	_	_
 25	ότι	ότι	CONJ	CONJ	_	32	mark	_	_
@@ -31074,7 +31074,7 @@
 10	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	11	case	_	_
 11	σύνολο	σύνολο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	nmod	_	_
 12	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	det	_	_
-13	ΕΕ	ΕΕ	PUNCT	PUNCT	_	11	amod	_	_
+13	ΕΕ	ΕΕ	NOUN	NOUN	_	11	amod	_	_
 14	να	να	PART	PART	_	15	aux	_	_
 15	διαπιστώνουν	διαπιστώνω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	5	ccomp	_	_
 16	εάν	αν	CONJ	CONJ	_	21	mark	_	_
@@ -31221,7 +31221,7 @@
 17	(	(	PUNCT	PUNCT	_	18	punct	_	_
 18	ΕΚ	ΕΚ	ADP	ADP	_	16	case	_	_
 19	)	)	PUNCT	PUNCT	_	18	punct	_	_
-20	αριθ.	αριθ.	PUNCT	PUNCT	_	16	amod	_	_
+20	αριθ.	αριθ.	NOUN	NOUN	_	16	amod	_	_
 21	2580/2001	2580/2001	NUM	NUM	_	20	remnant	_	_
 22	,	,	PUNCT	PUNCT	_	9	punct	_	_
 23	αλλά	αλλά	CONJ	CONJ	_	9	cc	_	_
@@ -31290,7 +31290,7 @@
 17	ως	ως	ADV	ADV	_	18	case	_	_
 18	Ομάδα	ομάδα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	acl:relcl	_	_
 19	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	20	det	_	_
-20	ΕΛΚ-ΕΔ	ΕΛΚ-ΕΔ	PUNCT	PUNCT	_	18	amod	_	_
+20	ΕΛΚ-ΕΔ	ΕΛΚ-ΕΔ	NOUN	NOUN	_	18	amod	_	_
 21	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 # Νωρίτερα , το Υπουργείο Αμύνης της Ιαπωνίας κατηγόρησε την Κίνα για αποστολή φρεγάτας στα αμφιλεγόμενα νησιά , η οποία , στις 30 Ιανουαρίου , είχε βάλει στο στόχαστρο του ραντάρ της ιαπωνικό πολεμικό πλοίο .  
@@ -31352,7 +31352,7 @@
 
 # 93 χλμ.  
 1	93	93	NUM	NUM	_	2	nmod	_	_
-2	χλμ.	χλμ.	PUNCT	PUNCT	_	0	root	_	_
+2	χλμ.	χλμ.	NOUN	NOUN	_	0	root	_	_
 
 # Εντούτοις , πιστεύω τελικά πως η Τουρκία έχει τη θέληση και τη δύναμη να συνεχίσει τη μεταρρυθμιστική της πορεία .  
 1	Εντούτοις	εντούτοις	ADV	ADV	_	3	advmod	_	_
@@ -31434,10 +31434,10 @@
 
 # 13,6 εκ. ανθρώπων στην ΕΕ είναι άνεργοι .  
 1	13,6	13,6	NUM	NUM	_	2	nmod	_	_
-2	εκ.	εκ.	PUNCT	PUNCT	_	7	nsubj	_	_
+2	εκ.	εκ.	NOUN	NOUN	_	7	nsubj	_	_
 3	ανθρώπων	άνθρωπος	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
 4	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	5	case	_	_
-5	ΕΕ	ΕΕ	PUNCT	PUNCT	_	7	advmod	_	_
+5	ΕΕ	ΕΕ	NOUN	NOUN	_	7	advmod	_	_
 6	είναι	είμαι	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	7	cop	_	_
 7	άνεργοι	άνεργος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
 8	.	.	PUNCT	PUNCT	_	7	punct	_	_
@@ -31495,7 +31495,7 @@
 19	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	21	det	_	_
 20	παλαιότερη	παλιός	ADJ	ADJ	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing	21	amod	_	_
 21	μορφή	μορφή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	14	acl:relcl	_	_
-22	ΣΕΒ	ΣΕΒ	PUNCT	PUNCT	_	21	amod	_	_
+22	ΣΕΒ	ΣΕΒ	NOUN	NOUN	_	21	amod	_	_
 23	είναι	είμαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	24	cop	_	_
 24	γνωστός	γνωστός	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	10	ccomp	_	_
 25	εδώ	εδώ	ADV	ADV	_	24	advmod	_	_
@@ -31505,7 +31505,7 @@
 29	,	,	PUNCT	PUNCT	_	42	punct	_	_
 30	ενώ	ενώ	CONJ	CONJ	_	23	cc	_	_
 31	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	32	det	_	_
-32	ΣΕΒ	ΣΕΒ	PUNCT	PUNCT	_	42	nsubj	_	_
+32	ΣΕΒ	ΣΕΒ	NOUN	NOUN	_	42	nsubj	_	_
 33	,	,	PUNCT	PUNCT	_	36	punct	_	_
 34	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	35	det	_	_
 35	οποία	οποίος	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel	36	nsubj	_	_
@@ -31639,7 +31639,7 @@
 
 # Ο ΟΗΕ δεν εξακρίβωσε τα αίτια θανάτου του Μουάμαρ αλ Καντάφι  
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	_
-2	ΟΗΕ	ΟΗΕ	PUNCT	PUNCT	_	4	nsubj	_	_
+2	ΟΗΕ	ΟΗΕ	NOUN	NOUN	_	4	nsubj	_	_
 3	δεν	δεν	PART	PART	_	4	neg	_	_
 4	εξακρίβωσε	εξακριβώνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 5	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur	6	det	_	_
@@ -32513,7 +32513,7 @@
 4	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	5	case	_	_
 5	νομοθεσία	νομοθεσία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
 6	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	det	_	_
-7	ΕΕ	ΕΕ	PUNCT	PUNCT	_	5	amod	_	_
+7	ΕΕ	ΕΕ	NOUN	NOUN	_	5	amod	_	_
 8	,	,	PUNCT	PUNCT	_	3	punct	_	_
 9	θα	θα	PART	PART	_	10	aux	_	_
 10	έχουμε	έχω	VERB	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	_
@@ -32783,7 +32783,7 @@
 8	Συμβούλιο	συμβούλιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	_
 9	Ασφαλείας	ασφάλεια	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
 10	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	det	_	_
-11	ΟΗΕ	ΟΗΕ	PUNCT	PUNCT	_	9	amod	_	_
+11	ΟΗΕ	ΟΗΕ	NOUN	NOUN	_	9	amod	_	_
 12	και	και	CONJ	CONJ	_	4	cc	_	_
 13	αποφάσισε	αποφασίζω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	4	conj	_	_
 14	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	15	det	_	_
@@ -32816,7 +32816,7 @@
 13	σε	σε	ADP	ADP	_	14	case	_	_
 14	επιχειρήσεις	επιχείρηση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	12	nmod	_	_
 15	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	16	det	_	_
-16	ΕΕ	ΕΕ	PUNCT	PUNCT	_	14	amod	_	_
+16	ΕΕ	ΕΕ	NOUN	NOUN	_	14	amod	_	_
 17	και	και	CONJ	CONJ	_	12	cc	_	_
 18	οδηγούν	οδηγώ	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	12	conj	_	_
 19	φορτηγά	φορτηγός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	20	amod	_	_
@@ -33016,7 +33016,7 @@
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	_
 2	Αντιπρόεδρος	αντιπρόεδρος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
 3	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	4	det	_	_
-4	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	2	amod	_	_
+4	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	2	amod	_	_
 5	,	,	PUNCT	PUNCT	_	7	punct	_	_
 6	Τζο	Τζο	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	7	nmod	_	_
 7	Μπάιντεν	Μπάιντεν	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	2	appos	_	_
@@ -33184,7 +33184,7 @@
 7	συνολικό	συνολικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	8	amod	_	_
 8	μήκος	μήκος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	nmod	_	_
 9	25,6	25,6	NUM	NUM	_	10	nmod	_	_
-10	χλμ.	χλμ.	PUNCT	PUNCT	_	8	amod	_	_
+10	χλμ.	χλμ.	NOUN	NOUN	_	8	amod	_	_
 
 # Κύριε Πρόεδρε , αγαπητοί συνάδελφοι , είχαμε ήδη την ευκαιρία στις 15_Ιανουαρίου να σας συγχαρούμε για την ανάληψη του αξιώματός σας .  
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	7	remnant	_	_
@@ -33854,7 +33854,7 @@
 18	σε	σε	ADP	ADP	_	19	case	_	_
 19	απόσταση	απόσταση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	14	nmod	_	_
 20	46	46	NUM	NUM	_	21	nmod	_	_
-21	χλμ.	χλμ.	PUNCT	PUNCT	_	19	amod	_	_
+21	χλμ.	χλμ.	NOUN	NOUN	_	19	amod	_	_
 22	από	από	ADP	ADP	_	24	case	_	_
 23	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	24	det	_	_
 24	πρωτεύουσα	πρωτεύουσα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	19	nmod	_	_
@@ -33969,7 +33969,7 @@
 1	Όπως	όπως	ADV	ADV	_	2	advmod	_	_
 2	τονίζει	τονίζω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	advcl	_	_
 3	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	5	det	_	_
-4	Δρ.	Δρ.	PUNCT	PUNCT	_	5	amod	_	_
+4	Δρ.	Δρ.	NOUN	NOUN	_	5	amod	_	_
 5	Τέιλορ	Τέιλορ	NOUN	NOUN	_	2	nsubj	_	_
 6	,	,	PUNCT	PUNCT	_	7	punct	_	_
 7	όμως	όμως	CONJ	CONJ	_	11	cc	_	_
@@ -34246,16 +34246,16 @@
 11	εισηγητές	εισηγητής	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	8	dobj	_	_
 12	-	-	PUNCT	PUNCT	_	21	punct	_	_
 13	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	15	det	_	_
-14	κ.	κ.	PUNCT	PUNCT	_	15	amod	_	_
+14	κ.	κ.	NOUN	NOUN	_	15	amod	_	_
 15	Χατζηδάκη	Χατζηδάκης	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	11	appos	_	_
 16	,	,	PUNCT	PUNCT	_	15	punct	_	_
 17	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	20	det	_	_
-18	κ.	κ.	PUNCT	PUNCT	_	20	amod	_	_
+18	κ.	κ.	NOUN	NOUN	_	20	amod	_	_
 19	van	van	NOUN	NOUN	_	20	nmod	_	_
 20	Dam	Dam	NOUN	NOUN	_	15	conj	_	_
 21	και	και	CONJ	CONJ	_	15	cc	_	_
 22	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	24	det	_	_
-23	κ.	κ.	PUNCT	PUNCT	_	24	amod	_	_
+23	κ.	κ.	NOUN	NOUN	_	24	amod	_	_
 24	Grosch	Grosch	NOUN	NOUN	_	15	conj	_	_
 25	-	-	PUNCT	PUNCT	_	21	punct	_	_
 26	για	για	ADP	ADP	_	28	case	_	_
@@ -34623,7 +34623,7 @@
 11	μέσων	μέσο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	_
 12	μεταφοράς	μεταφορά	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
 13	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	14	case	_	_
-14	ΕΕ	ΕΕ	PUNCT	PUNCT	_	8	amod	_	_
+14	ΕΕ	ΕΕ	NOUN	NOUN	_	8	amod	_	_
 15	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 # Στο Λάκεν , οι ηγέτες κρατών και κυβερνήσεων ζήτησαν μέχρι το τέλος Μαΐου του έτους αυτού να εγκρίνουμε την απόφαση πλαίσιο για την εναρμόνιση των ποινικών κυρώσεων σε ευρωπαϊκό επίπεδο σχετικά με τη διακίνηση ναρκωτικών .  
@@ -34718,7 +34718,7 @@
 25	συνάδελφός	συνάδελφος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
 26	μου	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	25	nmod	_	_
 27	,	,	PUNCT	PUNCT	_	29	punct	_	_
-28	κ.	κ.	PUNCT	PUNCT	_	29	amod	_	_
+28	κ.	κ.	NOUN	NOUN	_	29	amod	_	_
 29	Liikanen	Liikanen	NOUN	NOUN	_	25	appos	_	_
 30	,	,	PUNCT	PUNCT	_	29	punct	_	_
 31	μετακινηθήκαμε	μετακινώ	VERB	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Past|Voice=Pass	0	root	_	_
@@ -34913,7 +34913,7 @@
 
 # Η ΕΕ ανακοίνωσε νέες κυρώσεις σε βάρος της Ρωσίας .  
 1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	det	_	_
-2	ΕΕ	ΕΕ	PUNCT	PUNCT	_	3	nsubj	_	_
+2	ΕΕ	ΕΕ	NOUN	NOUN	_	3	nsubj	_	_
 3	ανακοίνωσε	ανακοινώνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 4	νέες	νέος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	5	amod	_	_
 5	κυρώσεις	κύρωση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	3	dobj	_	_
@@ -35427,7 +35427,7 @@
 27	κράτη	κράτος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	23	nmod	_	_
 28	μέλη	μέλος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	27	nmod	_	_
 29	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	30	det	_	_
-30	ΕΕ	ΕΕ	PUNCT	PUNCT	_	27	amod	_	_
+30	ΕΕ	ΕΕ	NOUN	NOUN	_	27	amod	_	_
 31	ανεξαιρέτως	ανεξαίρετα	ADV	ADV	_	23	advmod	_	_
 32	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
@@ -36081,10 +36081,10 @@
 11	σε	σε	ADP	ADP	_	12	case	_	_
 12	μονάδες	μονάδα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	10	nmod	_	_
 13	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	det	_	_
-14	ΕΛΑΣ	ΕΛΑΣ	PUNCT	PUNCT	_	12	amod	_	_
+14	ΕΛΑΣ	ΕΛΑΣ	NOUN	NOUN	_	12	amod	_	_
 15	και	και	CONJ	CONJ	_	14	cc	_	_
 16	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	17	det	_	_
-17	ΕΑΜ	ΕΑΜ	PUNCT	PUNCT	_	14	conj	_	_
+17	ΕΑΜ	ΕΑΜ	NOUN	NOUN	_	14	conj	_	_
 18	και	και	CONJ	CONJ	_	12	cc	_	_
 19	στις	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Plur	21	case	_	_
 20	κυβερνητικές	κυβερνητικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	21	amod	_	_
@@ -36552,7 +36552,7 @@
 36	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur	37	det	_	_
 37	βουνά	βουνό	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	20	conj	_	_
 38	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	39	det	_	_
-39	Σαρ	Σαρ	PUNCT	PUNCT	_	37	amod	_	_
+39	Σαρ	Σαρ	NOUN	NOUN	_	37	amod	_	_
 40	,	,	PUNCT	PUNCT	_	39	punct	_	_
 41	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	42	det	_	_
 42	Ρίλας	Ρίλας	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	39	conj	_	_
@@ -36746,7 +36746,7 @@
 12	όπως	όπως	ADV	ADV	_	13	advmod	_	_
 13	είπε	λέγω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	1	advcl	_	_
 14	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	16	det	_	_
-15	κ.	κ.	PUNCT	PUNCT	_	16	amod	_	_
+15	κ.	κ.	NOUN	NOUN	_	16	amod	_	_
 16	Dybkjζr	Dybkjζr	NOUN	NOUN	_	13	nsubj	_	_
 17	,	,	PUNCT	PUNCT	_	13	punct	_	_
 18	ώστε	ώστε	CONJ	CONJ	_	20	mark	_	_
@@ -36754,7 +36754,7 @@
 20	μπορέσει	μπορώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Voice=Act	3	advcl	_	_
 21	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	23	det	_	_
 22	ένατο	ένατος	NUM	NUM	Case=Acc|Gender=Masc|Number=Sing	23	nummod	_	_
-23	ΕΤΑ	ΕΤΑ	PUNCT	PUNCT	_	20	nsubj	_	_
+23	ΕΤΑ	ΕΤΑ	NOUN	NOUN	_	20	nsubj	_	_
 24	να	να	PART	PART	_	25	aux	_	_
 25	τεθεί	θέτω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Voice=Pass	20	ccomp	_	_
 26	σε	σε	ADP	ADP	_	27	case	_	_
@@ -37019,7 +37019,7 @@
 23	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	25	det	_	_
 24	7ο	7ος	NUM	NUM	Case=Acc|Gender=Masc|Number=Sing	25	nummod	_	_
 25	αιώνα	αιώνας	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	17	nmod	_	_
-26	π.Χ.	π.Χ.	PUNCT	PUNCT	_	25	amod	_	_
+26	π.Χ.	π.Χ.	NOUN	NOUN	_	25	amod	_	_
 
 # Η κατάρτιση διαφέρει σήμερα στα διάφορα κράτη και ως εκ τούτου ορίσαμε να έχουν τα κράτη τη δυνατότητα να εξετάσουν το ζήτημα αναλυτικά μαζί με την Επιτροπή .  
 1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	det	_	_
@@ -37061,7 +37061,7 @@
 7	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	8	det	_	_
 8	συνθηκολόγηση	συνθηκολόγηση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	conj	_	_
 9	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	10	det	_	_
-10	ΕΑΜ	ΕΑΜ	PUNCT	PUNCT	_	8	amod	_	_
+10	ΕΑΜ	ΕΑΜ	NOUN	NOUN	_	8	amod	_	_
 11	με	με	ADP	ADP	_	13	case	_	_
 12	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	13	det	_	_
 13	συμφωνία	συμφωνία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	8	nmod	_	_
@@ -37088,7 +37088,7 @@
 34	εναντίον	εναντίον	ADP	ADP	_	35	case	_	_
 35	οπαδών	οπαδός	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Plur	32	nmod	_	_
 36	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	37	det	_	_
-37	ΕΑΜ-ΚΚΕ	ΕΑΜ-ΚΚΕ	PUNCT	PUNCT	_	35	amod	_	_
+37	ΕΑΜ-ΚΚΕ	ΕΑΜ-ΚΚΕ	NOUN	NOUN	_	35	amod	_	_
 38	(	(	PUNCT	PUNCT	_	39	punct	_	_
 39	περίοδος	περίοδος	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	18	appos	_	_
 40	λευκής	λευκός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	41	amod	_	_
@@ -37219,7 +37219,7 @@
 9	μεγαλύτερο	μεγάλος	ADJ	ADJ	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	7	amod	_	_
 10	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	13	det	_	_
 11	80	80	NUM	NUM	_	13	nmod	_	_
-12	εκατ.	εκατ.	PUNCT	PUNCT	_	13	amod	_	_
+12	εκατ.	εκατ.	NOUN	NOUN	_	13	amod	_	_
 13	ευρώ	ευρώ	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	9	nmod	_	_
 14	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -37277,7 +37277,7 @@
 3	Υπουργός	υπουργός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
 4	Εξωτερικών	εξωτερικά	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	_
 5	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	6	det	_	_
-6	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	3	amod	_	_
+6	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	3	amod	_	_
 7	τηλεφώνησε	τηλεφωνώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 8	επίσης	επίσης	ADV	ADV	_	7	advmod	_	_
 9	στους	στου	ADP	ADP	Case=Acc|Gender=Masc|Number=Plur	10	case	_	_
@@ -37726,7 +37726,7 @@
 
 # 363 χλμ.  
 1	363	363	NUM	NUM	_	2	nmod	_	_
-2	χλμ.	χλμ.	PUNCT	PUNCT	_	0	root	_	_
+2	χλμ.	χλμ.	NOUN	NOUN	_	0	root	_	_
 
 # Εδώ στο Ευρωπαϊκό Κοινοβούλιο προσπαθούμε να εξασφαλίσουμε την προστασία του με δύο κυρίως τρόπους : είτε προσπαθώντας να μειώσουμε τις καταστρεπτικές για το περιβάλλον δραστηριότητες μέσω οδηγιών και κανονισμών είτε ενθαρρύνοντας μέσω οδηγιών και κανονισμών ιδιώτες , επιχειρήσεις και δημόσιες αρχές να δράσουν εθελοντικά με τρόπο που να μειώνει τις αρνητικές επιπτώσεις στο περιβάλλον .  
 1	Εδώ	εδώ	ADV	ADV	_	5	advmod	_	_
@@ -37881,7 +37881,7 @@
 
 # Ο κ. Naranjo Escobar ρώτησε μήπως θα υπάρξουν ανεπιθύμητες συνέπειες και μήπως θα ήταν ενδεδειγμένο να υπάρξει μια μεταβατική περίοδος διατηρώντας επί του παρόντος τη ρήτρα για τον τόπο εγκατάστασης .  
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	det	_	_
-2	κ.	κ.	PUNCT	PUNCT	_	4	amod	_	_
+2	κ.	κ.	NOUN	NOUN	_	4	amod	_	_
 3	Naranjo	Naranjo	NOUN	NOUN	_	4	nmod	_	_
 4	Escobar	Escobar	NOUN	NOUN	_	5	nsubj	_	_
 5	ρώτησε	ρωτώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
@@ -38086,7 +38086,7 @@
 11	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	12	det	_	_
 12	έκθεση	έκθεση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	10	dobj	_	_
 13	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	det	_	_
-14	κ.	κ.	PUNCT	PUNCT	_	15	amod	_	_
+14	κ.	κ.	NOUN	NOUN	_	15	amod	_	_
 15	Χατζηδάκη	Χατζηδάκης	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
 16	,	,	PUNCT	PUNCT	_	10	punct	_	_
 17	είμαστε	είμαι	VERB	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Pass	18	cop	_	_
@@ -38106,7 +38106,7 @@
 31	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	32	det	_	_
 32	έκθεση	έκθεση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	28	dobj	_	_
 33	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	36	det	_	_
-34	κ.	κ.	PUNCT	PUNCT	_	36	amod	_	_
+34	κ.	κ.	NOUN	NOUN	_	36	amod	_	_
 35	van	van	NOUN	NOUN	_	36	nmod	_	_
 36	Dam	Dam	NOUN	NOUN	_	32	nmod	_	_
 37	.	.	PUNCT	PUNCT	_	18	punct	_	_
@@ -38743,7 +38743,7 @@
 14	ως	ως	ADV	ADV	_	15	case	_	_
 15	βασιλιάς	βασιλιάς	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	13	xcomp	_	_
 16	Γουλιέλμος	Γουλιέλμος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	15	nmod	_	_
-17	Δ'	Δ'	PUNCT	PUNCT	_	16	amod	_	_
+17	Δ'	Δ'	NOUN	NOUN	_	16	amod	_	_
 18	-	-	PUNCT	PUNCT	_	13	punct	_	_
 19	ήταν	είμαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	20	cop	_	_
 20	γνωστός	γνωστός	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
@@ -38770,7 +38770,7 @@
 41	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	42	det	_	_
 42	Επιτροπής	επιτροπή	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	40	nmod	_	_
 43	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	44	det	_	_
-44	ΟΗΕ	ΟΗΕ	PUNCT	PUNCT	_	42	amod	_	_
+44	ΟΗΕ	ΟΗΕ	NOUN	NOUN	_	42	amod	_	_
 45	για	για	ADP	ADP	_	47	case	_	_
 46	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	47	det	_	_
 47	Νερό	νερό	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	42	amod	_	_
@@ -39022,7 +39022,7 @@
 13	σίτισης	σίτιση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
 14	από	από	ADP	ADP	_	17	case	_	_
 15	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	16	det	_	_
-16	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	9	amod	_	_
+16	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	9	amod	_	_
 17	και	και	CONJ	CONJ	_	16	cc	_	_
 18	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	20	det	_	_
 19	Βόρεια	βόρειος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	20	amod	_	_
@@ -39672,7 +39672,7 @@
 5	στα	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Plur	6	case	_	_
 6	πρότυπα	πρότυπο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	4	dobj	_	_
 7	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	det	_	_
-8	ΕΕ	ΕΕ	PUNCT	PUNCT	_	6	amod	_	_
+8	ΕΕ	ΕΕ	NOUN	NOUN	_	6	amod	_	_
 9	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # Ο σεισμός ήταν καταστροφικός αφού μετρήθηκε ότι ήταν 8-9 βαθμών στην κλίμακα Μερκάλι , και διήρκεσε τουλάχιστον 40 δευτερόλεπτα .  
@@ -39793,7 +39793,7 @@
 20	προϋπολογισμό	προϋπολογισμός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	19	dobj	_	_
 21	ύψους	ύψος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
 22	520	520	NUM	NUM	_	24	nmod	_	_
-23	εκατ.	εκατ.	PUNCT	PUNCT	_	24	amod	_	_
+23	εκατ.	εκατ.	NOUN	NOUN	_	24	amod	_	_
 24	ευρώ	ευρώ	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	21	nmod	_	_
 25	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
@@ -40032,7 +40032,7 @@
 
 # Ο κ. Gahrton εφιστά την προσοχή μας σε ορισμένα από τα μέσα που έχουμε χρησιμοποιήσει σε άλλα μέρη και συνιστά να τα εφαρμόσουμε στον Νότιο Καύκασο : κοινή στρατηγική , σύμφωνο σταθερότητας , ειδικό απεσταλμένο και άλλα .  
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	det	_	_
-2	κ.	κ.	PUNCT	PUNCT	_	3	amod	_	_
+2	κ.	κ.	NOUN	NOUN	_	3	amod	_	_
 3	Gahrton	Gahrton	NOUN	NOUN	_	4	nsubj	_	_
 4	εφιστά	εφιστώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 5	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	6	det	_	_
@@ -40322,7 +40322,7 @@
 5	Υπουργός	υπουργός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 6	Εξωτερικών	εξωτερικά	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	_
 7	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	8	det	_	_
-8	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	6	amod	_	_
+8	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	6	amod	_	_
 9	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 # Οι δυνάμεις κατοχής του Β' Παγκοσμίου Πολέμου εγκαταλείπουν την χώρα , γεγονός που για την Γερμανία σημαίνει την επαναφορά της ανεξαρτησίας της .  
@@ -40747,7 +40747,7 @@
 7	Υπουργός	υπουργός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
 8	Εξωτερικών	εξωτερικά	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
 9	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	10	det	_	_
-10	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	7	amod	_	_
+10	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	7	amod	_	_
 11	παίρνει	παίρνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	ccomp	_	_
 12	αιμολυτικά	αιμολυτικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	13	amod	_	_
 13	φάρμακα	φάρμακο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	11	dobj	_	_
@@ -41224,7 +41224,7 @@
 5	έκκληση	έκκληση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	4	dobj	_	_
 6	κυρίως	κυρίως	ADV	ADV	_	4	advmod	_	_
 7	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	6	case	_	_
-8	ΕΛΚ	ΕΛΚ	PUNCT	PUNCT	_	6	iobj	_	_
+8	ΕΛΚ	ΕΛΚ	NOUN	NOUN	_	6	iobj	_	_
 9	να	να	PART	PART	_	10	aux	_	_
 10	αλλάξει	αλλάζω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Voice=Act	5	acl	_	_
 11	σε	σε	ADP	ADP	_	13	case	_	_
@@ -41327,7 +41327,7 @@
 7	οποίο	οποίος	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel	8	dobj	_	_
 8	επιδόθηκε	επιδίδω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	5	acl:relcl	_	_
 9	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	11	det	_	_
-10	κ.	κ.	PUNCT	PUNCT	_	11	amod	_	_
+10	κ.	κ.	NOUN	NOUN	_	11	amod	_	_
 11	Lucas	Lucas	NOUN	NOUN	_	8	nsubj	_	_
 12	και	και	CONJ	CONJ	_	1	cc	_	_
 13	θέλω	θέλω	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	1	conj	_	_
@@ -41535,7 +41535,7 @@
 19	έκαναν	κάνω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	6	advcl	_	_
 20	ήδη	ήδη	ADV	ADV	_	19	advmod	_	_
 21	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	22	det	_	_
-22	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	19	nsubj	_	_
+22	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	19	nsubj	_	_
 23	και	και	CONJ	CONJ	_	22	cc	_	_
 24	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	25	det	_	_
 25	Κίνα	Κίνα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	22	conj	_	_
@@ -41794,7 +41794,7 @@
 5	Συμβουλίου	συμβούλιο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
 6	είναι	είμαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	8	cop	_	_
 7	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	det	_	_
-8	2001/927/ΕΚ	2001/927/ΕΚ	PUNCT	PUNCT	_	0	root	_	_
+8	2001/927/ΕΚ	2001/927/ΕΚ	NOUN	NOUN	_	0	root	_	_
 9	,	,	PUNCT	PUNCT	_	12	punct	_	_
 10	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	11	det	_	_
 11	οποία	οποίος	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel	12	nsubj	_	_
@@ -41815,7 +41815,7 @@
 26	(	(	PUNCT	PUNCT	_	27	punct	_	_
 27	ΕΚ	ΕΚ	ADP	ADP	_	25	case	_	_
 28	)	)	PUNCT	PUNCT	_	27	punct	_	_
-29	αριθ.	αριθ.	PUNCT	PUNCT	_	25	amod	_	_
+29	αριθ.	αριθ.	NOUN	NOUN	_	25	amod	_	_
 30	2580/2001	2580/2001	NUM	NUM	_	29	nmod	_	_
 31	και	και	CONJ	CONJ	_	25	cc	_	_
 32	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	34	det	_	_
@@ -42296,7 +42296,7 @@
 4	νοτιοανατολικές	νοτιοανατολικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	5	amod	_	_
 5	πολιτείες	πολιτεία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	2	dobj	_	_
 6	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	7	det	_	_
-7	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	5	amod	_	_
+7	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	5	amod	_	_
 8	,	,	PUNCT	PUNCT	_	2	punct	_	_
 9	ενώ	ενώ	CONJ	CONJ	_	2	cc	_	_
 10	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	11	det	_	_
@@ -42593,7 +42593,7 @@
 
 # Γαλλικά ΜΜΕ μεταδίδουν ότι « τρεις ισχυρές εκρήξεις ακούστηκαν κοντά στο σπίτι του άνδρα που θεωρείται ύποπτος για τους θανάτους επτά ανθρώπων , μεταξύ των οποίων ήταν και τρία παιδιά , εβραϊκής καταγωγής , σε σχολείο στην Τουλούζη » .  
 1	Γαλλικά	Γαλλικά	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	2	nmod	_	_
-2	ΜΜΕ	ΜΜΕ	PUNCT	PUNCT	_	3	nsubj	_	_
+2	ΜΜΕ	ΜΜΕ	NOUN	NOUN	_	3	nsubj	_	_
 3	μεταδίδουν	μεταδίδω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 4	ότι	ότι	CONJ	CONJ	_	9	mark	_	_
 5	«	«	PUNCT	PUNCT	_	9	punct	_	_
@@ -42748,7 +42748,7 @@
 46	διακήρυξη	διακήρυξη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	33	conj	_	_
 47	Ινδίας	Ινδία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	46	nmod	_	_
 48	-	-	PUNCT	PUNCT	_	47	punct	_	_
-49	ΕΕ	ΕΕ	PUNCT	PUNCT	_	47	conj	_	_
+49	ΕΕ	ΕΕ	NOUN	NOUN	_	47	conj	_	_
 50	,	,	PUNCT	PUNCT	_	52	punct	_	_
 51	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	52	det	_	_
 52	Νοέμβριο	Νοέμβριος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	46	nmod	_	_
@@ -42958,7 +42958,7 @@
 23	όσο	όσο	ADV	ADV	_	24	advmod	_	_
 24	και	και	CONJ	CONJ	_	22	cc	_	_
 25	στις	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Plur	26	case	_	_
-26	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	22	conj	_	_
+26	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	22	conj	_	_
 27	,	,	PUNCT	PUNCT	_	19	punct	_	_
 28	παρόλο	παρόλο	ADV	ADV	_	19	advmod	_	_
 29	που	που	ADV	ADV	_	28	advmod	_	_
@@ -43191,7 +43191,7 @@
 33	Εθνικής	εθνικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	34	amod	_	_
 34	Ασφάλειας	ασφάλεια	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	_
 35	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	36	det	_	_
-36	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	34	amod	_	_
+36	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	34	amod	_	_
 37	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 # Η Ινδία μποϊκοτάρει τον ευρωπαϊκό φόρο καυσαερίων  
@@ -43279,7 +43279,7 @@
 47	,	,	PUNCT	PUNCT	_	27	punct	_	_
 48	επεσήμανε	επισημαίνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 49	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	51	det	_	_
-50	κ.	κ.	PUNCT	PUNCT	_	51	amod	_	_
+50	κ.	κ.	NOUN	NOUN	_	51	amod	_	_
 51	Χολγκάντ	Χολγκάντ	NOUN	NOUN	_	48	nsubj	_	_
 52	.	.	PUNCT	PUNCT	_	48	punct	_	_
 
@@ -43405,7 +43405,7 @@
 12	Γερμανία	Γερμανία	NOUN	NOUN	_	13	nsubj	_	_
 13	εισήλθε	εισέρχομαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
 14	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	15	case	_	_
-15	ΕΕ	ΕΕ	PUNCT	PUNCT	_	13	advmod	_	_
+15	ΕΕ	ΕΕ	NOUN	NOUN	_	13	advmod	_	_
 16	ως	ως	ADV	ADV	_	13	advmod	_	_
 17	τμήμα	τμήμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	16	xcomp	_	_
 18	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	det	_	_
@@ -43469,7 +43469,7 @@
 8	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	9	case	_	_
 9	επιτροπή	επιτροπή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	iobj	_	_
 10	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	det	_	_
-11	ΟΗΕ	ΟΗΕ	PUNCT	PUNCT	_	9	amod	_	_
+11	ΟΗΕ	ΟΗΕ	NOUN	NOUN	_	9	amod	_	_
 12	πρόσβαση	πρόσβαση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	dobj	_	_
 13	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	14	case	_	_
 14	περιοχή	περιοχή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	12	nmod	_	_
@@ -43568,7 +43568,7 @@
 7	ορίου	όριο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
 8	χρέους	χρέος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
 9	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	10	det	_	_
-10	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	7	amod	_	_
+10	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	7	amod	_	_
 11	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 # Διότι τόσο το ευρώ , κυρίες και κύριοι , όσο και η Οικονομική και Νομισματική Ένωση γεννήθηκαν στην Μαδρίτη .  
@@ -43615,7 +43615,7 @@
 5	Πόλεμο	πόλεμος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	_
 6	,	,	PUNCT	PUNCT	_	18	punct	_	_
 7	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	8	det	_	_
-8	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	10	nsubj	_	_
+8	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	10	nsubj	_	_
 9	θεώρησαν	θεωρώ	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	10	cop	_	_
 10	ανεπίτρεπτη	ανεπίτρεπτος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
 11	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	12	det	_	_
@@ -43819,7 +43819,7 @@
 11	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	12	det	_	_
 12	προσπάθειες	προσπάθεια	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	10	dobj	_	_
 13	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	14	det	_	_
-14	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	12	amod	_	_
+14	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	12	amod	_	_
 15	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	16	case	_	_
 16	χώρα	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	12	nmod	_	_
 17	τους	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	nmod	_	_
@@ -43865,7 +43865,7 @@
 16	πολιτική	πολιτική	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	9	nmod	_	_
 17	μεταφορών	μεταφορά	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	_
 18	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	det	_	_
-19	ΕΕ	ΕΕ	PUNCT	PUNCT	_	16	amod	_	_
+19	ΕΕ	ΕΕ	NOUN	NOUN	_	16	amod	_	_
 20	,	,	PUNCT	PUNCT	_	9	punct	_	_
 21	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	22	case	_	_
 22	πλαίσιο	πλαίσιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	9	nmod	_	_
@@ -44458,7 +44458,7 @@
 5	διαθέσουμε	διαθέτω	VERB	VERB	Mood=Ind|Number=Plur|Person=1|Voice=Act	3	csubj	_	_
 6	εμείς	εγώ	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
 7	ως	ως	ADV	ADV	_	5	advmod	_	_
-8	ΕΕ	ΕΕ	PUNCT	PUNCT	_	7	xcomp	_	_
+8	ΕΕ	ΕΕ	NOUN	NOUN	_	7	xcomp	_	_
 9	επαρκή	επαρκής	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	10	amod	_	_
 10	μέσα	μέσο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	5	dobj	_	_
 11	προκειμένου	προκειμένου	CONJ	CONJ	_	13	mark	_	_
@@ -44903,7 +44903,7 @@
 6	Ταχυδρομικής	ταχυδρομικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	7	amod	_	_
 7	Υπηρεσίας	υπηρεσία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
 8	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	9	det	_	_
-9	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	7	amod	_	_
+9	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	7	amod	_	_
 10	μειώθηκαν	μειώνω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass	0	root	_	_
 11	κατά	κατά	ADP	ADP	_	13	case	_	_
 12	16	16	NUM	NUM	_	13	nmod	_	_
@@ -44925,7 +44925,7 @@
 11	Συμβουλίου	συμβούλιο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
 12	Ασφαλείας	ασφάλεια	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
 13	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	det	_	_
-14	ΟΗΕ	ΟΗΕ	PUNCT	PUNCT	_	11	amod	_	_
+14	ΟΗΕ	ΟΗΕ	NOUN	NOUN	_	11	amod	_	_
 15	για	για	ADP	ADP	_	17	case	_	_
 16	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	17	det	_	_
 17	Συρία	Συρία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	9	nmod	_	_
@@ -45142,7 +45142,7 @@
 12	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	13	det	_	_
 13	άρνηση	άρνηση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	_
 14	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	15	det	_	_
-15	ΚΚΕ	ΚΚΕ	PUNCT	PUNCT	_	13	amod	_	_
+15	ΚΚΕ	ΚΚΕ	NOUN	NOUN	_	13	amod	_	_
 16	να	να	PART	PART	_	17	aux	_	_
 17	συμμετάσχει	συμμετέχω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Voice=Act	13	acl	_	_
 18	στις	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Plur	19	case	_	_
@@ -45376,7 +45376,7 @@
 47	)	)	PUNCT	PUNCT	_	46	punct	_	_
 48	ήττα	ήττα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	40	nmod	_	_
 49	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	50	det	_	_
-50	Κ.Κ.Ε.	Κ.Κ.Ε.	PUNCT	PUNCT	_	48	amod	_	_
+50	Κ.Κ.Ε.	Κ.Κ.Ε.	NOUN	NOUN	_	48	amod	_	_
 
 # Δεν ξεκινάμε από το τίποτα , γι' αυτό πριν εξετάσω μερικά από τα βασικά σημεία αυτής της έκθεσης , θα συνοψίσω εν συντομία τις σημερινές μας σχέσεις με αυτή την περιοχή .  
 1	Δεν	δεν	PART	PART	_	2	neg	_	_
@@ -45472,7 +45472,7 @@
 20	είναι	είμαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	19	cop	_	_
 21	συγκεκριμένα	συγκεκριμένα	ADV	ADV	_	19	advmod	_	_
 22	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	24	det	_	_
-23	κ.	κ.	PUNCT	PUNCT	_	24	amod	_	_
+23	κ.	κ.	NOUN	NOUN	_	24	amod	_	_
 24	Τρακατέλλης	Τρακατέλλης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
 25	-	-	PUNCT	PUNCT	_	19	punct	_	_
 26	και	και	CONJ	CONJ	_	3	cc	_	_
@@ -45681,7 +45681,7 @@
 17	από	από	ADP	ADP	_	18	case	_	_
 18	χώρες	χώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	16	nmod	_	_
 19	εκτός	εκτός	ADV	ADV	_	20	case	_	_
-20	ΕΕ	ΕΕ	PUNCT	PUNCT	_	18	amod	_	_
+20	ΕΕ	ΕΕ	NOUN	NOUN	_	18	amod	_	_
 21	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # Είναι θετικό το γεγονός ότι ενεργούμε όλο και περισσότερο διασυνοριακά .  
@@ -45700,7 +45700,7 @@
 # Βρίσκεται 12 χλμ. νοτιοδυτικά της Χώρας της Σκιάθου και έχει μήκος 3 χλμ.  
 1	Βρίσκεται	βρίσκω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	_
 2	12	12	NUM	NUM	_	3	nmod	_	_
-3	χλμ.	χλμ.	PUNCT	PUNCT	_	4	advmod	_	_
+3	χλμ.	χλμ.	NOUN	NOUN	_	4	advmod	_	_
 4	νοτιοδυτικά	νοτιοδυτικά	ADV	ADV	_	1	advmod	_	_
 5	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	det	_	_
 6	Χώρας	χώρα	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
@@ -45710,7 +45710,7 @@
 10	έχει	έχω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	conj	_	_
 11	μήκος	μήκος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	10	dobj	_	_
 12	3	3	NUM	NUM	_	13	nmod	_	_
-13	χλμ.	χλμ.	PUNCT	PUNCT	_	11	amod	_	_
+13	χλμ.	χλμ.	NOUN	NOUN	_	11	amod	_	_
 
 # Σώζεται επίσης και ένα τμήμα του τείχους με την πύλη , η ταράτσα με τη ζεματίστρα , το μισοχαλασμένο τζαμί , κάποια ερείπια του τουρκικού διοικητηρίου , δύο δεξαμενές και το κανόνι της Αναγκιάς .  
 1	Σώζεται	σώζω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	_
@@ -45768,7 +45768,7 @@
 16	και	και	CONJ	CONJ	_	15	cc	_	_
 17	Φαρμάκων	φάρμακο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	15	conj	_	_
 18	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	19	det	_	_
-19	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	14	amod	_	_
+19	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	14	amod	_	_
 20	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # Η Επιτροπή παραμένει ανοιχτή σε οποιαδήποτε σύσταση διατυπωθεί ενδεχομένως από το κοινοβουλευτικό Σώμα .  
@@ -45838,7 +45838,7 @@
 
 # Οι ΗΠΑ και οι ΝΑΤΟϊκοί σύμμαχοί τους αναμένεται να αποσύρουν τα στρατεύματά τους από το Αφγανιστάν μέχρι τα τέλη του 2014 .  
 1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	2	det	_	_
-2	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	10	nsubj	_	_
+2	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	10	nsubj	_	_
 3	και	και	CONJ	CONJ	_	2	cc	_	_
 4	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	6	det	_	_
 5	ΝΑΤΟϊκοί	νατοϊκός	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	6	amod	_	_
@@ -46016,7 +46016,7 @@
 5	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	det	_	_
 6	Πρόεδρος	πρόεδρος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
 7	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	8	det	_	_
-8	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	6	amod	_	_
+8	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	6	amod	_	_
 9	,	,	PUNCT	PUNCT	_	11	punct	_	_
 10	Μπαράκ	Μπαράκ	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	11	nmod	_	_
 11	Ομπάμα	Ομπάμα	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	6	appos	_	_
@@ -46081,7 +46081,7 @@
 # Μόνο μια ΔΔ θα μπορούσε να αλλάξει το άρθρο 202 , το οποίο κατά βάση παρέχει αποκλειστικά δικαιώματα εποπτείας των επιτροπών στο Συμβούλιο Υπουργών , αγνοώντας το νέο ρόλο του Κοινοβουλίου .  
 1	Μόνο	μόνο	ADV	ADV	_	5	advmod	_	_
 2	μια	ένας	DET	DET	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	3	det	_	_
-3	ΔΔ	ΔΔ	PUNCT	PUNCT	_	5	nsubj	_	_
+3	ΔΔ	ΔΔ	NOUN	NOUN	_	5	nsubj	_	_
 4	θα	θα	PART	PART	_	5	aux	_	_
 5	μπορούσε	μπορώ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 6	να	να	PART	PART	_	7	aux	_	_
@@ -46270,7 +46270,7 @@
 46	(	(	PUNCT	PUNCT	_	47	punct	_	_
 47	ΕΚ	ΕΚ	ADP	ADP	_	45	case	_	_
 48	)	)	PUNCT	PUNCT	_	47	punct	_	_
-49	αριθ.	αριθ.	PUNCT	PUNCT	_	45	amod	_	_
+49	αριθ.	αριθ.	NOUN	NOUN	_	45	amod	_	_
 50	2580/2001	2580/2001	NUM	NUM	_	49	nmod	_	_
 51	,	,	PUNCT	PUNCT	_	54	punct	_	_
 52	χωρίς	χωρίς	ADP	ADP	_	54	case	_	_
@@ -46375,7 +46375,7 @@
 16	ρυθμίσεις	ρύθμιση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	10	conj	_	_
 17	για	για	ADP	ADP	_	19	case	_	_
 18	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	19	det	_	_
-19	ΜΜΕ	ΜΜΕ	PUNCT	PUNCT	_	16	amod	_	_
+19	ΜΜΕ	ΜΜΕ	NOUN	NOUN	_	16	amod	_	_
 20	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # Στο νησί αποδόθηκε το όνομα και όχι το επώνυμο του ιδιοκτήτη , το οποίο και παραφράστηκε από Guido σε Βίδο .  
@@ -46439,7 +46439,7 @@
 21	οράματος	όραμα	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
 22	μιας	ένας	DET	DET	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	24	det	_	_
 23	δημοκρατικής	δημοκρατικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	24	amod	_	_
-24	ΕΕ	ΕΕ	PUNCT	PUNCT	_	21	amod	_	_
+24	ΕΕ	ΕΕ	NOUN	NOUN	_	21	amod	_	_
 25	ή	ή	CONJ	CONJ	_	21	cc	_	_
 26	μιας	ένας	DET	DET	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	27	det	_	_
 27	Ευρώπης	Ευρώπη	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	21	conj	_	_
@@ -46477,7 +46477,7 @@
 15	δέκα	δέκα	NUM	NUM	Case=Acc|Gender=Neut|Number=Plur	13	nummod	_	_
 16	αιτήματα	αίτημα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	11	dobj	_	_
 17	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	18	det	_	_
-18	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	16	amod	_	_
+18	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	16	amod	_	_
 19	για	για	ADP	ADP	_	20	case	_	_
 20	εκδόσεις	έκδοση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	16	nmod	_	_
 21	πολιτών	πολίτης	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	_
@@ -46488,7 +46488,7 @@
 26	περιμένει	περιμένω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	conj	_	_
 27	από	από	ADP	ADP	_	29	case	_	_
 28	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	29	det	_	_
-29	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	26	iobj	_	_
+29	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	26	iobj	_	_
 30	να	να	PART	PART	_	31	aux	_	_
 31	δράσουν	δρω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Voice=Act	26	ccomp	_	_
 32	αναλόγως	ανάλογα	ADV	ADV	_	31	advmod	_	_
@@ -46504,13 +46504,13 @@
 42	σύμμαχός	σύμμαχος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	39	conj	_	_
 43	τους	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	42	nmod	_	_
 44	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	45	case	_	_
-45	ΝΑΤΟ	ΝΑΤΟ	PUNCT	PUNCT	_	42	amod	_	_
+45	ΝΑΤΟ	ΝΑΤΟ	NOUN	NOUN	_	42	amod	_	_
 46	"	"	PUNCT	PUNCT	_	40	punct	_	_
 47	,	,	PUNCT	PUNCT	_	49	punct	_	_
 48	όπως	όπως	ADV	ADV	_	49	advmod	_	_
 49	επεσήμανε	επισημαίνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	40	acl	_	_
 50	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	52	det	_	_
-51	κ.	κ.	PUNCT	PUNCT	_	52	amod	_	_
+51	κ.	κ.	NOUN	NOUN	_	52	amod	_	_
 52	Ερντογάν	Ερντογάν	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	49	nsubj	_	_
 53	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
@@ -46711,7 +46711,7 @@
 6	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	7	det	_	_
 7	μπολσεβίκων	μπολσεβίκα	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
 8	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	9	case	_	_
-9	ΕΣΣΔ	ΕΣΣΔ	PUNCT	PUNCT	_	5	amod	_	_
+9	ΕΣΣΔ	ΕΣΣΔ	NOUN	NOUN	_	5	amod	_	_
 10	και	και	CONJ	CONJ	_	3	cc	_	_
 11	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	13	det	_	_
 12	προσωπική	προσωπικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	13	amod	_	_
@@ -46885,7 +46885,7 @@
 35	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	37	det	_	_
 36	σλαβομακεδονικής	σλαβομακεδονικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	37	amod	_	_
 37	οργάνωσης	οργάνωση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	34	nmod	_	_
-38	ΣΝΟΦ	ΣΝΟΦ	PUNCT	PUNCT	_	37	amod	_	_
+38	ΣΝΟΦ	ΣΝΟΦ	NOUN	NOUN	_	37	amod	_	_
 39	.	.	PUNCT	PUNCT	_	18	punct	_	_
 
 # Στον ίδιο δρόμο συναντάμε και το χωριό Αυλή , από το οποίο ξεκινάει ορειβατικό μονοπάτι που διασχίζει ολόκληρο το Παγγαίο σε μια διαδρομή περίπου τεσσάρων ωρών .  
@@ -47364,7 +47364,7 @@
 9	μήνυμα	μήνυμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
 10	προς	προς	ADP	ADP	_	14	case	_	_
 11	τους	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	13	det	_	_
-12	κκ	κκ	PUNCT	PUNCT	_	13	amod	_	_
+12	κκ	κκ	NOUN	NOUN	_	13	amod	_	_
 13	Cox	Cox	NOUN	NOUN	_	9	nmod	_	_
 14	και	και	CONJ	CONJ	_	13	cc	_	_
 15	Martin	Martin	NOUN	NOUN	_	13	conj	_	_
@@ -47467,7 +47467,7 @@
 4	υπέρ	υπέρ	ADP	ADP	_	6	case	_	_
 5	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	det	_	_
 6	τροπολογίας	τροπολογία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-7	αρ.	αρ.	PUNCT	PUNCT	_	6	amod	_	_
+7	αρ.	αρ.	NOUN	NOUN	_	6	amod	_	_
 8	43	43	NUM	NUM	_	7	remnant	_	_
 9	που	που	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel	10	nsubj	_	_
 10	προτείνει	προτείνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	acl:relcl	_	_
@@ -47837,7 +47837,7 @@
 
 # Οι ΗΠΑ βοηθούν τη Γαλλία στο Μάλι .  
 1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	2	det	_	_
-2	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	3	nsubj	_	_
+2	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	3	nsubj	_	_
 3	βοηθούν	βοηθώ	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 4	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	det	_	_
 5	Γαλλία	Γαλλία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	dobj	_	_
@@ -48315,7 +48315,7 @@
 27	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	28	det	_	_
 28	γνώμη	γνώμη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	25	dobj	_	_
 29	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	31	det	_	_
-30	κ.	κ.	PUNCT	PUNCT	_	31	amod	_	_
+30	κ.	κ.	NOUN	NOUN	_	31	amod	_	_
 31	Gahrton	Gahrton	NOUN	NOUN	_	28	nmod	_	_
 32	,	,	PUNCT	PUNCT	_	35	punct	_	_
 33	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	34	det	_	_
@@ -48568,7 +48568,7 @@
 2	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	4	det	_	_
 3	διπλωματικές	διπλωματικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	4	amod	_	_
 4	σχέσεις	σχέση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	_
-5	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	4	amod	_	_
+5	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	4	amod	_	_
 6	-	-	PUNCT	PUNCT	_	5	punct	_	_
 7	Σομαλίας	Σομαλία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	5	conj	_	_
 8	.	.	PUNCT	PUNCT	_	1	punct	_	_
@@ -48766,7 +48766,7 @@
 
 # 480 χλμ.  
 1	480	480	NUM	NUM	_	2	nmod	_	_
-2	χλμ.	χλμ.	PUNCT	PUNCT	_	0	root	_	_
+2	χλμ.	χλμ.	NOUN	NOUN	_	0	root	_	_
 
 # Με την συνθήκη των Βερσαλλιών οι Γερμανοί χάνουν μεγάλες εκτάσεις ( στο σύνολο περίπου 11% ) του κράτους τους στη Γαλλία , το Βέλγιο , τη Τσεχοσλοβακία , τη Δανία , τη Λιθουανία και τη Πολωνία .  
 1	Με	με	ADP	ADP	_	3	case	_	_
@@ -48872,7 +48872,7 @@
 4	οργάνωση	οργάνωση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 5	ήταν	είμαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	4	cop	_	_
 6	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	7	det	_	_
-7	ΕΑΜ	ΕΑΜ	PUNCT	PUNCT	_	4	nsubj	_	_
+7	ΕΑΜ	ΕΑΜ	NOUN	NOUN	_	4	nsubj	_	_
 8	και	και	CONJ	CONJ	_	7	cc	_	_
 9	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	12	det	_	_
 10	στρατιωτικό	στρατιωτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	12	amod	_	_
@@ -48880,14 +48880,14 @@
 12	παρακλάδι	παρακλάδι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	7	conj	_	_
 13	,	,	PUNCT	PUNCT	_	15	punct	_	_
 14	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	15	det	_	_
-15	ΕΛΑΣ	ΕΛΑΣ	PUNCT	PUNCT	_	12	appos	_	_
+15	ΕΛΑΣ	ΕΛΑΣ	NOUN	NOUN	_	12	appos	_	_
 16	που	που	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	18	nsubj	_	_
 17	είχε	έχω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	18	aux	_	_
 18	ιδρυθεί	ιδρύω	VERB	VERB	VerbForm=Inf|Voice=Pass	15	acl:relcl	_	_
 19	με	με	ADP	ADP	_	20	case	_	_
 20	πρωτοβουλία	πρωτοβουλία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	18	nmod	_	_
 21	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	22	det	_	_
-22	ΚΚΕ	ΚΚΕ	PUNCT	PUNCT	_	20	amod	_	_
+22	ΚΚΕ	ΚΚΕ	NOUN	NOUN	_	20	amod	_	_
 23	αλλά	αλλά	CONJ	CONJ	_	18	cc	_	_
 24	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	27	case	_	_
 25	μεγαλύτερη	μεγάλος	ADJ	ADJ	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing	27	amod	_	_
@@ -49271,7 +49271,7 @@
 22	να	να	PART	PART	_	23	aux	_	_
 23	αντιμετωπίσει	αντιμετωπίζω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Voice=Act	21	ccomp	_	_
 24	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	27	det	_	_
-25	κ.	κ.	PUNCT	PUNCT	_	27	amod	_	_
+25	κ.	κ.	NOUN	NOUN	_	27	amod	_	_
 26	von	von	NOUN	NOUN	_	27	nmod	_	_
 27	Wogau	Wogau	NOUN	NOUN	_	23	nsubj	_	_
 28	όσον	όσο	ADV	ADV	_	29	advmod	_	_
@@ -49309,7 +49309,7 @@
 
 # 694 χλμ.  
 1	694	694	NUM	NUM	_	2	nmod	_	_
-2	χλμ.	χλμ.	PUNCT	PUNCT	_	0	root	_	_
+2	χλμ.	χλμ.	NOUN	NOUN	_	0	root	_	_
 
 # Πρέπει ωστόσο να προσέξουμε στις εβδομάδες , τους μήνες και τα χρόνια που έχουμε μπροστά μας να μην επιτρέψουμε παραβιάσεις των ανθρωπίνων δικαιωμάτων στο όνομα της καταπολέμησης της τρομοκρατίας .  
 1	Πρέπει	πρέπει	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
@@ -49424,7 +49424,7 @@
 2	Υπουργός	υπουργός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
 3	Άμυνας	άμυνα	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	5	det	_	_
-5	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	2	amod	_	_
+5	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	2	amod	_	_
 6	,	,	PUNCT	PUNCT	_	8	punct	_	_
 7	Λίον	Λίον	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	_
 8	Πανέτα	Πανέτα	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
@@ -49548,7 +49548,7 @@
 3	,	,	PUNCT	PUNCT	_	2	punct	_	_
 4	"	"	PUNCT	PUNCT	_	8	punct	_	_
 5	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	6	det	_	_
-6	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	8	nsubj	_	_
+6	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	8	nsubj	_	_
 7	θα	θα	PART	PART	_	8	aux	_	_
 8	λάβουν	λαμβάνω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Voice=Act	0	root	_	_
 9	όλα	όλος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	12	amod	_	_
@@ -49835,7 +49835,7 @@
 50	εκατοστιαίας	εκατοστιαίος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	51	amod	_	_
 51	μονάδας	μονάδα	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	48	nmod	_	_
 52	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	53	det	_	_
-53	ΑΕγχΠ	ΑΕγχΠ	PUNCT	PUNCT	_	51	amod	_	_
+53	ΑΕγχΠ	ΑΕγχΠ	NOUN	NOUN	_	51	amod	_	_
 54	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 # To 2001 προσχώρησε σε αυτήν και η Ελλάδα .  
@@ -49862,7 +49862,7 @@
 10	συνάδελφό	συνάδελφος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	2	iobj	_	_
 11	μου	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	nmod	_	_
 12	,	,	PUNCT	PUNCT	_	14	punct	_	_
-13	κ.	κ.	PUNCT	PUNCT	_	14	amod	_	_
+13	κ.	κ.	NOUN	NOUN	_	14	amod	_	_
 14	Bolkestein	Bolkestein	NOUN	NOUN	_	10	appos	_	_
 15	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -49892,14 +49892,14 @@
 23	νέων	νέος	ADJ	ADJ	Case=Gen|Gender=Neut|Number=Plur	24	amod	_	_
 24	μελών	μέλος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	22	nmod	_	_
 25	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	26	case	_	_
-26	ΕΕ.	ΕΕ.	PUNCT	PUNCT	_	22	amod	_	_
+26	ΕΕ.	ΕΕ.	NOUN	NOUN	_	22	amod	_	_
 
 # Η Ταχυδρομική Υπηρεσία των ΗΠΑ παλεύει για επιβίωση .  
 1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	det	_	_
 2	Ταχυδρομική	ταχυδρομικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
 3	Υπηρεσία	υπηρεσία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
 4	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	5	det	_	_
-5	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	3	amod	_	_
+5	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	3	amod	_	_
 6	παλεύει	παλεύω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 7	για	για	ADP	ADP	_	8	case	_	_
 8	επιβίωση	επιβίωση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	_
@@ -49951,7 +49951,7 @@
 
 # Οι ΗΠΑ συμφώνησαν να βοηθήσουν τη Γαλλία με την από αέρος μεταφορά στρατιωτών και εξοπλισμού στο Μάλι .  
 1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	2	det	_	_
-2	ΗΠΑ	ΗΠΑ	PUNCT	PUNCT	_	3	nsubj	_	_
+2	ΗΠΑ	ΗΠΑ	NOUN	NOUN	_	3	nsubj	_	_
 3	συμφώνησαν	συμφωνώ	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
 4	να	να	PART	PART	_	5	aux	_	_
 5	βοηθήσουν	βοηθώ	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Voice=Act	3	ccomp	_	_
@@ -50018,7 +50018,7 @@
 30	ζωής	ζωή	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	_
 31	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Plur	32	det	_	_
 32	προϊόντων	προϊόν	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	30	nmod	_	_
-33	π.χ.	π.χ.	PUNCT	PUNCT	_	26	advmod	_	_
+33	π.χ.	π.χ.	ADV	ADV	_	26	advmod	_	_
 34	ως	ως	ADV	ADV	_	26	advmod	_	_
 35	κριτήριο	κριτήριο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	34	xcomp	_	_
 36	αξιολόγησης	αξιολόγηση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	35	nmod	_	_
@@ -50221,7 +50221,7 @@
 23	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	24	det	_	_
 24	κατάσταση	κατάσταση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	22	dobj	_	_
 25	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	26	det	_	_
-26	ΜΜΕ	ΜΜΕ	PUNCT	PUNCT	_	24	amod	_	_
+26	ΜΜΕ	ΜΜΕ	NOUN	NOUN	_	24	amod	_	_
 27	;	;	PUNCT	PUNCT	_	2	punct	_	_
 
 # Η Εισαγγελία της Γερμανίας ερευνά την κατοικία του Κρίστιαν Βουλφ  
@@ -50626,7 +50626,7 @@
 16	πρωί	πρωί	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	14	nmod	_	_
 17	ενώπιον	ενώπιον	ADP	ADP	_	21	case	_	_
 18	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	21	det	_	_
-19	Δ'	Δ'	PUNCT	PUNCT	_	21	amod	_	_
+19	Δ'	Δ'	NOUN	NOUN	_	21	amod	_	_
 20	ειδικής	ειδικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	21	amod	_	_
 21	ανακρίτριας	ανακρίτρια	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
 22	Θεσσαλονίκης	Θεσσαλονίκη	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
@@ -50713,7 +50713,7 @@
 13	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	14	det	_	_
 14	υπουργών	υπουργός	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
 15	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	16	det	_	_
-16	ΕΑΜ	ΕΑΜ	PUNCT	PUNCT	_	14	amod	_	_
+16	ΕΑΜ	ΕΑΜ	NOUN	NOUN	_	14	amod	_	_
 17	,	,	PUNCT	PUNCT	_	20	punct	_	_
 18	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	19	det	_	_
 19	οποία	οποίος	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel	20	nsubj	_	_
@@ -51256,7 +51256,7 @@
 # Κατά το ΕΑΜ , 28 άνθρωποι έχασαν τη ζωή τους ( οι 21 στο Σύνταγμα ) και 140 τραυματίστηκαν .  
 1	Κατά	κατά	ADP	ADP	_	3	case	_	_
 2	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	3	det	_	_
-3	ΕΑΜ	ΕΑΜ	PUNCT	PUNCT	_	17	advmod	_	_
+3	ΕΑΜ	ΕΑΜ	NOUN	NOUN	_	17	advmod	_	_
 4	,	,	PUNCT	PUNCT	_	3	punct	_	_
 5	28	28	NUM	NUM	_	6	nmod	_	_
 6	άνθρωποι	άνθρωπος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
@@ -51283,7 +51283,7 @@
 5	λύσεις	λύση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	1	dobj	_	_
 6	,	,	PUNCT	PUNCT	_	7	punct	_	_
 7	όπως	όπως	ADV	ADV	_	5	remnant	_	_
-8	π.χ.	π.χ.	PUNCT	PUNCT	_	7	advmod	_	_
+8	π.χ.	π.χ.	ADV	ADV	_	7	advmod	_	_
 9	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	10	det	_	_
 10	ευελιξία	ευελιξία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	5	remnant	_	_
 11	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	det	_	_
