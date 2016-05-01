@@ -25,7 +25,7 @@ We wish to thank all contributors to the original annotation efforts. A large pa
 ### CHANGELOG
 
 #### 1.3
-- Added PronType and NumType attribute/value pairs to articles and numerals
+- Added PronType and NumType attribute/value pairs to certain types of determiners and numerals
 - Improved conversion of abbreviations
 
 #### 1.2
