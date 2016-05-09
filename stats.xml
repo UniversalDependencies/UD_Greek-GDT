@@ -11,40 +11,44 @@
   <forms unique="11104" /><!-- ,, ., και, να, της, το, την, η, του, για, με, των, από, που, ότι -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
-  <tags unique="11">
+  <tags unique="10">
     <tag name="ADJ">4693</tag><!-- ευρωπαϊκός, πολύς, όλος, μεγάλος, νέος, σημαντικός, πολιτικός, εθνικός, ίδιος, οικονομικός -->
     <tag name="ADP">5105</tag><!-- στου, για, με, από, σε, κατά, προς, μεταξύ, μέχρι, μετά -->
-    <tag name="ADV">2640</tag><!-- ως, επίσης, όπως, όσο, σχετικά, πολύ, σήμερα, μόνο, ακόμα, εδώ -->
+    <tag name="ADV">2642</tag><!-- ως, επίσης, όπως, όσο, σχετικά, πολύ, σήμερα, μόνο, ακόμα, εδώ -->
     <tag name="CONJ">2973</tag><!-- και, ότι, αλλά, αν, ενώ, ή, ωστόσο, όμως, όταν, προκειμένου -->
-    <tag name="DET">9465</tag><!-- ο, ένας, o -->
-    <tag name="NOUN">15257</tag><!-- επιτροπή, χώρα, κοινοβούλιο, ένωση, συμβούλιο, χρόνος, πρόεδρος, κράτος, μέλος, ομάδα -->
+    <tag name="NOUN">15603</tag><!-- επιτροπή, χώρα, κοινοβούλιο, ένωση, συμβούλιο, χρόνος, πρόεδρος, κράτος, ΗΠΑ, μέλος -->
     <tag name="NUM">946</tag><!-- δύο, πρώτος, ένας, τρεις, δεύτερος, τρίτος, πέντε, 1, 15, Β' -->
     <tag name="PART">2288</tag><!-- να, θα, δεν, μην, όχι, ας, άραγε, μη -->
-    <tag name="PRON">2775</tag><!-- μου, που, αυτός, οποίος, εγώ, άλλος, κανένας, κάθε, κάποιος, τέτοιος -->
-    <tag name="PUNCT">6326</tag><!-- ,, ., ", -, «, », (, ), ΗΠΑ, : -->
+    <tag name="PRON">12240</tag><!-- ο, μου, που, αυτός, ένας, οποίος, εγώ, άλλος, κανένας, κάθε -->
+    <tag name="PUNCT">5978</tag><!-- ,, ., ", -, «, », (, ), :, ; -->
     <tag name="VERB">6688</tag><!-- είμαι, έχω, πρέπει, μπορώ, γίνομαι, αποτελώ, υπάρχω, αναφέρω, βρίσκω, θέλω -->
   </tags>
   <!-- Statistics of features and values. The comments with the most frequent word forms are optional (but easy to obtain). -->
-  <feats unique="30">
-    <feat name="Case" value="Acc" upos="ADJ,ADP,DET,NOUN,NUM,PRON,VERB">15695</feat><!-- την, το, στην, τη, στο, τις, τον, τα, τους, στη -->
-    <feat name="Case" value="Dat" upos="ADJ,DET,NOUN">36</feat><!-- λόγω, πάση, μέρει, περιπτώσει, βάσει, μέσω, τω, θυσία, συνεχεία, συντομία -->
-    <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,NUM,PRON,VERB">8623</feat><!-- της, του, των, τους, μας, μου, σας, επιτροπής, ένωσης, Κοινοβουλίου -->
-    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,VERB">8750</feat><!-- η, ο, οι, το, που, τα, αυτό, επιτροπή, οποία, αυτή -->
+  <feats unique="35">
+    <feat name="Case" value="Acc" upos="ADJ,ADP,NOUN,NUM,PRON,VERB">15695</feat><!-- την, το, στην, τη, στο, τις, τον, τα, τους, στη -->
+    <feat name="Case" value="Dat" upos="ADJ,NOUN,PRON">36</feat><!-- λόγω, πάση, μέρει, περιπτώσει, βάσει, μέσω, τω, θυσία, συνεχεία, συντομία -->
+    <feat name="Case" value="Gen" upos="ADJ,NOUN,NUM,PRON,VERB">8623</feat><!-- της, του, των, τους, μας, μου, σας, επιτροπής, ένωσης, Κοινοβουλίου -->
+    <feat name="Case" value="Nom" upos="ADJ,NOUN,NUM,PRON,VERB">8750</feat><!-- η, ο, οι, το, που, τα, αυτό, επιτροπή, οποία, αυτή -->
     <feat name="Case" value="Voc" upos="ADJ,NOUN">61</feat><!-- κύριε, Πρόεδρε, κυρίες, κύριοι, κυρία, Επίτροπε, Αντιπρόεδρε, Προεδρεύοντα, αγαπητοί, βουλευτές -->
-    <feat name="Definite" value="Def" upos="DET">9017</feat><!-- την, το, της, η, του, των, ο, οι, τα, τη -->
-    <feat name="Definite" value="Ind" upos="DET">448</feat><!-- μια, ένα, μία, ένας, ενός, μιας, έναν, μίας -->
+    <feat name="Definite" value="Def" upos="PRON">9017</feat><!-- την, το, της, η, του, των, ο, οι, τα, τη -->
+    <feat name="Definite" value="Ind" upos="PRON">448</feat><!-- μια, ένα, μία, ένας, ενός, μιας, έναν, μίας -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">251</feat><!-- περισσότερο, μεγαλύτερο, μεγαλύτερη, περισσότερα, περισσότερες, αργότερα, περισσότεροι, καλύτερη, νωρίτερα, καλύτερα -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">39</feat><!-- σοβαρότατες, ελάχιστα, ελάχιστες, ελάχιστο, Ανώτατο, ανώτατων, μέγιστη, πιθανότατα, Γαληνότατης, Δριμύτατη -->
-    <feat name="Gender" value="Fem" upos="ADJ,ADP,DET,NOUN,NUM,PRON,VERB">17374</feat><!-- της, την, η, στην, τη, τις, των, οι, που, στη -->
-    <feat name="Gender" value="Masc" upos="ADJ,ADP,DET,NOUN,NUM,PRON,VERB">7077</feat><!-- ο, του, τους, τον, οι, των, μας, που, στον, το -->
-    <feat name="Gender" value="Neut" upos="ADJ,ADP,DET,NOUN,NUM,PRON,VERB">8714</feat><!-- το, του, τα, στο, που, των, αυτό, ένα, στα, κοινοβούλιο -->
+    <feat name="Gender" value="Fem" upos="ADJ,ADP,NOUN,NUM,PRON,VERB">17374</feat><!-- της, την, η, στην, τη, τις, των, οι, που, στη -->
+    <feat name="Gender" value="Masc" upos="ADJ,ADP,NOUN,NUM,PRON,VERB">7077</feat><!-- ο, του, τους, τον, οι, των, μας, που, στον, το -->
+    <feat name="Gender" value="Neut" upos="ADJ,ADP,NOUN,NUM,PRON,VERB">8714</feat><!-- το, του, τα, στο, που, των, αυτό, ένα, στα, κοινοβούλιο -->
     <feat name="Mood" value="Imp" upos="VERB">18</feat><!-- επιτρέψτε, Δώστε, Αφήστε, Δείτε, Επιλέξτε, επίκρινε, λάβετε, περιορίστε -->
     <feat name="Mood" value="Ind" upos="VERB">6222</feat><!-- είναι, πρέπει, έχει, ήταν, έχουν, μπορεί, είχε, αφορά, αποτελεί, δήλωσε -->
-    <feat name="Number" value="Plur" upos="ADJ,ADP,DET,NOUN,NUM,PRON,VERB">12296</feat><!-- των, οι, τα, τους, τις, που, στις, μας, δύο, στα -->
-    <feat name="Number" value="Sing" upos="ADJ,ADP,DET,NOUN,NUM,PRON,VERB">27109</feat><!-- της, το, την, η, του, ο, στην, τη, στο, τον -->
+    <feat name="Number" value="Plur" upos="ADJ,ADP,NOUN,NUM,PRON,VERB">12296</feat><!-- των, οι, τα, τους, τις, που, στις, μας, δύο, στα -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,NOUN,NUM,PRON,VERB">27109</feat><!-- της, το, την, η, του, ο, στην, τη, στο, τον -->
+    <feat name="NumType" value="Card" upos="NUM">297</feat><!-- δύο, τρεις, πέντε, ένα, μία, έξι, δέκα, μια, τρία, έναν -->
+    <feat name="NumType" value="Gen" upos="NUM">19</feat><!-- δεκάδες, χιλιάδες, εκατοντάδες, χιλιάδων, διπλάσιο, εκατοντάδων -->
+    <feat name="NumType" value="Mult" upos="NUM">3</feat><!-- διπλή, διπλό -->
+    <feat name="NumType" value="Ord" upos="NUM">176</feat><!-- πρώτη, πρώτο, Β', δεύτερο, δεύτερη, πρώτες, τρίτη, πρώτης, πρώτος, δεύτερος -->
     <feat name="Person" value="1" upos="PRON,VERB">1246</feat><!-- μας, μου, έχουμε, ήθελα, πιστεύω, εμείς, θεωρώ, μπορούμε, είμαστε, θέλω -->
     <feat name="Person" value="2" upos="PRON,VERB">188</feat><!-- σας, είπατε, εσείς, έχετε, επιτρέψτε, Δώστε, αναφερθήκατε, επισκεφθείτε, κάνετε, μπορείτε -->
     <feat name="Person" value="3" upos="PRON,VERB">7581</feat><!-- που, είναι, πρέπει, τους, αυτό, του, έχει, αυτή, οποία, ήταν -->
+    <feat name="PronType" value="Art" upos="PRON">9465</feat><!-- την, το, της, η, του, των, ο, οι, τα, τη -->
     <feat name="PronType" value="Dem" upos="PRON">599</feat><!-- αυτό, αυτή, αυτά, αυτές, αυτής, αυτού, αυτών, αυτόν, αυτήν, αυτούς -->
     <feat name="PronType" value="Ind" upos="PRON">293</feat><!-- κάθε, κάτι, άλλες, άλλη, άλλων, άλλα, κανείς, κάποια, άλλο, καμία -->
     <feat name="PronType" value="Int" upos="PRON">19</feat><!-- τι, ποιο, Τίνος, ποιες, ποιος -->
