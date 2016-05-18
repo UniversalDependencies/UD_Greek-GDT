@@ -24,6 +24,9 @@ We wish to thank all contributors to the original annotation efforts. A large pa
 
 ### CHANGELOG
 
+#### 1.4
+- Fixed new issues in conversion of determiner pos
+
 #### 1.3
 - Added PronType and NumType attribute/value pairs to certain types of determiners and numerals
 - Improved conversion of abbreviations
