@@ -34,12 +34,15 @@ We wish to thank all contributors to the original annotation efforts. A large pa
 #### 1.2
 - Fixed issues in conversion of determiner pos and adjective degree
 
-#### 1.1 
+#### 1.1
 - Initial release of automatic conversion to UD
 
-    Documentation status: partial
-    Data source: automatic
-    Data available since: UD v1.1
-    License: CC BY-NC-SA 3.0
-    Genre: news wiki spoken
-    Contributors: Prokopidis, Prokopis
+=== Machine-readable metadata =================================================
+Documentation status: partial
+Data source: automatic
+Data available since: UD v1.1
+License: CC BY-NC-SA 3.0
+Genre: news wiki spoken
+Contributors: Prokopidis, Prokopis
+Contact:
+===============================================================================
