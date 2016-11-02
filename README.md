@@ -44,5 +44,4 @@ Data available since: UD v1.1
 License: CC BY-NC-SA 3.0
 Genre: news wiki spoken
 Contributors: Prokopidis, Prokopis
-Contact: 
-===============================================================================
+Contact: prokopis@ilsp.gr
