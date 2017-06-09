@@ -17,7 +17,7 @@ We wish to thank all contributors to the original annotation efforts. A large pa
 
 ## References
 
-* Prokopis Prokopidis and Haris Papageorgiou. Experiments for Dependency Parsing of Greek. In Proceedings of the First Joint Workshop on Statistical Parsing of Morphologically Rich Languages and Syntactic Analysis of Non-Canonical Languages, pages 89 -96, Dublin, Ireland, August 2014.
+* Prokopis Prokopidis and Haris Papageorgiou. Universal Dependencies for Greek. In Proceedings of the NoDaLiDa 2017 Workshop on Universal Dependencies (UDW 2017), pages 102-106, Gothenburg, Sweden, May 2017.
 
 * Prokopis Prokopidis, Elina Desypri, Maria Koutsombogera, Haris Papageorgiou, and Stelios Piperidis. Theoretical and Practical Issues in the Construction of a Greek Dependency Treebank. In Montserrat Civit, Sandra Kubler, and Ma. Antonia Marti, editors, Proceedings of The Fourth Workshop on Treebanks and Linguistic Theories (TLT 2005), pages 149-160, Barcelona, Spain, December 2005. Universitat de Barcelona.
 
