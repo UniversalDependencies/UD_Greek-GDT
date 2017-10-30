@@ -1,3 +1,4 @@
+# newdoc id = gdt-20020206-ep-sessions_031
 # sent_id = gdt-20020206-ep-sessions_031-1
 # text = Κύριε Πρόεδρε, το ζήτημα του ευρωπαϊκού εντάλματος σύλληψης είναι πραγματικά πολύ περίεργο, όχι μόνο διότι παραμένουν ασαφή σημαντικά θέματα, αλλά και διότι το Κοινοβούλιο δεν τολμά να επιβάλει τις θέσεις επί των οποίων συμφωνεί.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -572,6 +573,7 @@
 46	μου	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	45	nmod	_	SpaceAfter=No
 47	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
+# newdoc id = gdt-2005XXXX-ert-tourism_menoume_ellada_igoumenitsa
 # sent_id = gdt-2005XXXX-ert-tourism_menoume_ellada_igoumenitsa-1
 # text = Στην πόλη της Ηγουμενίτσας.
 1-2	Στην	_	_	_	_	_	_	_	_
@@ -881,6 +883,7 @@
 3	Ηγουμενίτσα	Ηγουμενίτσα	PROPN	PROPN	Case=Nom|Gender=Fem|Number=Sing	1	compound	_	SpaceAfter=No
 4	:	:	PUNCT	PUNCT	_	1	punct	_	_
 
+# newdoc id = gdt-2005XXXX-ert-tourism_menoume_ellada_kavala
 # sent_id = gdt-2005XXXX-ert-tourism_menoume_ellada_kavala-1
 # text = Στην πόλη της Καβάλας.
 1-2	Στην	_	_	_	_	_	_	_	_
@@ -1232,6 +1235,7 @@
 1	405	405	NUM	NUM	NumType=Card	2	nummod	_	_
 2	χλμ.	χλμ.	NOUN	NOUN	Abbr=Yes	0	root	_	_
 
+# newdoc id = gdt-20090406-apogevmatini-news_piravlos_vorias_koreas
 # sent_id = gdt-20090406-apogevmatini-news_piravlos_vorias_koreas-1
 # text = «Παγκόσμια απειλή» η εκτόξευση πυραύλου από τη Βόρεια Κορέα
 1	«	«	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No
@@ -1712,6 +1716,7 @@
 35	Κορέας	Κορέα	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	SpaceAfter=No
 36	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
+# newdoc id = gdt-20120316-elwikinews-5213
 # sent_id = gdt-20120316-elwikinews-5213-1
 # text = Ο Ολυμπιακός Πειραιώς ηττήθηκε από τη Μεταλίστ Χάρκιβ με σκορ 1:2
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -1882,6 +1887,7 @@
 36	Ουντινέζε	Ουντινέζε	X	X	Foreign=Yes	22	conj	_	SpaceAfter=No
 37	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
+# newdoc id = gdt-20130103-elwikinews-1
 # sent_id = gdt-20130103-elwikinews-1-1
 # text = Εξιτήριο από το νοσοκομείο της Νέας Υόρκης πήρε η Χίλαρι Κλίντον.
 1	Εξιτήριο	εξιτήριο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
@@ -2081,6 +2087,7 @@
 23	Ουάσιγκτον	Ουάσιγκτον	X	X	Foreign=Yes	19	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
+# newdoc id = gdt-20120319-elwikinews-5234
 # sent_id = gdt-20120319-elwikinews-5234-1
 # text = Δεκάδες συλλήψεις διαδηλωτών στη Ρωσία
 1	Δεκάδες	δεκάδα	NUM	NUM	Case=Nom|Gender=Fem|Number=Plur|NumType=Sets	2	nummod	_	_
@@ -2294,6 +2301,7 @@
 28	2000	2000	NUM	NUM	NumType=Card	19	nmod	_	SpaceAfter=No
 29	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
+# newdoc id = gdt-20020115-ep-sessions_002
 # sent_id = gdt-20020115-ep-sessions_002-1
 # text = Καλημέρα συνάδελφοι.
 1	Καλημέρα	καλημέρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
@@ -3424,6 +3432,7 @@
 13	μας	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# newdoc id = gdt-20120304-elwikinews-5012
 # sent_id = gdt-20120304-elwikinews-5012-1
 # text = Σύγκρουση τρένων στην Νότια Πολωνία
 1	Σύγκρουση	σύγκρουση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
@@ -3572,6 +3581,7 @@
 12	δυστυχήματος	δυστύχημα	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
+# newdoc id = gdt-20130904-elwikinews-1
 # sent_id = gdt-20130904-elwikinews-1-1
 # text = Οι Ευρωπαίοι ψήλωσαν 11 εκατοστά τα τελευταία 100 χρόνια.
 1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
@@ -3854,6 +3864,7 @@
 15	.	.	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
 16	"	"	PUNCT	PUNCT	_	10	punct	_	_
 
+# newdoc id = gdt-20050222-ertonline-health_4
 # sent_id = gdt-20050222-ertonline-health_4-1
 # text = Μέθοδος προβλέπει το αποτέλεσμα της επέμβασης
 1	Μέθοδος	μέθοδος	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
@@ -4335,6 +4346,7 @@
 33	Τέιλορ	Τέιλορ	X	X	Foreign=Yes	30	nsubj	_	SpaceAfter=No
 34	.	.	PUNCT	PUNCT	_	30	punct	_	_
 
+# newdoc id = gdt-20020205-ep-sessions_240
 # sent_id = gdt-20020205-ep-sessions_240-1
 # text = (SV) Κυρία Πρόεδρε, θα ήθελα καταρχάς να ευχαριστήσω όλους όσους συνεργάστηκαν για την έκθεση αυτή - τους συναδέλφους από άλλες πολιτικές ομάδες, ιδιαίτερα την κ. Roth-Behrendt, πρώην πρόεδρο της προσωρινής επιτροπής έρευνας για την ΣΕΒ, καθώς και την Επιτροπή αλλά και το γραφείο Τροφίμων και Κτηνιατρικών Θεμάτων του Δουβλίνου.
 1	(	(	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No
@@ -5349,6 +5361,7 @@
 32	ανθρώπους	άνθρωπος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	28	conj	_	SpaceAfter=No
 33	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
+# newdoc id = gdt-20090221-apogevmatini-news_kakokeria_sta_valkania
 # sent_id = gdt-20090221-apogevmatini-news_kakokeria_sta_valkania-1
 # text = Τρεις νεκροί από τη σφοδρή κακοκαιρία που πλήττει τα Βαλκάνια.
 1	Τρεις	τρεις	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	2	nummod	_	_
@@ -5580,6 +5593,7 @@
 21	δρόμους	δρόμος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
 22	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
+# newdoc id = gdt-20120322-elwikinews-5258
 # sent_id = gdt-20120322-elwikinews-5258-1
 # text = Στρατιωτικό πραξικόπημα στο Μάλι
 1	Στρατιωτικό	στρατιωτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
@@ -5776,6 +5790,7 @@
 28	συντάγματος	σύνταγμα	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	SpaceAfter=No
 29	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# newdoc id = gdt-20020116-ep-sessions_2231
 # sent_id = gdt-20020116-ep-sessions_2231-1
 # text = Κύριε Πρόεδρε, θα ήθελα καταρχάς να ευχαριστήσω τον εισηγητή για τον τεράστιο όγκο δουλειάς που αφιέρωσε στην έκθεση αυτή και για τις πληροφορίες που αυτή περιέχει.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -6429,6 +6444,7 @@
 39	εκεί	εκεί	ADV	ADV	_	35	advmod	_	SpaceAfter=No
 40	.	.	PUNCT	PUNCT	_	19	punct	_	_
 
+# newdoc id = gdt-20140429-voa-4
 # sent_id = gdt-20140429-voa-4-1
 # text = Την έκδοση του Φετουλάχ Γκιουλέν στην Τουρκία θα ζητήσει ο Ερντογάν από τις ΗΠΑ.
 1	Την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -6834,6 +6850,7 @@
 58	Τουρκίας	Τουρκία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	56	nmod	_	SpaceAfter=No
 59	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
+# newdoc id = gdt-2005XXXX-ert-tourism_menoume_ellada_sifnos
 # sent_id = gdt-2005XXXX-ert-tourism_menoume_ellada_sifnos-1
 # text = Στο νησί της Σίφνου.
 1-2	Στο	_	_	_	_	_	_	_	_
@@ -7408,6 +7425,7 @@
 16	Μήλος	Μήλος	PROPN	PROPN	Case=Nom|Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
 17	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
+# newdoc id = gdt-2005XXXX-ert-tourism_menoume_ellada_alonisos
 # sent_id = gdt-2005XXXX-ert-tourism_menoume_ellada_alonisos-1
 # text = Αλόννησος - Στην παλιά Χώρα και στο Πατητήρι.
 1	Αλόννησος	Αλόννησος	PROPN	PROPN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
@@ -7916,6 +7934,7 @@
 41	Καρά	καράς	PROPN	PROPN	Case=Gen|Gender=Masc|Number=Sing	40	nmod	_	SpaceAfter=No
 42	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
+# newdoc id = gdt-20120301-elwikinews-4982
 # sent_id = gdt-20120301-elwikinews-4982-1
 # text = Σε προσωρινό μορατόριουμ συμφώνησε η Βόρεια Κορέα
 1	Σε	σε	ADP	ADP	_	3	case	_	_
@@ -8169,6 +8188,7 @@
 28	»	»	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
 29	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
+# newdoc id = gdt-20090409-apogevmatini-news_egnatia_odos
 # sent_id = gdt-20090409-apogevmatini-news_egnatia_odos-1
 # text = Τρίκαλα - Γιάννενα 1,5 ώρα γρηγορότερα!
 1	Τρίκαλα	Τρίκαλα	PROPN	PROPN	Case=Acc|Gender=Neut|Number=Plur	0	root	_	_
@@ -8516,6 +8536,7 @@
 16	μέτρων	μέτρο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# newdoc id = gdt-20130201-elwikinews-1
 # sent_id = gdt-20130201-elwikinews-1-1
 # text = Άγκυρα: Έκρηξη έξω από την αμερικανική πρεσβεία.
 1	Άγκυρα	Άγκυρα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
@@ -8722,6 +8743,7 @@
 49	"	"	PUNCT	PUNCT	_	36	punct	_	SpaceAfter=No
 50	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
+# newdoc id = gdt-20120320-elwikinews-5242
 # sent_id = gdt-20120320-elwikinews-5242-1
 # text = Η Ιαπωνία μπορεί να καταστρέψει τον πύραυλο της Βορείου Κορέας
 1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -8904,6 +8926,7 @@
 26	»	»	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
 27	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
+# newdoc id = gdt-20020206-ep-sessions_0262
 # sent_id = gdt-20020206-ep-sessions_0262-1
 # text = . (ES) Κύριε Πρόεδρε, ως εκπρόσωπος της Προεδρίας του Συμβουλίου της Ένωσης, έχω την αρμοδιότητα να παρέμβω εν συντομία σχετικά με αυτά τα θέματα Δικαιοσύνης και Εσωτερικών Υποθέσεων.
 1	.	.	PUNCT	PUNCT	_	3	punct	_	_
@@ -10160,6 +10183,7 @@
 33	Κοινοβούλιο	κοινοβούλιο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	30	nmod	_	SpaceAfter=No
 34	.	.	PUNCT	PUNCT	_	17	punct	_	_
 
+# newdoc id = gdt-20020116-ep-sessions_110
 # sent_id = gdt-20020116-ep-sessions_110-1
 # text = Κύριε Πρόεδρε, η καθιέρωση του ευρώ ως μετρητό χρήμα δεν αποτελεί μόνο διαχειριστική και οργανωτική επιτυχία, αλλά συμβάλλει πραγματικά ήδη σήμερα στην καλύτερη διαμόρφωση και εξεύρεση της ευρωπαϊκής ταυτότητας και αυτό δεν μπορούν να το αλλάξουν οι ευρωσκεπτικιστές της Ιταλίας.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -11264,6 +11288,7 @@
 39	απασχόληση	απασχόληση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	33	conj	_	SpaceAfter=No
 40	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
+# newdoc id = gdt-20140205-voa-1
 # sent_id = gdt-20140205-voa-1-1
 # text = Συνεργασία μεγάλων φαρμακοβιομηχανιών σε έρευνες για θεραπείες σοβαρών ασθενειών.
 1	Συνεργασία	συνεργασία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
@@ -11570,6 +11595,7 @@
 40	φαρμάκων	φάρμακο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	38	nmod	_	SpaceAfter=No
 41	.	.	PUNCT	PUNCT	_	13	punct	_	_
 
+# newdoc id = gdt-20020205-ep-sessions_022
 # sent_id = gdt-20020205-ep-sessions_022-1
 # text = Κύριε Πρόεδρε, επί περισσότερο από ένα έτος εμείς στις ομάδες διαπραγμάτευσης του Κοινοβουλίου, μαζί με την Επιτροπή και το Συμβούλιο των Υπουργών, προσπαθούσαμε να λύσουμε ένα γρίφο.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_

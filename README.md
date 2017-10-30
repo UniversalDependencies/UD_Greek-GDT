@@ -24,7 +24,7 @@ We wish to thank all contributors to the original annotation efforts. A large pa
 ### CHANGELOG
 
 #### 2.1
-- Manual corrections of automatic conversion issues (mainly deprels of pronouns and oblique dependents of copular contstructions)
+- Fix automatic conversion issues (most of them related to deprels of pronouns and to oblique dependents in constructions with copulas)
 
 #### 2.0
 - Semi-automatic conversion to UD v2.0

@@ -1,3 +1,4 @@
+# newdoc id = gdt-20120309-elwikinews-5160
 # sent_id = gdt-20120309-elwikinews-5160-1
 # text = Η Μάντσεστερ Γιουνάιτεντ ηττήθηκε από την Ατλέτικο Μπιλμπάο με σκορ 2:3
 1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -166,6 +167,7 @@
 37	τερμάτων	τέρμα	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	35	nmod	_	SpaceAfter=No
 38	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# newdoc id = gdt-2005XXXX-ert-tourism_menoume_ellada_axerontas
 # sent_id = gdt-2005XXXX-ert-tourism_menoume_ellada_axerontas-1
 # text = Στον ποταμό Αχέροντα.
 1-2	Στον	_	_	_	_	_	_	_	_
@@ -392,6 +394,7 @@
 36	Κόσμου	κόσμος	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	SpaceAfter=No
 37	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
+# newdoc id = gdt-20130125-elwikinews-2
 # sent_id = gdt-20130125-elwikinews-2-1
 # text = Μακελειό στη Φαλούτζα.
 1	Μακελειό	μακελειό	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
@@ -533,6 +536,7 @@
 27	μειοψηφίας	μειοψηφία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
+# newdoc id = gdt-20120305-elwikinews-5018
 # sent_id = gdt-20120305-elwikinews-5018-1
 # text = Αβοήθητοι οι άμαχοι στη Μπάμπα Αμρ της Συρίας
 1	Αβοήθητοι	αβοήθητος	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
@@ -767,6 +771,7 @@
 41	»	»	PUNCT	PUNCT	_	18	punct	_	SpaceAfter=No
 42	.	.	PUNCT	PUNCT	_	12	punct	_	_
 
+# newdoc id = gdt-20120324-elwikinews-5274
 # sent_id = gdt-20120324-elwikinews-5274-1
 # text = Οι μισοί Γάλλοι θεωρούν αυξημένη την τρομοκρατική απειλή
 1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
@@ -920,6 +925,7 @@
 20	αυξηθεί	αυξάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	14	ccomp	_	SpaceAfter=No
 21	.	.	PUNCT	PUNCT	_	14	punct	_	_
 
+# newdoc id = gdt-20120315-elwikinews-5208
 # sent_id = gdt-20120315-elwikinews-5208-1
 # text = Η Ρωσία επιτρέπει χρήση αεροδρομίου της από ΝΑΤΟ
 1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -1199,6 +1205,7 @@
 31	Αφγανιστάν	Αφγανιστάν	X	X	Foreign=Yes	27	nmod	_	SpaceAfter=No
 32	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
+# newdoc id = gdt-20020117-ep-sessions_105
 # sent_id = gdt-20020117-ep-sessions_105-1
 # text = Κυρία Πρόεδρε, καλωσορίζουμε αυτή την πρωτοβουλία ως ένα ακόμα μικρό βήμα στην πορεία προς την εκπλήρωση της εντολής που λάβαμε στη Σύνοδο του Τάμπερε να καταστήσουμε την αρχή της αμοιβαίας αναγνώρισης ακρογωνιαίο λίθο της δικαστικής συνεργασίας.
 1	Κυρία	κυρία	NOUN	NOUN	Case=Voc|Gender=Fem|Number=Sing	2	nmod	_	_
@@ -1820,6 +1827,7 @@
 74	πολιτών	πολίτης	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Plur	72	nmod	_	SpaceAfter=No
 75	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
+# newdoc id = gdt-20050425-ert-tourism_menoumellada_contents
 # sent_id = gdt-20050425-ert-tourism_menoumellada_contents-1
 # text = 25/04/2005 Στη Χώρα της Αλοννήσου.
 1	25/04/2005	25/04/2005	NOUN	NOUN	_	0	root	_	_
@@ -2098,6 +2106,7 @@
 65	κληρονομιά	κληρονομιά	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	56	obl	_	SpaceAfter=No
 66	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# newdoc id = gdt-2005XXXX-ert-tourism_menoume_ellada_aliki_thasos
 # sent_id = gdt-2005XXXX-ert-tourism_menoume_ellada_aliki_thasos-1
 # text = Στην Αλυκή της Θάσου.
 1-2	Στην	_	_	_	_	_	_	_	_
@@ -2327,6 +2336,7 @@
 37	της	μου	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	36	nmod	_	SpaceAfter=No
 38	.	.	PUNCT	PUNCT	_	12	punct	_	_
 
+# newdoc id = gdt-20020206-ep-sessions_029
 # sent_id = gdt-20020206-ep-sessions_029-1
 # text = Κύριε Πρόεδρε, καταρχάς, θα ήθελα να πω ότι η Ομάδα μου χαίρεται ειλικρινά που σήμερα εγκρίθηκαν κατά τη δεύτερη ανάγνωση οι δύο εκθέσεις Watson.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -3051,6 +3061,7 @@
 34	ενθουσιασμό	ενθουσιασμός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	30	obl	_	SpaceAfter=No
 35	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
+# newdoc id = gdt-20020204-ep-sessions_087
 # sent_id = gdt-20020204-ep-sessions_087-1
 # text = Κύριε Πρόεδρε, κατά τη διάρκεια των τελευταίων εβδομάδων επεξεργασθήκαμε ορισμένα ζητήματα, τα οποία σχετίζονται άμεσα με τον κλάδο των μεταφορών - ακόμα και τα κοινωνικά μέτρα - ενώ και στην Επιτροπή Περιφερειακής Πολιτικής, Μεταφορών και Τουρισμού εκφράσαμε την άποψη ότι όλα αυτά τα μέτρα - πιστεύω μάλιστα ότι ο χρόνος εργασίας ο οποίος επιτέλους ρυθμίστηκε πλέον είναι ένα σημαντικό κεφάλαιο, το οποίο ολοκληρώθηκε - έχουν νόημα μόνο εάν υπάρχει η ανάλογη βούληση από τα κράτη μέλη, αφενός για την εντατικοποίηση των ελέγχων και αφετέρου για την αναπροσαρμογή των κυρώσεων.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	10	obl	_	_
@@ -3503,6 +3514,7 @@
 52	δύο	δύο	NUM	NUM	Case=Gen|Gender=Masc|Number=Plur|NumType=Card	49	nmod	_	SpaceAfter=No
 53	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
+# newdoc id = gdt-20130101-elwikinews-1
 # sent_id = gdt-20130101-elwikinews-1-1
 # text = ΗΠΑ: Προκαταρκτική συμφωνία για το δημοσιονομικό γκρεμό.
 1	ΗΠΑ	ΗΠΑ	NOUN	NOUN	Abbr=Yes	0	root	_	SpaceAfter=No
@@ -3713,6 +3725,7 @@
 15	"	"	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
+# newdoc id = gdt-20120311-elwikinews-5173
 # sent_id = gdt-20120311-elwikinews-5173-1
 # text = Νίκη στο Κάνσας πέτυχε ο Ρικ Σαντόρουμ
 1	Νίκη	Νίκη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
@@ -3871,6 +3884,7 @@
 12	Μισισιπή	Μισισιπής	PROPN	PROPN	Case=Acc|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
 13	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# newdoc id = gdt-20140429-voa-5
 # sent_id = gdt-20140429-voa-5-1
 # text = Βορειοκορεατικά γυμνάσια με πραγματικά πυρά σε διαφιλονικούμενη περιοχή μεταξύ Βορείου και Νοτίου Κορέας.
 1	Βορειοκορεατικά	βορειοκορεατικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	2	amod	_	_
@@ -4132,6 +4146,7 @@
 29	κατάσταση	κατάσταση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	23	xcomp	_	SpaceAfter=No
 30	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
+# newdoc id = gdt-2005XXXX-ert-tourism_menoume_ellada_medieval_skiathos
 # sent_id = gdt-2005XXXX-ert-tourism_menoume_ellada_medieval_skiathos-1
 # text = Στη μεσαιωνική πόλη του Κάστρου στη Σκιάθο.
 1-2	Στη	_	_	_	_	_	_	_	_
@@ -4651,6 +4666,7 @@
 16	πόδια	πόδι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	13	obl	_	SpaceAfter=No
 17	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
+# newdoc id = gdt-20020227-ep-sessions_066
 # sent_id = gdt-20020227-ep-sessions_066-1
 # text = Κύριε Πρόεδρε, στην έκθεση σχετικά με την εαρινή Σύνοδο Κορυφής του 2002, η Επιτροπή Απασχόλησης και Κοινωνικών Υποθέσεων καθώς και η Επιτροπή Οικονομικής και Νομισματικής Πολιτικής επιχείρησαν να καταδείξουν καινοτόμες κατευθύνσεις.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -5378,6 +5394,7 @@
 18	Βαρκελώνης	Βαρκελώνη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
 19	!	!	PUNCT	PUNCT	_	2	punct	_	_
 
+# newdoc id = gdt-20020227-ep-sessions_117
 # sent_id = gdt-20020227-ep-sessions_117-1
 # text = Κύριε Πρόεδρε, κύριε Πρόεδρε του Συμβουλίου, κυρίες και κύριοι, η Επιτροπή επικροτεί τη σημερινή συζήτηση σχετικά με τα δημοκρατικά δικαιώματα στην Τουρκία.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -6576,6 +6593,7 @@
 2	Χειροκροτήματα	χειροκρότημα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
 3	)	)	PUNCT	PUNCT	_	2	punct	_	_
 
+# newdoc id = gdt-20130114-elwikinews-1
 # sent_id = gdt-20130114-elwikinews-1-1
 # text = Απασχόληση στο εξωτερικό ψάχνουν οι μισοί Έλληνες σε παραγωγική ηλικία.
 1	Απασχόληση	απασχόληση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
@@ -6841,6 +6859,7 @@
 55	"	"	PUNCT	PUNCT	_	22	punct	_	SpaceAfter=No
 56	.	.	PUNCT	PUNCT	_	22	punct	_	_
 
+# newdoc id = gdt-20120313-elwikinews-5191
 # sent_id = gdt-20120313-elwikinews-5191-1
 # text = Η πλειοψηφία των αμερικανών θέλει απόσυρση από Αφγανιστάν
 1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -6990,6 +7009,7 @@
 21	2014	2014	NUM	NUM	NumType=Card	19	nmod	_	SpaceAfter=No
 22	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
+# newdoc id = gdt-20120322-elwikinews-5263
 # sent_id = gdt-20120322-elwikinews-5263-1
 # text = Γαλλία: Τρεις εκρήξεις ακούστηκαν κοντά στο σπίτι του υπόπτου στην Τουλούζη
 1	Γαλλία	Γαλλία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
@@ -7216,6 +7236,7 @@
 53	Αφγανιστάν	Αφγανιστάν	X	X	Foreign=Yes	48	nmod	_	SpaceAfter=No
 54	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
+# newdoc id = gdt-20130128-elwikinews-2
 # sent_id = gdt-20130128-elwikinews-2-1
 # text = Ψήφισμα στήριξης της Ελλάδας από το Συμβούλιο της Ευρώπης.
 1	Ψήφισμα	ψήφισμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
@@ -7535,6 +7556,7 @@
 70	ψήφισμα	ψήφισμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	68	obj	_	SpaceAfter=No
 71	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
+# newdoc id = gdt-20130101-elwikinews-2
 # sent_id = gdt-20130101-elwikinews-2-1
 # text = Βελτιώνεται η κατάσταση της υγείας της Χίλαρι Κλίντον.
 1	Βελτιώνεται	βελτιώνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
@@ -7711,6 +7733,7 @@
 20	της	μου	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# newdoc id = gdt-20130118-elwikinews-1
 # sent_id = gdt-20130118-elwikinews-1-1
 # text = Οι ΗΠΑ βοηθούν τη Γαλλία στο Μάλι.
 1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
@@ -7872,6 +7895,7 @@
 21	Έθνη	έθνος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	17	obl	_	SpaceAfter=No
 22	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# newdoc id = gdt-20050221-ertonline-health_2
 # sent_id = gdt-20050221-ertonline-health_2-1
 # text = Επικίνδυνα τρόφιμα στην αγορά
 1	Επικίνδυνα	επικίνδυνος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	2	amod	_	_
@@ -8239,6 +8263,7 @@
 35	ημερομηνία	ημερομηνία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	31	nmod	_	SpaceAfter=No
 36	.	.	PUNCT	PUNCT	_	22	punct	_	_
 
+# newdoc id = gdt-20120321-elwikinews-5252
 # sent_id = gdt-20120321-elwikinews-5252-1
 # text = Έξι «tour operators» της Γερμανίας ξεκίνησαν καμπάνια υπέρ της Ελλάδος
 1	Έξι	έξι	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	4	nummod	_	_
@@ -8404,6 +8429,7 @@
 40	ευρώ	ευρώ	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	37	obj	_	SpaceAfter=No
 41	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# newdoc id = gdt-20120308-elwikinews-5045
 # sent_id = gdt-20120308-elwikinews-5045-1
 # text = Συρία: H επικεφαλής των ανθρωπιστικών υπηρεσιών του ΟΗΕ μπήκε στην Μπάμπα Άμρ
 1	Συρία	Συρία	PROPN	PROPN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
@@ -8658,6 +8684,7 @@
 32	ασφάλειας	ασφάλεια	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	31	nmod	_	SpaceAfter=No
 33	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# newdoc id = gdt-20130131-elwikinews-1
 # sent_id = gdt-20130131-elwikinews-1-1
 # text = Αυξάνεται συνεχώς ο αριθμός των νεόπτωχων στην Ευρώπη.
 1	Αυξάνεται	αυξάνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
@@ -8923,6 +8950,7 @@
 31	"	"	PUNCT	PUNCT	_	25	punct	_	SpaceAfter=No
 32	.	.	PUNCT	PUNCT	_	25	punct	_	_
 
+# newdoc id = gdt-20020116-ep-sessions_132
 # sent_id = gdt-20020116-ep-sessions_132-1
 # text = Κύριε Πρόεδρε, επιτρέψτε μου αρχίζοντας να σας συγχαρώ κι εγώ θερμά για την εκλογή σας.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -9942,6 +9970,7 @@
 2	Χειροκροτήματα	χειροκρότημα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
 3	)	)	PUNCT	PUNCT	_	2	punct	_	_
 
+# newdoc id = gdt-20130406-elwikinews-1
 # sent_id = gdt-20130406-elwikinews-1-1
 # text = Οι ΗΠΑ χρηματοδοτούν πρόγραμμα χαρτογράφησης του ανθρώπινου εγκεφάλου.
 1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
@@ -10167,6 +10196,7 @@
 17	Πρόεδρος	πρόεδρος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	SpaceAfter=No
 18	.	.	PUNCT	PUNCT	_	14	punct	_	_
 
+# newdoc id = gdt-20140429-voa-6
 # sent_id = gdt-20140429-voa-6-1
 # text = Η ΕΕ ανακοίνωσε νέες κυρώσεις σε βάρος της Ρωσίας.
 1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -10449,6 +10479,7 @@
 14	επηρεαστούν	επηρεάζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass	11	acl:relcl	_	SpaceAfter=No
 15	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
+# newdoc id = gdt-20120310-elwikinews-5167
 # sent_id = gdt-20120310-elwikinews-5167-1
 # text = Ρωσία: Κατά της νέας απόφασης για τη Συρία
 1	Ρωσία	Ρωσία	PROPN	PROPN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
@@ -10603,6 +10634,7 @@
 24	Γκατίλοφ	Γκατίλοφ	X	X	Foreign=Yes	21	nsubj	_	SpaceAfter=No
 25	.	.	PUNCT	PUNCT	_	21	punct	_	_
 
+# newdoc id = gdt-20130130-elwikinews-1
 # sent_id = gdt-20130130-elwikinews-1-1
 # text = Παραιτήθηκε από το θρόνο της Ολλανδίας η Βεατρίκη.
 1	Παραιτήθηκε	παραιτώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
@@ -10820,6 +10852,7 @@
 15	χρόνια	χρόνος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	12	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
+# newdoc id = gdt-20020207-ep-sessions_159
 # sent_id = gdt-20020207-ep-sessions_159-1
 # text = Κύριε Πρόεδρε, κυρία Επίτροπε, όπως είπαν ήδη οι συνάδελφοι που προηγήθηκαν, η κατάσταση στην Ερυθραία είναι όλο και πιο σοβαρή από την άποψη της δημοκρατίας.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -11392,6 +11425,7 @@
 73	ντρέπεται	ντρέπομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	71	csubj	_	SpaceAfter=No
 74	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
+# newdoc id = gdt-20090407-apogevmatini-news_sismos_stin_aquila
 # sent_id = gdt-20090407-apogevmatini-news_sismos_stin_aquila-1
 # text = Βιβλική καταστροφή με εκατόμβη νεκρών στη Λ'Άκουιλα της Ιταλίας.
 1	Βιβλική	βιβλικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
@@ -11865,6 +11899,7 @@
 39	χωριά	χωριό	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	34	conj	_	SpaceAfter=No
 40	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
+# newdoc id = gdt-20020227-ep-sessions_164
 # sent_id = gdt-20020227-ep-sessions_164-1
 # text = . (ΕΝ)
 1	.	.	PUNCT	PUNCT	_	3	punct	_	_
@@ -13110,6 +13145,7 @@
 38	τους	μου	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs	37	nmod	_	SpaceAfter=No
 39	.	.	PUNCT	PUNCT	_	21	punct	_	_
 
+# newdoc id = gdt-20020116-ep-sessions_210
 # sent_id = gdt-20020116-ep-sessions_210-1
 # text = Κύριε Πρόεδρε, καταρχάς θα ήθελα να συγχαρώ τους τρεις εισηγητές - τον κ. Χατζηδάκη, τον κ. van Dam και τον κ. Grosch - για το έργο τους.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -13573,6 +13609,7 @@
 17	εκθέσεις	έκθεση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	13	obj	_	SpaceAfter=No
 18	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
+# newdoc id = gdt-20020116-ep-sessions_051
 # sent_id = gdt-20020116-ep-sessions_051-1
 # text = Κύριε Πρόεδρε, κύριε Προεδρεύοντα του Συμβουλίου, κύριε Πρόεδρε της Επιτροπής, κυρίες και κύριοι, καταρχάς, ευχαριστώ την ισπανική Προεδρία για την ευθύτητα με την οποία παρουσιάζεται εδώ, ακολουθώντας κάτι που αποτελεί πλέον έθιμο, και επισημαίνω ότι έχουμε περάσει τον ισημερινό της νομοθετικής περιόδου με μια σαφώς συντηρητική στροφή στο Συμβούλιο, το οποίο, κύριε Πρόεδρε, ανακόπτεται από την ιδιότητά σας ως Προέδρου της ΧΔΔ - της κεντρώας δημοκρατικής διεθνούς, για εσάς, χριστιανοδημοκρατικής διεθνούς για τον κ. Poettering·
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -14893,6 +14930,7 @@
 16	Χειροκροτήματα	χειροκρότημα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	1	parataxis	_	SpaceAfter=No
 17	)	)	PUNCT	PUNCT	_	16	punct	_	_
 
+# newdoc id = gdt-20130208-elwikinews-1
 # sent_id = gdt-20130208-elwikinews-1-1
 # text = Νέο διπλωματικό επεισόδιο μεταξύ Κίνας και Ιαπωνίας.
 1	Νέο	νέος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	3	amod	_	_
@@ -15068,6 +15106,7 @@
 26	"	"	PUNCT	PUNCT	_	18	punct	_	SpaceAfter=No
 27	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
+# newdoc id = gdt-20020227-ep-sessions_055
 # sent_id = gdt-20020227-ep-sessions_055-1
 # text = Κύριε Προεδρεύοντα του Συμβουλίου, αύριο θα διεξαχθεί ψηφοφορία στο Σώμα σχετικά με μια τροπολογία που αφορά το εθνικό υδρολογικό σχέδιο της χώρας σας, οπότε ελπίζουμε να απολαύσατε το νερό σας σήμερα.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -15902,6 +15941,7 @@
 10	σκληρότερα	σκληρός	ADV	ADV	Degree=Cmp	9	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
+# newdoc id = gdt-20020116-ep-sessions_119
 # sent_id = gdt-20020116-ep-sessions_119-1
 # text = Κύριε Πρόεδρε, αγαπητοί συνάδελφοι, ομόφωνα οι κυβερνήσεις των χωρών που συμμετέχουν στη ζώνη του ευρώ, όπως και η Κεντρική Τράπεζα, δήλωναν και διακήρυσσαν: οι Ευρωπαίοι θα υποδεχθούν με ενθουσιασμό, ίσως και με χαρά, το ευρώ, το νόμισμα της νέας αυτοκρατορίας, το νέο ράιχσμαρκ.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -16458,6 +16498,7 @@
 43	ζυγό	ζυγός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	38	obl	_	SpaceAfter=No
 44	.	.	PUNCT	PUNCT	_	12	punct	_	_
 
+# newdoc id = gdt-20020116-ep-sessions_136
 # sent_id = gdt-20020116-ep-sessions_136-1
 # text = Κύριε Πρόεδρε, θέλω και εγώ, όπως οι συνάδελφοι μου, να σας συγχαρώ για την επανεκλογή σας ως Αντιπροέδρου.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -17142,6 +17183,7 @@
 23	ανθρώπους	άνθρωπος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
+# newdoc id = gdt-20020116-ep-sessions_208
 # sent_id = gdt-20020116-ep-sessions_208-1
 # text = (NL)
 1	(	(	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No
@@ -18094,6 +18136,7 @@
 40	συμβεί	συμβαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	38	ccomp	_	SpaceAfter=No
 41	.	.	PUNCT	PUNCT	_	26	punct	_	_
 
+# newdoc id = gdt-20020207-ep-sessions_120
 # sent_id = gdt-20020207-ep-sessions_120-1
 # text = Κυρία Πρόεδρε, πέρυσι στις 13_Δεκεμβρίου, εκδηλώθηκε μια άγρια και φρικιαστική επίθεση εναντίον του κοινοβουλίου της Ινδικής Ένωσης στο Δελχί, το οποίο είναι το πλέον απτό σύμβολο της δημοκρατίας και του κοσμικού εθνικού χαρακτήρα αυτής της χώρας.
 1	Κυρία	κυρία	NOUN	NOUN	Case=Voc|Gender=Fem|Number=Sing	2	nmod	_	_
@@ -18689,6 +18732,7 @@
 10	λάθος	λάθος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	SpaceAfter=No
 11	;	;	PUNCT	PUNCT	_	2	punct	_	_
 
+# newdoc id = gdt-20120304-elwikinews-5008
 # sent_id = gdt-20120304-elwikinews-5008-1
 # text = Ξέσπασμα σιφώνων αφήνει δεκάδες νεκρούς στις ΗΠΑ
 1	Ξέσπασμα	ξέσπασμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
@@ -18882,6 +18926,7 @@
 28	»	»	PUNCT	PUNCT	_	19	punct	_	SpaceAfter=No
 29	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
+# newdoc id = gdt-20020116-ep-sessions_128
 # sent_id = gdt-20020116-ep-sessions_128-1
 # text = Κύριε Πρόεδρε, το περιβάλλον μπορεί να προστατευθεί με πολλούς τρόπους.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -19681,6 +19726,7 @@
 15	ΕΣΚ	ΕΣΚ	NOUN	NOUN	Abbr=Yes	12	conj	_	SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
+# newdoc id = gdt-20140211-voa-1
 # sent_id = gdt-20140211-voa-1-1
 # text = Σε ελεύθερη πτώση η ελευθερία του τύπου στην Ελλάδα σύμφωνα με την ετήσια έκθεση του διεθνούς οργανισμού "Δημοσιογράφοι Χωρίς Σύνορα".
 1	Σε	σε	ADP	ADP	_	3	case	_	_
@@ -20080,6 +20126,7 @@
 21	θέση	θέση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
 22	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
+# newdoc id = gdt-20020116-ep-sessions_143
 # sent_id = gdt-20020116-ep-sessions_143-1
 # text = Κύριε Πρόεδρε, θα ήθελα και εγώ να σας συγχαρώ για την εκλογή σας ως πρώτου Αντιπροέδρου.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -20968,6 +21015,7 @@
 11	διάλυση	διάλυση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
 12	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
+# newdoc id = gdt-20020116-ep-sessions_152
 # sent_id = gdt-20020116-ep-sessions_152-1
 # text = . (ΕΝ)
 1	.	.	PUNCT	PUNCT	_	3	punct	_	_
@@ -21618,6 +21666,7 @@
 25	μου	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	24	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
+# newdoc id = gdt-20120315-elwikinews-5206
 # sent_id = gdt-20120315-elwikinews-5206-1
 # text = Διπλή νίκη του Ρικ Σαντόρουμ στον αμερικανικό νότο
 1	Διπλή	διπλός	NUM	NUM	Case=Nom|Gender=Fem|Number=Sing|NumType=Mult	2	amod	_	_
@@ -21796,6 +21845,7 @@
 31	Σαντόρουμ	Σαντόρουμ	X	X	Foreign=Yes	28	obj	_	SpaceAfter=No
 32	.	.	PUNCT	PUNCT	_	12	punct	_	_
 
+# newdoc id = gdt-20130209-elwikinews-1
 # sent_id = gdt-20130209-elwikinews-1-1
 # text = Κίνα: Έφτιαξαν ποτάμι γύρω από σπίτια για να διώξουν τους κατοίκους.
 1	Κίνα	Κίνα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
@@ -22017,6 +22067,7 @@
 10	Αρχές	αρχή	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# newdoc id = gdt-20120318-elwikinews-5231
 # sent_id = gdt-20120318-elwikinews-5231-1
 # text = Πέθανε ο προκαθήμενος της Κοπτικής Εκκλησίας Σενούντα Γ'
 1	Πέθανε	πεθαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -22227,6 +22278,7 @@
 26	χώρας	χώρα	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
+# newdoc id = gdt-20020228-ep-sessions_004
 # sent_id = gdt-20020228-ep-sessions_004-1
 # text = Κύριε Πρόεδρε, συνάδελφοι, κατ' αρχήν θέλω να επισημάνω ότι το πρόγραμμα ΣΩΚΡΑΤΗΣ υπήρξε από την αρχή μία επιτυχία.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -23440,6 +23492,7 @@
 10	Χειροκροτήματα	χειροκρότημα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	1	parataxis	_	SpaceAfter=No
 11	)	)	PUNCT	PUNCT	_	10	punct	_	_
 
+# newdoc id = gdt-20020227-ep-sessions_161
 # sent_id = gdt-20020227-ep-sessions_161-1
 # text = (ES) Ευχαριστώ πολύ, κύριε Πρόεδρε.
 1	(	(	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No
@@ -24467,6 +24520,7 @@
 55	Μεσογείου	Μεσόγειος	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	53	nmod	_	SpaceAfter=No
 56	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
+# newdoc id = gdt-20020206-ep-sessions_011
 # sent_id = gdt-20020206-ep-sessions_011-1
 # text = Κύριε Πρόεδρε, η ομιλία σας σήμερα δείχνει την αξία του ανοιχτού εκλογικού αγώνα.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -25138,6 +25192,7 @@
 5	μεταρρυθμίσεις	μεταρρύθμιση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	2	orphan	_	SpaceAfter=No
 6	!	!	PUNCT	PUNCT	_	2	punct	_	_
 
+# newdoc id = gdt-20130128-elwikinews-1
 # sent_id = gdt-20130128-elwikinews-1-1
 # text = Ρωσία: Δριμύτατη κριτική στον Μπασάρ αλ Άσαντ.
 1	Ρωσία	Ρωσία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
@@ -25423,6 +25478,7 @@
 41	"	"	PUNCT	PUNCT	_	35	punct	_	SpaceAfter=No
 42	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
+# newdoc id = gdt-20020116-ep-sessions_209
 # sent_id = gdt-20020116-ep-sessions_209-1
 # text = Αξιότιμε κύριε Πρόεδρε, κυρία Επίτροπε, αξιότιμοι συνάδελφοι, η ελευθέρωση των οδικών μεταφορών αναμφίβολα οδήγησε στο να έχουμε στην Ευρώπη καλύτερη προσφορά και καλύτερες τιμές.
 1	Αξιότιμε	αξιότιμος	ADJ	ADJ	Case=Voc|Gender=Masc|Number=Sing	3	amod	_	_
@@ -26331,6 +26387,7 @@
 32	μέλη	μέλος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	31	nmod	_	SpaceAfter=No
 33	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
+# newdoc id = gdt-2005XXXX-ert-tourism_menoume_ellada_sporades_seapark
 # sent_id = gdt-2005XXXX-ert-tourism_menoume_ellada_sporades_seapark-1
 # text = Στο Θαλάσσιο Πάρκο των Βόρειων Σποράδων.
 1-2	Στο	_	_	_	_	_	_	_	_
@@ -26557,6 +26614,7 @@
 38	σημασίας	σημασία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	36	conj	_	SpaceAfter=No
 39	.	.	PUNCT	PUNCT	_	28	punct	_	_
 
+# newdoc id = gdt-20120305-elwikinews-5016
 # sent_id = gdt-20120305-elwikinews-5016-1
 # text = 55 νεκροί σε μάχες στη νότια Υεμένη
 1	55	55	NUM	NUM	NumType=Card	2	nummod	_	_
@@ -26794,6 +26852,7 @@
 12	πόλης	πόλη	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
+# newdoc id = gdt-20020227-ep-sessions_137
 # sent_id = gdt-20020227-ep-sessions_137-1
 # text = Κύριε Πρόεδρε, αξιότιμοι βουλευτές, αξιότιμε κύριε εισηγητή, η διαδικασία χορήγησης απαλλαγής για το 1999 φέρει πραγματικά τη σφραγίδα του εισηγητή.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -28148,6 +28207,7 @@
 2	Χειροκροτήματα	χειροκρότημα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
 3	)	)	PUNCT	PUNCT	_	2	punct	_	_
 
+# newdoc id = gdt-20130129-elwikinews-1
 # sent_id = gdt-20130129-elwikinews-1-1
 # text = Ελλάδα: Οι αδρανείς καταθέσεις θα περνούν στα χέρια του Δημοσίου μετά το πέρας 20ετίας.
 1	Ελλάδα	Ελλάδα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
@@ -28428,6 +28488,7 @@
 54	λογαριασμό	λογαριασμός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	43	obl:arg	_	SpaceAfter=No
 55	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
+# newdoc id = gdt-20120308-elwikinews-5043
 # sent_id = gdt-20120308-elwikinews-5043-1
 # text = Ηνωμένα Έθνη: Το Αφγανιστάν πρέπει να εφαρμόσει νομοθεσία κατά της βίας εναντίον γυναικών
 1	Ηνωμένα	ηνωμένος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	2	amod	_	_
@@ -28693,6 +28754,7 @@
 23	φύλων	φύλο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	20	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
+# newdoc id = gdt-20020204-ep-sessions_075
 # sent_id = gdt-20020204-ep-sessions_075-1
 # text = Το παράδειγμα που ανέφερε μόλις ο κ. Bolkestein αποτελεί βέβαια ένα κατάφωρο, ίσως μάλιστα και εξαιρετικό, παράδειγμα των καταχρήσεων που γίνονται στον τομέα των μεταφορών.
 1	Το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
@@ -29292,6 +29354,7 @@
 27	κυτίο	κυτίο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	24	obl	_	SpaceAfter=No
 28	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
+# newdoc id = gdt-20130204-elwikinews-1
 # sent_id = gdt-20130204-elwikinews-1-1
 # text = Ανέλαβε καθήκοντα ο νέος Υπουργός Εξωτερικών των ΗΠΑ.
 1	Ανέλαβε	αναλαμβάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -29519,6 +29582,7 @@
 16	Department	Department	X	X	Foreign=Yes	13	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
+# newdoc id = gdt-20120318-elwikinews-5225
 # sent_id = gdt-20120318-elwikinews-5225-1
 # text = Νεκρός ο Τζων Ντέμιαντσουκ
 1	Νεκρός	νεκρός	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
@@ -29731,6 +29795,7 @@
 16	δικαστήριο	δικαστήριο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	SpaceAfter=No
 17	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
+# newdoc id = gdt-20090223-wikipedia-history_makedoniko_zitima
 # sent_id = gdt-20090223-wikipedia-history_makedoniko_zitima-1
 # text = Ό,τι και να σήμαινε το όνομα Μακεδονία στην αρχαιότητα, στα τέλη του 19ου αιώνα δήλωνε τη περιοχή που εκτεινόταν δυτικά από τις λίμνες Οχρίδα και Πρέσπα μέχρι τον ποταμό Νέστο ανατολικά, και από τα βουνά του Σαρ, της Ρίλας και της Ροδόπης από βορρά μέχρι την Πίνδο, τον Όλυμπο και το Αιγαίο προς νότο.
 1	Ό,τι	Ό,τι	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Rel	4	xcomp	_	_
@@ -31058,6 +31123,7 @@
 48	Διασποράς	διασπορά	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	45	nmod	_	SpaceAfter=No
 49	.	.	PUNCT	PUNCT	_	16	punct	_	_
 
+# newdoc id = gdt-20130124-elwikinews-1
 # sent_id = gdt-20130124-elwikinews-1-1
 # text = Πρόοδος στην Ουάσιγκτον στο θέμα του ορίου χρέους των ΗΠΑ.
 1	Πρόοδος	πρόοδος	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
@@ -31296,6 +31362,7 @@
 13	σχεδίου	σχέδιο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
+# newdoc id = gdt-2005XXXX-ert-tourism_menoume_ellada_koukounaries_skiathos
 # sent_id = gdt-2005XXXX-ert-tourism_menoume_ellada_koukounaries_skiathos-1
 # text = Κουκουναριές στη Σκιάθο.
 1	Κουκουναριές	κουκουναριά	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
@@ -31623,6 +31690,7 @@
 11	πράσινο	πράσινο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	SpaceAfter=No
 12	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
+# newdoc id = gdt-20120306-elwikinews-5032
 # sent_id = gdt-20120306-elwikinews-5032-1
 # text = Αφέθηκαν ελεύθεροι δύο ηγέτες της Ρωσικής Αντιπολίτευσης
 1	Αφέθηκαν	αφήνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
@@ -31797,6 +31865,7 @@
 24	παρατυπίες	παρατυπία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	22	obj	_	SpaceAfter=No
 25	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
+# newdoc id = gdt-20020228-ep-sessions_033
 # sent_id = gdt-20020228-ep-sessions_033-1
 # text = Κυρία Πρόεδρε, αγαπητοί συνάδελφοι, η μοναδικότητα του προγράμματος ΝΕΟΛΑΙΑ έγκειται στο ότι είναι πραγματικά ανοιχτό για όλους τους νέους ανθρώπους, καθώς τους δίνει τη δυνατότητα να έχουν άμεσες εμπειρίες σχετικά με την Ευρώπη σε μία ηλικία που διαμορφώνεται η προσωπικότητα, και φέρνει στη ζωή τους την ευρωπαϊκή διάσταση.
 1	Κυρία	κυρία	NOUN	NOUN	Case=Voc|Gender=Fem|Number=Sing	2	nmod	_	_
@@ -32755,6 +32824,7 @@
 40	νεολαία	νεολαία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	37	nmod	_	SpaceAfter=No
 41	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
+# newdoc id = gdt-20120303-elwikinews-5001
 # sent_id = gdt-20120303-elwikinews-5001-1
 # text = Ο ΟΗΕ δεν εξακρίβωσε τα αίτια θανάτου του Μουάμαρ αλ Καντάφι
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -32913,6 +32983,7 @@
 30	Πρακτορείο	πρακτορείο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	27	nsubj	_	SpaceAfter=No
 31	.	.	PUNCT	PUNCT	_	27	punct	_	_
 
+# newdoc id = gdt-20140429-voa-1
 # sent_id = gdt-20140429-voa-1-1
 # text = Ελλάδα: 61 οι νεκροί από γρίπη.
 1	Ελλάδα	Ελλάδα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
@@ -33295,6 +33366,7 @@
 26	"	"	PUNCT	PUNCT	_	25	punct	_	SpaceAfter=No
 27	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
+# newdoc id = gdt-2009XXXX-wikipedia-history_tourkiki_isvoli_stin_kipro
 # sent_id = gdt-2009XXXX-wikipedia-history_tourkiki_isvoli_stin_kipro-1
 # text = Το χρονικό της εισβολής
 1	Το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
@@ -33774,6 +33846,7 @@
 14	Κυπριακού	κυπριακός	ADJ	ADJ	Case=Gen|Gender=Neut|Number=Sing	12	amod	_	SpaceAfter=No
 15	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
+# newdoc id = gdt-20020206-ep-sessions_174
 # sent_id = gdt-20020206-ep-sessions_174-1
 # text = Το Ευρωπαϊκό Κοινοβούλιο γνωρίζει τον διάλογο μεταξύ Ευρωπαϊκής Ένωσης και Κούβας, ο οποίος διεκόπη από τις κουβανικές αρχές με την ακύρωση της συνάντησης με την τρόικα της Ευρωπαϊκής Ένωσης, που προβλεπόταν για τον Απρίλιο_του_2000.
 1	Το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
@@ -34546,6 +34619,7 @@
 26	περιόδου	περίοδος	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
+# newdoc id = gdt-20130117-elwikinews-1
 # sent_id = gdt-20130117-elwikinews-1-1
 # text = Αλγερία: Απαγωγές ξένων πολιτών απ' την Αλ Κάιντα.
 1	Αλγερία	Αλγερία	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
@@ -34826,6 +34900,7 @@
 28	εταιρεία	εταιρεία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	24	obl	_	_
 29	BP.	BP.	NOUN	NOUN	Abbr=Yes	28	nmod	_	_
 
+# newdoc id = gdt-20020206-ep-sessions_013
 # sent_id = gdt-20020206-ep-sessions_013-1
 # text = Θα ήθελα να ξεκινήσω δίνοντας συγχαρητήρια για την προγραμματική ομιλία σας σχετικά με το Ευρωπαϊκό Κοινοβούλιο, η οποία, ίσως, όπως άλλες προγραμματικές ομιλίες της ΕΕ, θα πρέπει να καθιερωθεί ως ετήσιο γεγονός.
 1	Θα	θα	PART	PART	_	2	aux	_	_
@@ -35963,6 +36038,7 @@
 2	Χειροκροτήματα	χειροκρότημα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
 3	)	)	PUNCT	PUNCT	_	2	punct	_	_
 
+# newdoc id = gdt-20020205-ep-sessions_145
 # sent_id = gdt-20020205-ep-sessions_145-1
 # text = . (ΕΝ)
 1	.	.	PUNCT	PUNCT	_	3	punct	_	_
@@ -36549,6 +36625,7 @@
 15	ευελιξίας	ευελιξία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
+# newdoc id = gdt-20140409-elwikinews-2
 # sent_id = gdt-20140409-elwikinews-2-1
 # text = Σε μειονεκτική θέση οι Τάταροι της Κριμαίας αν η Ρωσία επικρατήσει στην περιοχή.
 1	Σε	σε	ADP	ADP	_	3	case	_	_
@@ -36970,6 +37047,7 @@
 23	Μόσχας	Μόσχα	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	PUNCT	_	15	punct	_	_
 
+# newdoc id = gdt-2005XXXX-ert-tourism_menoume_ellada_artemonas
 # sent_id = gdt-2005XXXX-ert-tourism_menoume_ellada_artemonas-1
 # text = Ο Αρτεμώνας Σίφνου.
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -37175,6 +37253,7 @@
 17	Πετάλι	πετάλι	PROPN	PROPN	Case=Nom|Gender=Neut|Number=Sing	14	conj	_	SpaceAfter=No
 18	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
+# newdoc id = gdt-20130117-elwikinews-2
 # sent_id = gdt-20130117-elwikinews-2-1
 # text = Νέα προβλήματα με το αεροσκάφος 787 της Boeing.
 1	Νέα	νέος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	2	amod	_	_
@@ -37398,6 +37477,7 @@
 34	αεροπλάνου	αεροπλάνο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	33	nmod	_	SpaceAfter=No
 35	.	.	PUNCT	PUNCT	_	21	punct	_	_
 
+# newdoc id = gdt-20130118-elwikinews-2
 # sent_id = gdt-20130118-elwikinews-2-1
 # text = Αποκαταστάθηκαν οι διπλωματικές σχέσεις ΗΠΑ - Σομαλίας.
 1	Αποκαταστάθηκαν	αποκαθιστώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
@@ -37625,6 +37705,7 @@
 57	"	"	PUNCT	PUNCT	_	40	punct	_	SpaceAfter=No
 58	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
+# newdoc id = gdt-20120320-elwikinews-5245
 # sent_id = gdt-20120320-elwikinews-5245-1
 # text = Πάνω από 15.000 τόνοι πατάτας Νευροκοπίου στην αγορά
 1	Πάνω	πάνω	ADV	ADV	_	3	advmod	_	_
@@ -37853,6 +37934,7 @@
 39	Νευροκόπι	Νευροκόπι	PROPN	PROPN	Case=Acc|Gender=Neut|Number=Sing	35	nmod	_	SpaceAfter=No
 40	.	.	PUNCT	PUNCT	_	30	punct	_	_
 
+# newdoc id = gdt-20020204-ep-sessions_089
 # sent_id = gdt-20020204-ep-sessions_089-1
 # text = . (ΕΝ)
 1	.	.	PUNCT	PUNCT	_	3	punct	_	_
@@ -38603,6 +38685,7 @@
 48	επιχειρήσεων	επιχείρηση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	46	nmod	_	SpaceAfter=No
 49	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
+# newdoc id = gdt-2005XXXX-ert-tourism_menoume_ellada_corfu
 # sent_id = gdt-2005XXXX-ert-tourism_menoume_ellada_corfu-1
 # text = Στην πόλη της Κέρκυρας.
 1-2	Στην	_	_	_	_	_	_	_	_
@@ -39154,6 +39237,7 @@
 22	Αθήνα	Αθήνα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
 23	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
+# newdoc id = gdt-20120303-elwikinews-5000
 # sent_id = gdt-20120303-elwikinews-5000-1
 # text = Η Εισαγγελία της Γερμανίας ερευνά την κατοικία του Κρίστιαν Βουλφ
 1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -39277,6 +39361,7 @@
 17	ένταλμα	ένταλμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	SpaceAfter=No
 18	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
+# newdoc id = gdt-20130714-elwikinews-1
 # sent_id = gdt-20130714-elwikinews-1-1
 # text = Ο Σνόουντεν ζητά προσωρινό άσυλο στη Ρωσία.
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -39564,6 +39649,7 @@
 57	ΗΠΑ	ΗΠΑ	NOUN	NOUN	Abbr=Yes	55	nmod	_	SpaceAfter=No
 58	.	.	PUNCT	PUNCT	_	21	punct	_	_
 
+# newdoc id = gdt-2005XXXX-ert-tourism_menoume_ellada_eyaggelistria_skiathos
 # sent_id = gdt-2005XXXX-ert-tourism_menoume_ellada_eyaggelistria_skiathos-1
 # text = Η Ιερά Μονή Ευαγγελίστριας στη Σκιάθο.
 1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
@@ -39793,6 +39879,7 @@
 23	Εικονίστρας	Εικονίστρα	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
+# newdoc id = gdt-20130109-elwikinews-1
 # sent_id = gdt-20130109-elwikinews-1-1
 # text = Αμερικανοί παράγοντες συνάντησαν τους λιγοστούς χρήστες του διαδικτύου στη Βόρεια Κορέα.
 1	Αμερικανοί	Αμερικανός	PROPN	PROPN	Case=Nom|Gender=Masc|Number=Plur	2	nmod	_	_
@@ -40053,6 +40140,7 @@
 23	πραγματοποιείται	πραγματοποιώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	21	acl:relcl	_	SpaceAfter=No
 24	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
+# newdoc id = gdt-20020206-ep-sessions_004
 # sent_id = gdt-20020206-ep-sessions_004-1
 # text = Κύριε Πρόεδρε, αγαπητοί συνάδελφοι, είχαμε ήδη την ευκαιρία στις 15_Ιανουαρίου να σας συγχαρούμε για την ανάληψη του αξιώματός σας.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	_
@@ -41265,6 +41353,7 @@
 2	Χειροκροτήματα	χειροκρότημα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
 3	)	)	PUNCT	PUNCT	_	2	punct	_	_
 
+# newdoc id = gdt-20020205-ep-sessions_141
 # sent_id = gdt-20020205-ep-sessions_141-1
 # text = . (ΕΝ)
 1	.	.	PUNCT	PUNCT	_	3	punct	_	_
@@ -41932,6 +42021,7 @@
 15	Bolkestein	Bolkestein	X	X	Foreign=Yes	11	appos	_	SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
+# newdoc id = gdt-20130419-elwikinews-1
 # sent_id = gdt-20130419-elwikinews-1-1
 # text = Οι προϋποθέσεις που έθεσε η Βόρεια Κορέα για την έναρξη συνομιλιών.
 1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
@@ -42087,6 +42177,7 @@
 18	εμφανιστεί	εμφανίζω	VERB	VERB	Aspect=Perf|VerbForm=Inf|Voice=Pass	7	acl:relcl	_	SpaceAfter=No
 19	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# newdoc id = gdt-20120311-elwikinews-5172
 # sent_id = gdt-20120311-elwikinews-5172-1
 # text = Αυξάνονται οι αυτοκτονίες νέων στη Ρωσία
 1	Αυξάνονται	αυξάνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
@@ -42272,6 +42363,7 @@
 18	»	»	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No
 19	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
+# newdoc id = gdt-20050221-ertonline-health_1
 # sent_id = gdt-20050221-ertonline-health_1-1
 # text = Ενθαρρυντικά τα νέα για τη γρίπη των πτηνών
 1	Ενθαρρυντικά	ενθαρρυντικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
@@ -42491,6 +42583,7 @@
 28	επαρχίες	επαρχία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	26	conj	_	SpaceAfter=No
 29	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
+# newdoc id = gdt-20090224-wikipedia-history_thibet
 # sent_id = gdt-20090224-wikipedia-history_thibet-1
 # text = Το 1951, ο Λαϊκός Απελευθερωτικός Στρατός της Κίνας εισέβαλε στο Θιβέτ.
 1	Το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
@@ -42980,6 +43073,7 @@
 62	"	"	PUNCT	PUNCT	_	41	punct	_	SpaceAfter=No
 63	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
+# newdoc id = gdt-20090408-wikipedia-history_kritiko_zitima
 # sent_id = gdt-20090408-wikipedia-history_kritiko_zitima-1
 # text = Στις 3_Σεπτεμβρίου_1895 ξέσπασε επανάσταση, που δεν βρήκε σύμφωνο το Βενιζέλο, ο οποίος θεωρούσε ότι οι Κρητικοί δεν έπρεπε να ενεργούν αυτοβούλως αλλά σε συνεννόηση με την ελληνική κυβέρνηση στην Αθήνα.
 1-2	Στις	_	_	_	_	_	_	_	_
@@ -43914,6 +44008,7 @@
 30	εννεάμηνο	εννεάμηνος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	28	obl	_	SpaceAfter=No
 31	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
+# newdoc id = gdt-20120321-elwikinews-5253
 # sent_id = gdt-20120321-elwikinews-5253-1
 # text = Ακόμα μια νίκη πέτυχε ο Μιτ Ρόμνεϊ
 1	Ακόμα	ακόμα	ADV	ADV	_	2	advmod	_	_
@@ -44061,6 +44156,7 @@
 32	»	»	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
 33	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
+# newdoc id = gdt-20140429-voa-3
 # sent_id = gdt-20140429-voa-3-1
 # text = ΗΠΑ: Ισχυροί ανεμοστρόβιλοι ισοπέδωσαν ολόκληρες γειτονιές σε κεντρικές πολιτείες της χώρας.
 1	ΗΠΑ	ΗΠΑ	NOUN	NOUN	Abbr=Yes	0	root	_	SpaceAfter=No
@@ -44269,6 +44365,7 @@
 30	ζημιές	ζημιά	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	28	obj	_	SpaceAfter=No
 31	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
+# newdoc id = gdt-20020205-ep-sessions_104
 # sent_id = gdt-20020205-ep-sessions_104-1
 # text = Κύριε Πρόεδρε, κύριε Ύπατε Εκπρόσωπε, θέλω να χαιρετίσω επίσης τον Επίτροπο που θα επιστρέψει σε λίγο στην αίθουσα.
 1	Κύριε	κύριος	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -44945,6 +45042,7 @@
 2	Χειροκροτήματα	χειροκρότημα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
 3	)	)	PUNCT	PUNCT	_	2	punct	_	_
 
+# newdoc id = gdt-20090408-wikipedia-history_ethnikos_dihasmos
 # sent_id = gdt-20090408-wikipedia-history_ethnikos_dihasmos-1
 # text = Στις 16_Αυγούστου_1916 έγινε συλλαλητήριο στην Αθήνα (κίνημα της Εθνικής Αμύνης), όπου με την υποστήριξη του συμμαχικού στρατού, που είχε αποβιβαστεί στην πρωτεύουσα της Μακεδονίας, ο Βενιζέλος ανακοίνωσε στο λαό την πλήρη διαφωνία του με τους χειρισμούς του Στέμματος.
 1-2	Στις	_	_	_	_	_	_	_	_
@@ -45644,6 +45742,7 @@
 44	"	"	PUNCT	PUNCT	_	36	punct	_	SpaceAfter=No
 45	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
+# newdoc id = gdt-2005XXXX-ert-tourism_menoume_ellada_sivota_thesprotias
 # sent_id = gdt-2005XXXX-ert-tourism_menoume_ellada_sivota_thesprotias-1
 # text = Τα Σύβοτα Θεσπρωτίας.
 1	Τα	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	_	_
@@ -45839,6 +45938,7 @@
 10	νησιά	νησί	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	4	obl	_	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
+# newdoc id = gdt-20120314-elwikinews-5199
 # sent_id = gdt-20120314-elwikinews-5199-1
 # text = Ημέρα πένθους στο Βέλγιο
 1	Ημέρα	ημέρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
@@ -46018,6 +46118,7 @@
 34	θυμάτων	θύμα	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	32	nmod	_	SpaceAfter=No
 35	.	.	PUNCT	PUNCT	_	26	punct	_	_
 
+# newdoc id = gdt-20120318-elwikinews-5227
 # sent_id = gdt-20120318-elwikinews-5227-1
 # text = Την έκδοση του Αμπντάλα αλ Σενούσι επιθυμεί η Λιβύη
 1	Την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -46189,6 +46290,7 @@
 27	άνθρωποι	άνθρωπος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	25	nsubj	_	SpaceAfter=No
 28	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# newdoc id = gdt-20120317-elwikinews-5216
 # sent_id = gdt-20120317-elwikinews-5216-1
 # text = Ελεύθερος ο Σεργκέι Ουνταλτσόφ
 1	Ελεύθερος	ελεύθερος	PROPN	PROPN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
@@ -46335,6 +46437,7 @@
 26	ρούβλιων	ρούβλιων	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	24	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
+# newdoc id = gdt-20120307-elwikinews-5038
 # sent_id = gdt-20120307-elwikinews-5038-1
 # text = Η Μπενφίκα νίκησε την Ζενίτ Αγίας Πετρούπολης με σκορ 2:0
 1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -46506,6 +46609,7 @@
 15	δεύτερη	δεύτερος	NUM	NUM	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	13	nsubj	_	SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# newdoc id = gdt-20120325-elwikinews-5280
 # sent_id = gdt-20120325-elwikinews-5280-1
 # text = Δεκαεννέα κρατούμενοι απέδρασαν από φυλακή του Ιράκ
 1	Δεκαεννέα	δεκαεννέα	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	2	nummod	_	_
@@ -46652,6 +46756,7 @@
 25	αρχών	αρχή	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	22	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	PUNCT	_	21	punct	_	_
 
+# newdoc id = gdt-20120305-elwikinews-5017
 # sent_id = gdt-20120305-elwikinews-5017-1
 # text = Μπαράκ Ομπάμα : Η διπλωματία αποτελεί κύρια επιλογή αυτή την στιγμή για Ιράν
 1	Μπαράκ	Μπαράκ	PROPN	PROPN	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -46911,6 +47016,7 @@
 27	»	»	PUNCT	PUNCT	_	18	punct	_	SpaceAfter=No
 28	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# newdoc id = gdt-20120310-elwikinews-5166
 # sent_id = gdt-20120310-elwikinews-5166-1
 # text = Καθεστώς ημιαυτονομίας επιθυμεί η Μισουράτα
 1	Καθεστώς	καθεστώς	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
@@ -47047,6 +47153,7 @@
 15	Βεγγάζη	Βεγγάζη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
+# newdoc id = gdt-20120321-elwikinews-5251
 # sent_id = gdt-20120321-elwikinews-5251-1
 # text = Πρώην Υπουργός της Κυβέρνησης της Ισπανίας καταδικάστηκε σε έξι χρόνια κάθειρξης
 1	Πρώην	πρώην	ADV	ADV	_	2	amod	_	_
@@ -47206,6 +47313,7 @@
 22	εποικονωνίας	εποικονωνίας	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
 23	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
+# newdoc id = gdt-20020227-ep-sessions_042
 # sent_id = gdt-20020227-ep-sessions_042-1
 # text = . (EN)
 1	.	.	PUNCT	PUNCT	_	3	punct	_	_
