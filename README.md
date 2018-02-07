@@ -42,6 +42,9 @@ National Technical University of Athens.
 
 # Changelog
 
+* 2017-04-01 v2.2
+  * Fixed issues concerning specific constructions (most of them related to `flat` in multi-token names and to `parataxis` in reported speech)
+
 * 2017-11-15 v2.1
   * Fixed issues concerning specific constructions (most of them related to deprels of pronouns and to oblique dependents in constructions with copulas)
 
