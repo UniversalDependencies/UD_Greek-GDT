@@ -18668,7 +18668,7 @@
 63	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = gdt-20020207-ep-sessions_120-11
-# text = Κατά τη διάρκεια του πολέμου του Αφγανιστάν τη δεκαετία του' 80, εμείς, στη Δύση, υποστηρίξαμε τον ισλαμικό φονταμενταλισμό προκειμένου να καταπολεμήσουμε την εξάπλωση του κομμουνισμού.
+# text = Κατά τη διάρκεια του πολέμου του Αφγανιστάν τη δεκαετία του ' 80, εμείς, στη Δύση, υποστηρίξαμε τον ισλαμικό φονταμενταλισμό προκειμένου να καταπολεμήσουμε την εξάπλωση του κομμουνισμού.
 1	Κατά	κατά	ADP	ADP	_	3	case	_	_
 2	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	διάρκεια	διάρκεια	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	20	obl	_	_
@@ -26336,7 +26336,7 @@
 18	Επιτροπή	επιτροπή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
 19	,	,	PUNCT	PUNCT	_	24	punct	_	_
 20	αλλά	αλλά	CCONJ	CCONJ	_	24	cc	_	_
-21	ιδίως	ιδίως	ADV	ADV	_	24	conj	_	_
+21	ιδίως	ιδίως	ADV	ADV	_	24	advmod	_	_
 22-23	στα	_	_	_	_	_	_	_	_
 22	σ	σε	ADP	AsPpSp	_	24	case	_	_
 23	τα	ο	DET	AtDf	Case=Acc|Gender=Neut|Number=Plur	24	det	_	_
@@ -41125,12 +41125,12 @@
 18	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	det	_	_
 19	Συμβούλιο	συμβούλιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	SpaceAfter=No
 20	,	,	PUNCT	PUNCT	_	21	punct	_	_
-21	αντίθετα	αντίθετα	ADV	ADV	_	26	advmod	_	SpaceAfter=No
+21	αντίθετα	αντίθετα	ADV	ADV	_	24	advmod	_	SpaceAfter=No
 22	,	,	PUNCT	PUNCT	_	21	punct	_	_
-23	εμείς	εγώ	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	26	nsubj	_	_
-24	είμαστε	είμαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	26	conj	_	_
+23	εμείς	εγώ	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	24	nsubj	_	_
+24	είμαστε	είμαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	10	conj	_	_
 25	που	που	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel	26	nsubj	_	_
-26	υποβάλλουμε	υποβάλλω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
+26	υποβάλλουμε	υποβάλλω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	23	acl:relcl	_	_
 27	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
 28	προτάσεις	πρόταση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	26	obj	_	_
 29	και	και	CCONJ	CCONJ	_	33	cc	_	_

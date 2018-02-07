@@ -9999,7 +9999,7 @@
 38	την	ο	DET	AtDf	Case=Acc|Gender=Fem|Number=Sing	39	det	_	_
 39	Ευρώπη	Ευρώπη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	35	nmod	_	SpaceAfter=No
 40	,	,	PUNCT	PUNCT	_	46	punct	_	_
-41	ειδικά	ειδικός	ADV	ADV	_	46	conj	_	_
+41	ειδικά	ειδικός	ADV	ADV	_	46	advmod	_	_
 42	δε	δε	ADV	ADV	_	46	advmod	_	_
 43-44	στις	_	_	_	_	_	_	_	_
 43	σ	σε	ADP	AsPpSp	_	46	case	_	_
