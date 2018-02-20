@@ -42,7 +42,8 @@ National Technical University of Athens.
 
 # Changelog
 
-* 2017-04-01 v2.2
+* 2018-04-15 v2.2
+  * Repository renamed from UD_Greek to UD_Greek-GDT.
   * Fixed issues concerning specific constructions (most of them related to `flat` in multi-token names and to `parataxis` in reported speech)
 
 * 2017-11-15 v2.1
