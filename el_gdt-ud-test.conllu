@@ -547,7 +547,7 @@
 21	δείξει	δείχνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	33	advcl	_	_
 22	εάν	αν	SCONJ	SCONJ	_	23	mark	_	_
 23	δυσπιστώ	δυσπιστώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	21	ccomp	_	_
-24	ανώφελα	ανώφελος	ADV	ADV	_	23	advmod	_	_
+24	ανώφελα	ανώφελα	ADV	ADV	_	23	advmod	_	_
 25	ή	ή	CCONJ	CCONJ	_	27	cc	_	_
 26	εάν	αν	SCONJ	SCONJ	_	27	mark	_	_
 27	έχω	έχω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	23	conj	_	_
@@ -2031,7 +2031,7 @@
 11	Χίλαρι	Χίλαρι	PROPN	PROPN	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
 12	Κλίντον	Κλίντον	PROPN	PROPN	Case=Nom|Gender=Fem|Number=Sing	11	flat	_	_
 13	επικοινωνούσε	επικοινωνώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	ccomp	_	_
-14	τηλεφωνικά	τηλεφωνικός	ADV	ADV	_	13	advmod	_	_
+14	τηλεφωνικά	τηλεφωνικά	ADV	ADV	_	13	advmod	_	_
 15	με	με	ADP	ADP	_	17	case	_	_
 16	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	det	_	_
 17	προσωπικό	προσωπικό	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	_
@@ -2549,7 +2549,7 @@
 # sent_id = gdt-20020115-ep-sessions_002-16
 # text = Χρειαζόμαστε μάλλον έναν άνθρωπο των έργων, έναν εργάτη παρά έναν πολιτικό.
 1	Χρειαζόμαστε	χρειάζομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-2	μάλλον	μάλλον	ADV	ADV	_	9	advmod	_	_
+2	μάλλον	μάλλον	ADV	ADV	_	4	advmod	_	_
 3	έναν	ένας	DET	DET	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	άνθρωπο	άνθρωπος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
 5	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	6	det	_	_
@@ -3326,7 +3326,7 @@
 5	έναν	ένας	DET	DET	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 6	πρακτικό	πρακτικός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	10	amod	_	_
 7	και	και	CCONJ	CCONJ	_	9	cc	_	_
-8	πολιτικά	πολιτικός	ADV	ADV	_	9	advmod	_	_
+8	πολιτικά	πολιτικά	ADV	ADV	_	9	advmod	_	_
 9	ουδέτερο	ουδέτερος	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	6	conj	_	_
 10	εκπρόσωπο	εκπρόσωπος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
 11	για	για	ADP	ADP	_	13	mark	_	_
@@ -4160,7 +4160,7 @@
 15	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
 16	απαντήσεις	απάντηση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	13	obj	_	SpaceAfter=No
 17	,	,	PUNCT	PUNCT	_	21	punct	_	_
-18	ειδικά	ειδικός	ADV	ADV	_	21	advmod	_	_
+18	ειδικά	ειδικά	ADV	ADV	_	21	advmod	_	_
 19	για	για	ADP	ADP	_	21	case	_	_
 20	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
 21	ερωτήσεις	ερώτηση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	13	obl	_	_
@@ -4198,7 +4198,7 @@
 26	,	,	PUNCT	PUNCT	_	28	punct	_	_
 27	όπως	όπως	ADV	ADV	_	28	advmod	_	_
 28	τονίζει	τονίζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	advcl	_	_
-29	χαρακτηριστικά	χαρακτηριστικός	ADV	ADV	_	28	advmod	_	SpaceAfter=No
+29	χαρακτηριστικά	χαρακτηριστικά	ADV	ADV	_	28	advmod	_	SpaceAfter=No
 30	,	,	PUNCT	PUNCT	_	34	punct	_	_
 31	αν	αν	SCONJ	SCONJ	_	34	mark	_	_
 32	ένας	ένας	DET	DET	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
@@ -4305,7 +4305,7 @@
 16	ασθενής	ασθενής	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	SpaceAfter=No
 17	"	"	PUNCT	PUNCT	_	3	punct	_	_
 18	τονίζει	τονίζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
-19	χαρακτηριστικά	χαρακτηριστικός	ADV	ADV	_	18	advmod	_	SpaceAfter=No
+19	χαρακτηριστικά	χαρακτηριστικά	ADV	ADV	_	18	advmod	_	SpaceAfter=No
 20	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = gdt-20050222-ertonline-health_4-14
@@ -4425,7 +4425,7 @@
 7	όλο	όλο	ADV	ADV	_	9	advmod	_	_
 8	και	και	CCONJ	CCONJ	_	9	cc	_	_
 9	περισσότερο	πολύ	ADV	ADV	Degree=Cmp	10	advmod	_	_
-10	διασυνοριακά	διασυνοριακός	ADV	ADV	_	6	advmod	_	SpaceAfter=No
+10	διασυνοριακά	διασυνοριακά	ADV	ADV	_	6	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = gdt-20020205-ep-sessions_240-4
@@ -6308,7 +6308,7 @@
 7	Επιτροπή	επιτροπή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	14	punct	_	_
 9	με	με	ADP	ADP	_	14	case	_	_
-10	κατάλληλα	κατάλληλος	ADV	ADV	_	11	advmod	_	_
+10	κατάλληλα	κατάλληλα	ADV	ADV	_	11	advmod	_	_
 11	χρηματοδοτούμενες	χρηματοδοτούμενος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	14	amod	_	_
 12	και	και	CCONJ	CCONJ	_	13	cc	_	_
 13	στελεχωμένες	στελεχώνω	VERB	VERB	Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	11	conj	_	_
@@ -7625,12 +7625,12 @@
 12	και	και	CCONJ	CCONJ	_	16	cc	_	_
 13	πολλοί	πολύς	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
 14	από	από	ADP	ADP	_	15	case	_	_
-15	αυτούς	αυτός	PRON	PRON	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Dem	13	det	_	_
+15	αυτούς	αυτός	PRON	PRON	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Dem	13	nmod	_	_
 16	μένουν	μένω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 17	μέχρι	μέχρι	ADP	ADP	_	19	case	_	_
 18	και	και	CCONJ	CCONJ	_	19	cc	_	_
 19	σήμερα	σήμερα	ADV	ADV	_	16	obl	_	_
-20	μόνιμα	μόνιμος	ADV	ADV	_	16	advmod	_	_
+20	μόνιμα	μόνιμα	ADV	ADV	_	16	advmod	_	_
 21-22	στο	_	_	_	_	_	_	_	_
 21	σ	σε	ADP	AsPpSp	_	23	case	_	_
 22	το	ο	DET	AtDf	Case=Acc|Gender=Neut|Number=Sing	23	det	_	_
@@ -7811,7 +7811,7 @@
 # sent_id = gdt-2005XXXX-ert-tourism_menoume_ellada_alonisos-17
 # text = Λίγο βορειότερα από το λιμάνι συναντάμε τους οικισμούς Ρουσούμ - Γιαλό και Βότση, οι οποίοι είναι χτισμένοι σε δύο πανέμορφους όρμους.
 1	Λίγο	λίγο	ADV	ADV	_	2	advmod	_	_
-2	βορειότερα	βόρειος	ADV	ADV	Degree=Cmp	6	advmod	_	_
+2	βορειότερα	βόρεια	ADV	ADV	Degree=Cmp	6	advmod	_	_
 3	από	από	ADP	ADP	_	5	case	_	_
 4	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
 5	λιμάνι	λιμάνι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	_
@@ -8196,7 +8196,7 @@
 3	Γιάννενα	Γιάννενα	PROPN	PROPN	Case=Acc|Gender=Neut|Number=Plur	1	compound	_	_
 4	1,5	1,5	NUM	NUM	NumType=Card	5	nummod	_	_
 5	ώρα	ώρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
-6	γρηγορότερα	γρήγορος	ADV	ADV	_	1	advmod	_	SpaceAfter=No
+6	γρηγορότερα	γρήγορα	ADV	ADV	_	1	advmod	_	SpaceAfter=No
 7	!	!	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = gdt-20090409-apogevmatini-news_egnatia_odos-2
@@ -9293,7 +9293,7 @@
 83	τα	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	84	det	_	_
 84	οποία	οποίος	PRON	PRON	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Rel	85	nsubj	_	_
 85	επικυρώθηκαν	επικυρώνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	65	conj	_	_
-86	πολιτικά	πολιτικός	ADV	ADV	_	85	advmod	_	_
+86	πολιτικά	πολιτικά	ADV	ADV	_	85	advmod	_	_
 87-88	στο	_	_	_	_	_	_	_	_
 87	σ	σε	ADP	AsPpSp	_	90	case	_	_
 88	το	ο	DET	AtDf	Case=Acc|Gender=Neut|Number=Sing	90	det	_	_
@@ -10682,7 +10682,7 @@
 7	μας	εγώ	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	iobj	_	_
 8	υπόσχονται	υπόσχομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 9	ένα	ένας	DET	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
-10	παρόμοια	παρόμοιος	ADV	ADV	_	11	advmod	_	_
+10	παρόμοια	παρόμοια	ADV	ADV	_	11	advmod	_	_
 11	σταθερό	σταθερός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	13	amod	_	_
 12	νομισματικό	νομισματικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	13	amod	_	_
 13	μέλλον	μέλλον	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	SpaceAfter=No
@@ -10823,7 +10823,7 @@
 19	καταναλωτών	καταναλωτής	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	_
 20	δεδομένου	δεδομένο	ADV	ADV	_	23	mark	_	_
 21	ότι	ότι	SCONJ	SCONJ	_	20	fixed	_	_
-22	μεσοπρόθεσμα	μεσοπρόθεσμος	ADV	ADV	_	23	advmod	_	_
+22	μεσοπρόθεσμα	μεσοπρόθεσμα	ADV	ADV	_	23	advmod	_	_
 23	ασκείται	ασκώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	15	advcl	_	_
 24	πίεση	πίεση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	_
 25-26	στις	_	_	_	_	_	_	_	_
@@ -12108,7 +12108,7 @@
 31	αυτές	αυτός	PRON	PRON	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	33	nsubj	_	_
 32	δεν	δεν	PART	PART	_	33	advmod	_	_
 33	χρησιμοποιηθούν	χρησιμοποιώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass	17	advcl	_	_
-34	συνετά	συνετός	ADV	ADV	_	33	advmod	_	_
+34	συνετά	συνετά	ADV	ADV	_	33	advmod	_	_
 35	και	και	CCONJ	CCONJ	_	36	cc	_	_
 36	καλά	καλά	ADV	ADV	_	34	conj	_	SpaceAfter=No
 37	.	.	PUNCT	PUNCT	_	11	punct	_	_
@@ -12291,7 +12291,7 @@
 # sent_id = gdt-20020205-ep-sessions_022-25
 # text = Συγχαίρω θερμά τον κ. von Wogau, τον εισηγητή μας, και συστήνω στο Σώμα να ψηφίσει την έκθεση αυτή.
 1	Συγχαίρω	συγχαίρω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	θερμά	θερμός	ADV	ADV	_	1	advmod	_	_
+2	θερμά	θερμά	ADV	ADV	_	1	advmod	_	_
 3	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	κ.	κ.	NOUN	NOUN	Abbr=Yes	1	obj	_	_
 5	von	von	X	X	Foreign=Yes	4	nmod	_	_

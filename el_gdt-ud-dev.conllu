@@ -342,7 +342,7 @@
 18	ολοκληρώνονται	ολοκληρώνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	15	conj	_	_
 19	με	με	ADP	ADP	_	21	case	_	_
 20	μια	ένας	DET	DET	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
-21	πολιτική	πολιτικός	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	_
+21	πολιτική	πολιτική	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	_
 22	πρόληψης	πρόληψη	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
 23	και	και	CCONJ	CCONJ	_	25	cc	_	_
 24	κοινωνικής	κοινωνικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	25	amod	_	_
@@ -1974,7 +1974,7 @@
 
 # sent_id = gdt-2005XXXX-ert-tourism_menoume_ellada_vidos-9
 # text = Παλιότερα, το νησάκι ονομαζόταν "Πτυχία", "Ηραίου Νήσος", "Άγιος Στέφανος", αλλά και "Νησί της Ειρήνης".
-1	Παλιότερα	παλιός	ADV	ADV	Degree=Cmp	5	advmod	_	SpaceAfter=No
+1	Παλιότερα	παλιά	ADV	ADV	Degree=Cmp	5	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
 3	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
 4	νησάκι	νησάκι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
@@ -2412,7 +2412,7 @@
 4	λείπει	λείπω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj	_	_
 5	μια	ένας	DET	DET	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 6	ορθή	ορθός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	7	amod	_	_
-7	πολιτική	πολιτικός	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+7	πολιτική	πολιτική	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
 8	ανοικοδόμησης	ανοικοδόμηση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
 9	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	Γκόμα	Γκόμα	X	X	Foreign=Yes	8	nmod	_	_
@@ -3297,7 +3297,7 @@
 20	παρακολουθούσαν	παρακολουθώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	ccomp	_	_
 21	παρά	παρά	CCONJ	CCONJ	_	22	cc	_	_
 22	συμμετείχαν	συμμετέχω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	conj	_	_
-23	ενεργά	ενεργός	ADV	ADV	_	22	advmod	_	_
+23	ενεργά	ενεργά	ADV	ADV	_	22	advmod	_	_
 24-25	στις	_	_	_	_	_	_	_	_
 24	σ	σε	ADP	AsPpSp	_	26	case	_	_
 25	τις	ο	DET	AtDf	Case=Acc|Gender=Fem|Number=Plur	26	det	_	_
@@ -3389,7 +3389,7 @@
 # sent_id = gdt-2009XXXX-wikipedia-history_dekemvriana_44-20
 # text = Η στρατιωτικά παράδοξη «μάχη της Αθήνας» ήταν χαώδης και κατά βάση εξελισσόταν σε πολλές παράλληλες μάχες, σχεδόν σε όλη την περιοχή της πρωτεύουσας.
 1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-2	στρατιωτικά	στρατιωτικός	ADV	ADV	_	3	advmod	_	_
+2	στρατιωτικά	στρατιωτικά	ADV	ADV	_	3	advmod	_	_
 3	παράδοξη	παράδοξος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	5	amod	_	_
 4	«	«	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
 5	μάχη	μάχη	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
@@ -4360,7 +4360,7 @@
 5	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	απουσία	απουσία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
 7	μιας	ένας	DET	DET	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-8	δημοκρατικά	δημοκρατικός	ADV	ADV	_	9	advmod	_	_
+8	δημοκρατικά	δημοκρατικά	ADV	ADV	_	9	advmod	_	_
 9	νομιμοποιημένης	νομιμοποιώ	VERB	VERB	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	10	amod	_	_
 10	αρχής	αρχή	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
 11	που	που	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel	13	nsubj	_	_
@@ -7057,7 +7057,7 @@
 # sent_id = gdt-2005XXXX-ert-tourism_menoume_ellada_kalamas_potamos-8
 # text = Εκβάλλει βόρεια του βουνού της Στουπίτσας (Μαυρονόρος) και νότια του λόφου της Μαστιλίτσας.
 1	Εκβάλλει	εκβάλλω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	βόρεια	βόρειος	ADV	ADV	_	1	advmod	_	_
+2	βόρεια	βόρεια	ADV	ADV	_	1	advmod	_	_
 3	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
 4	βουνού	βουνό	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	2	obl	_	_
 5	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -7066,7 +7066,7 @@
 8	Μαυρονόρος	Μαυρονόρος	PROPN	PROPN	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	SpaceAfter=No
 9	)	)	PUNCT	PUNCT	_	8	punct	_	_
 10	και	και	CCONJ	CCONJ	_	11	cc	_	_
-11	νότια	νότιος	ADV	ADV	_	2	conj	_	_
+11	νότια	νότια	ADV	ADV	_	2	conj	_	_
 12	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	λόφου	λόφος	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	11	obl	_	_
 14	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
@@ -7694,9 +7694,9 @@
 12	1946	1946	NOUN	NOUN	_	20	obl	_	_
 13	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 14	επιζώντες	επιζών	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	19	nmod	_	_
-15	πολιτικά	πολιτικός	ADV	ADV	_	19	advmod	_	_
+15	πολιτικά	πολιτικά	ADV	ADV	_	19	advmod	_	_
 16	και	και	CCONJ	CCONJ	_	17	cc	_	_
-17	στρατιωτικά	στρατιωτικός	ADV	ADV	_	15	conj	_	_
+17	στρατιωτικά	στρατιωτικά	ADV	ADV	_	15	conj	_	_
 18	κυρίως	κυρίως	ADV	ADV	_	19	advmod	_	_
 19	υπεύθυνοι	υπεύθυνος	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	20	nsubj	_	_
 20	καταδικάζονται	καταδικάζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	advcl	_	_
@@ -7904,7 +7904,7 @@
 14	Ενώσεως	ένωση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
 15	οδηγεί	οδηγώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 16	σε	σε	ADP	ADP	_	17	case	_	_
-17	πολιτική	πολιτικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	_
+17	πολιτική	πολιτική	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	_
 18	σύγκλισης	σύγκλιση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	PUNCT	_	24	punct	_	_
 20	σε	σε	ADP	ADP	_	24	case	_	_
@@ -9999,7 +9999,7 @@
 38	την	ο	DET	AtDf	Case=Acc|Gender=Fem|Number=Sing	39	det	_	_
 39	Ευρώπη	Ευρώπη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	35	nmod	_	SpaceAfter=No
 40	,	,	PUNCT	PUNCT	_	46	punct	_	_
-41	ειδικά	ειδικός	ADV	ADV	_	46	advmod	_	_
+41	ειδικά	ειδικά	ADV	ADV	_	46	advmod	_	_
 42	δε	δε	ADV	ADV	_	46	advmod	_	_
 43-44	στις	_	_	_	_	_	_	_	_
 43	σ	σε	ADP	AsPpSp	_	46	case	_	_
@@ -11009,7 +11009,7 @@
 3	πρωτοβουλιών	πρωτοβουλία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	14	obl	_	_
 4	που	που	PRON	PRON	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Rel	8	nsubj	_	_
 5	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	cop	_	_
-6	απαραίτητο	απαραίτητος	ADV	ADV	_	3	acl:relcl	_	_
+6	απαραίτητο	απαραίτητος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	3	acl:relcl	_	_
 7	να	να	PART	PART	_	8	aux	_	_
 8	αναληφθούν	αναλαμβάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass	6	csubj	_	_
 9	για	για	ADP	ADP	_	11	case	_	_
