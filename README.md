@@ -1,6 +1,6 @@
 # Summary
 
-The Greek UD treebank is derived from the Greek Dependency Treebank
+The Greek UD treebank (UD_Greek-GDT) is derived from the Greek Dependency Treebank
 (http://gdt.ilsp.gr), a resource developed and maintained by
 researchers at the Institute for Language and Speech Processing/Athena
 R.C. (http://www.ilsp.gr).
@@ -42,6 +42,10 @@ National Technical University of Athens.
 
 # Changelog
 
+* 2018-11-15 v2.3
+  * Added nsubj:pass, csubj:pass subtypes to relevant subject nodes
+  * Added obl:agent subtypes to agents of passive verbs
+
 * 2018-04-15 v2.2
   * Repository renamed from UD_Greek to UD_Greek-GDT.
   * Fixed issues concerning specific constructions (most of them related to `flat` in multi-token names and to `parataxis` in reported speech)
@@ -80,5 +84,3 @@ Contributors: Prokopidis, Prokopis
 Contributing: elsewhere
 Contact: prokopis@ilsp.gr
 ===============================================================================
-
-
