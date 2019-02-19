@@ -70,6 +70,7 @@ National Technical University of Athens.
 * 2015-05-15 v1.1
   * Initial release of automatic conversion to UD
 
+<pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v1.1
 License: CC BY-NC-SA 3.0
@@ -84,3 +85,4 @@ Contributors: Prokopidis, Prokopis
 Contributing: elsewhere
 Contact: prokopis@ilsp.gr
 ===============================================================================
+</pre>
