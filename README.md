@@ -30,7 +30,7 @@ postgraduate programme Technoglossia IV, organised by the Institute
 for Language and Speech Processing, the University of Athens and the
 National Technical University of Athens.
 
-# References
+## References
 
 * Prokopis Prokopidis and Haris Papageorgiou. Universal Dependencies for Greek. In Proceedings of the NoDaLiDa 2017 Workshop on Universal Dependencies (UDW 2017), pages 102-106, Gothenburg, Sweden, May 2017.
 
