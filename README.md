@@ -43,7 +43,7 @@ National Technical University of Athens.
 # Changelog
 
 * 2019-05-15 v2.4
-  * Fixed upos in cases related to the `AUX`-for-`aux` constraint and changed POS and label for *να* to PART/mark
+  * Fixed upos in cases related to the `AUX`-for-`aux` constraint
   * Fixed issues concerning punctuation (most of them related to punctuation creating non-projectivity)
 
 * 2018-11-15 v2.3
