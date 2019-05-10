@@ -30,7 +30,7 @@ postgraduate programme Technoglossia IV, organised by the Institute
 for Language and Speech Processing, the University of Athens and the
 National Technical University of Athens.
 
-# References
+## References
 
 * Prokopis Prokopidis and Haris Papageorgiou. Universal Dependencies for Greek. In Proceedings of the NoDaLiDa 2017 Workshop on Universal Dependencies (UDW 2017), pages 102-106, Gothenburg, Sweden, May 2017.
 
@@ -41,6 +41,10 @@ National Technical University of Athens.
 - Train/dev/test sets: 1662/403/456 sentences, 41212/10139/10422 tokens
 
 # Changelog
+
+* 2019-05-15 v2.4
+  * Fixed upos in cases related to the `AUX`-for-`aux` constraint
+  * Fixed issues concerning punctuation (most of them related to punctuation creating non-projectivity)
 
 * 2018-11-15 v2.3
   * Added nsubj:pass, csubj:pass subtypes to relevant subject nodes
@@ -70,6 +74,7 @@ National Technical University of Athens.
 * 2015-05-15 v1.1
   * Initial release of automatic conversion to UD
 
+<pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v1.1
 License: CC BY-NC-SA 3.0
@@ -84,3 +89,4 @@ Contributors: Prokopidis, Prokopis
 Contributing: elsewhere
 Contact: prokopis@ilsp.gr
 ===============================================================================
+</pre>
