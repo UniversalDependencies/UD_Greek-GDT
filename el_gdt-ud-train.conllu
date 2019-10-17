@@ -7436,10 +7436,10 @@
 1	Τόνισε	τονίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	μάλιστα	μάλιστα	ADV	ADV	_	1	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	7	punct	_	_
-4	όπως	όπως	ADV	ADV	_	7	advmod	_	_
+4	όπως	όπως	ADV	ADV	_	7	orphan	_	_
 5	και	και	CCONJ	CCONJ	_	7	cc	_	_
 6	άλλοι	άλλος	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	7	det	_	_
-7	ομιλητές	ομιλητής	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	1	orphan	_	SpaceAfter=No
+7	ομιλητές	ομιλητής	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	1	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	7	punct	_	_
 9	ότι	ότι	SCONJ	SCONJ	_	16	mark	_	_
 10	"	"	PUNCT	PUNCT	_	16	punct	_	SpaceAfter=No
@@ -11452,7 +11452,7 @@
 7	τους	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	34	34	NUM	NUM	NumType=Card	10	orphan	_	_
 9	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
-10	αγνοούμενοι	αγνοούμενος	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+10	αγνοούμενοι	αγνοούμενος	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	3	conj	_	_
 11	από	από	ADP	ADP	_	14	case	_	_
 12	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	ισχυρό	ισχυρός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	14	amod	_	_
@@ -16026,7 +16026,7 @@
 2	απόδειξη	απόδειξη	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	5	punct	_	_
 4	δεκαπέντε	δεκαπέντε	NUM	NUM	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	5	nummod	_	_
-5	ημέρες	ημέρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	2	orphan	_	_
+5	ημέρες	ημέρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	2	obl	_	_
 6	μετά	μετά	ADV	ADV	_	5	advmod	_	_
 7	από	από	ADP	ADP	_	9	case	_	_
 8	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -19852,7 +19852,7 @@
 16	71η	71ος	NUM	NUM	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	13	orphan	_	SpaceAfter=No
 17	,	,	PUNCT	PUNCT	_	19	punct	_	_
 18	που	που	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel	19	nsubj	_	_
-19	σημαίνει	σημαίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	orphan	_	_
+19	σημαίνει	σημαίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
 20	ότι	ότι	SCONJ	SCONJ	_	27	mark	_	_
 21	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	24	det	_	_
 22	τελευταία	τελευταίος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	24	amod	_	_
@@ -31191,7 +31191,7 @@
 10	ψήφους	ψήφος	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	3	obl	_	_
 11	υπέρ	υπέρ	ADV	ADV	_	10	advmod	_	_
 12	έναντι	έναντι	ADP	ADP	_	13	case	_	_
-13	144ων	144ος	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur|NumType=Ord	3	orphan	_	SpaceAfter=No
+13	144ων	144ος	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur|NumType=Ord	3	obl	_	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = gdt-20130124-elwikinews-1-4
@@ -36188,8 +36188,8 @@
 14	το	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
 15	επιθυμεί	επιθυμώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
 16	σε	σε	ADP	ADP	_	17	case	_	_
-17	επισκευαστή	επισκευαστής	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	15	orphan	_	SpaceAfter=No
-18	,	,	PUNCT	PUNCT	_	15	punct	_	_
+17	επισκευαστή	επισκευαστής	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	7	obl:arg	_	SpaceAfter=No
+18	,	,	PUNCT	PUNCT	_	17	punct	_	_
 19	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	τελευταίος	τελευταίος	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
 21	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	aux	_	_
