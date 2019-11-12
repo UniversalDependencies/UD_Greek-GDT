@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Greek-GDT:
-commit 898599a1046651ca80b86fa182e4cfddd787e9ca
-Merge: 6443a9f ea530e2
+commit 2bb58dd24c0fb48bc4fffbc26c7a0e519fef5e7f
+Merge: 3d1a695 99df06e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 63441 of 63441 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.30022068025592.
@@ -19,7 +19,7 @@ Features: 43405 out of 63441 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.9.
-Udapi: found 1684 bugs.
+Udapi: found 1683 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 63441 words.
 Genres: found 3 out of 17 known.
 validate.py --lang el --max-err=10 UD_Greek-GDT/el_gdt-ud-dev.conllu
@@ -35,8 +35,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.600790006669067) = 0.154048719658735
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
-(weight=0.307692307692308) * (score{udapi}=0.734556517078861) = 0.226017389870419
+(weight=0.307692307692308) * (score{udapi}=0.734714143850192) = 0.226065890415444
 (weight=0.0769230769230769) * (score{udeprels}=0.778378378378378) = 0.0598752598752599
-(TOTAL score=0.701178171817687) * (availability=1) * (validity=1) = 0.701178171817687
+(TOTAL score=0.701226672362711) * (availability=1) * (validity=1) = 0.701226672362711
 STARS = 3.5
-UD_Greek-GDT	0.701178171817687	3.5
+UD_Greek-GDT	0.701226672362711	3.5
