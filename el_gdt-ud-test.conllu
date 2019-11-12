@@ -11317,7 +11317,7 @@
 11	ανταγωνίζονται	ανταγωνίζομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	acl:relcl	_	_
 12	έντονα	έντονα	ADV	ADV	_	11	advmod	_	_
 13	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	μια	ένας	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind	11	orphan	_	_
+14	μια	ένας	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	11	obl	_	_
 15	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	άλλη	άλλος	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind	11	obj	_	SpaceAfter=No
 17	,	,	PUNCT	PUNCT	_	18	punct	_	_

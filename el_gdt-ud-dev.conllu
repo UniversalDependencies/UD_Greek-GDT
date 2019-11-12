@@ -3627,7 +3627,7 @@
 17	,	,	PUNCT	PUNCT	_	20	punct	_	_
 18	κατά	κατά	ADP	ADP	_	20	case	_	_
 19	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-20	βασιλέα	βασιλέας	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	16	orphan	_	_
+20	βασιλέα	βασιλέας	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	16	nmod	_	_
 21	και	και	CCONJ	CCONJ	_	23	cc	_	_
 22	τους	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
 23	Άγγλους	Άγγλος	PROPN	PROPN	Case=Acc|Gender=Masc|Number=Plur	20	conj	_	SpaceAfter=No

@@ -42,6 +42,9 @@ National Technical University of Athens.
 
 # Changelog
 
+* 2019-11-15 v2.5
+  * Fixed issues concerning constructions with the `orphan` relation
+
 * 2019-05-15 v2.4
   * Fixed upos in cases related to the `AUX`-for-`aux` constraint
   * Fixed issues concerning punctuation (most of them related to punctuation creating non-projectivity)
