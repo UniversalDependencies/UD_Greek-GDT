@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
+commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 6 20:16:19 2021 +0200
+Date:   Tue Nov 2 22:17:19 2021 +0100
 Evaluating the following revision of UD_Greek-GDT:
-commit 606c5f1e137a77a7027f9f8e8e180dd784d02a6f
+commit f32384b58ee081fad5e4331b77d08f106ba77655
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Nov 11 19:36:59 2020 +0100
+Date:   Thu May 13 09:22:41 2021 +0200
 Size: counted 63441 of 63441 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.30022068025592.
 Size: maximum value 13.815511 is for 1000000 words or more.
