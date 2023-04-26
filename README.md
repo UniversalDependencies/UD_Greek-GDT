@@ -42,6 +42,12 @@ National Technical University of Athens.
 
 # Changelog
 
+* 2023-05-15 v2.12
+  * Converted `parataxis` to `ccomp` in reported speech constructions
+  * Changed upos to DET for pronouns functioning as determiners
+  * Fixed errors in lemma annotations of uppercase words
+  * Fixed xpos errors for MWTs
+
 * 2019-11-15 v2.5
   * Fixed issues concerning constructions with the `orphan` relation
 
