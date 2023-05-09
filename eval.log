@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+commit 04abe686385f14a9a6f68784bd723a6b60ded594
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 13 22:03:41 2022 +0100
+Date:   Tue May 9 00:14:39 2023 +0200
 Evaluating the following revision of UD_Greek-GDT:
-commit 25c267622f2cea651b2822e0c59fa73a8ef8b7ab
+commit e657cab4712ac583f7e1de9a89112214723f6dc1
+Merge: 4217c4f acd61eb
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat May 14 14:27:11 2022 +0200
 Size: counted 63441 of 63441 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.30022068025592.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -15,20 +15,20 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 43405 out of 63441 total words have one or more features.
+Features: 43419 out of 63441 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.9.
 Udapi:
-               TOTAL       1683
-Udapi: found 1683 bugs.
+               TOTAL       1680
+Udapi: found 1680 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 63441 words.
 Genres: found 3 out of 17 known.
-validate.py --lang el --max-err=10 UD_Greek-GDT/el_gdt-ud-dev.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang el --max-err=10 UD_Greek-GDT/el_gdt-ud-dev.conllu
 *** PASSED ***
-validate.py --lang el --max-err=10 UD_Greek-GDT/el_gdt-ud-test.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang el --max-err=10 UD_Greek-GDT/el_gdt-ud-test.conllu
 *** PASSED ***
-validate.py --lang el --max-err=10 UD_Greek-GDT/el_gdt-ud-train.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang el --max-err=10 UD_Greek-GDT/el_gdt-ud-train.conllu
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
@@ -37,8 +37,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.600790006669067) = 0.154048719658735
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
-(weight=0.307692307692308) * (score{udapi}=0.734714143850192) = 0.226065890415444
+(weight=0.307692307692308) * (score{udapi}=0.735187024164184) = 0.226211392050518
 (weight=0.0769230769230769) * (score{udeprels}=0.778378378378378) = 0.0598752598752599
-(TOTAL score=0.701226672362711) * (availability=1) * (validity=1) = 0.701226672362711
+(TOTAL score=0.701372173997786) * (availability=1) * (validity=1) = 0.701372173997786
 STARS = 3.5
-UD_Greek-GDT	0.701226672362711	3.5
+UD_Greek-GDT	0.701372173997786	3.5
