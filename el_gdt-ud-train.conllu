@@ -10743,7 +10743,7 @@
 15	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	εγκαθίδρυση	εγκαθίδρυση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	13	nmod	_	_
 17	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	18	det	_	_
-18	Βασιλείου	Βασίλειος	PROPN	PROPN	Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+18	Βασιλείου	βασίλειο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
 19	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
 20	Κάτω	κάτω	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	21	advmod	_	_
 21	Χωρών	χώρα	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	SpaceAfter=No
@@ -20438,7 +20438,7 @@
 35	νομοθεσίας	νομοθεσία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	33	nmod	_	_
 36	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	38	det	_	_
 37	Ηνωμένου	ηνωμένος	ADJ	ADJ	Case=Gen|Gender=Neut|Number=Sing	38	amod	_	_
-38	Βασιλείου	βασίλειο	PROPN	PROPN	Case=Gen|Gender=Neut|Number=Sing	35	nmod	_	SpaceAfter=No
+38	Βασιλείου	βασίλειο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	35	nmod	_	SpaceAfter=No
 39	.	.	PUNCT	PUNCT	_	12	punct	_	_
 
 # sent_id = gdt-20020116-ep-sessions_143-13
@@ -20453,7 +20453,7 @@
 8	νομοθεσίας	νομοθεσία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
 9	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
 10	Ηνωμένου	ηνωμένος	ADJ	ADJ	Case=Gen|Gender=Neut|Number=Sing	11	amod	_	_
-11	Βασιλείου	βασίλειο	PROPN	PROPN	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+11	Βασιλείου	βασίλειο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = gdt-20020116-ep-sessions_143-14
@@ -30034,7 +30034,7 @@
 7	αντιζηλιών	αντιζηλία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	_
 8	καμία	κανένας	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	12	nsubj	_	_
 9	εξ	εκ	ADP	ADP	_	10	case	_	_
-10	αυτών	αυτός	DET	DET	Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Dem	8	det	_	_
+10	αυτών	αυτός	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Dem	8	nmod	_	_
 11	δεν	δεν	PART	PART	_	12	advmod	_	_
 12	είχε	έχω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 13	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
@@ -30780,7 +30780,7 @@
 11	ενιαίας	ενιαίος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	12	amod	_	_
 12	Μακεδονίας	Μακεδονία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
 13	με	με	ADP	ADP	_	14	case	_	_
-14	αυτή	αυτός	DET	DET	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	9	det	_	_
+14	αυτή	αυτός	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	7	nmod	_	_
 15	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	λύτρωσης	λύτρωση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
 17	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_

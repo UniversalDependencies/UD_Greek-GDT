@@ -8300,7 +8300,7 @@
 14	και	και	CCONJ	CCONJ	_	17	cc	_	_
 15	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	det	_	_
 16	Ηνωμένο	ηνωμένος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	17	amod	_	_
-17	Βασίλειο	Βασίλειος	PROPN	PROPN	Case=Acc|Gender=Neut|Number=Sing	10	conj	_	SpaceAfter=No
+17	Βασίλειο	βασίλειο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	10	conj	_	SpaceAfter=No
 18	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = gdt-2009XXXX-wikipedia-history_istoria_tis_ee-11

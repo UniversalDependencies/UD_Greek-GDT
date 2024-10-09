@@ -42,6 +42,10 @@ National Technical University of Athens.
 
 # Changelog
 
+* 2024-11-15 v2.15
+  * Fixed wrong dependency labels that lead to leaf-det-clf errors
+  * Fixed errors in lemma annotations
+
 * 2023-05-15 v2.12
   * Converted `parataxis` to `ccomp` in reported speech constructions
   * Changed upos to DET for pronouns functioning as determiners
