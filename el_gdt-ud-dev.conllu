@@ -257,12 +257,12 @@
 4	,	,	PUNCT	PUNCT	_	7	punct	_	_
 5	για	για	ADP	ADP	_	7	mark	_	_
 6	να	να	AUX	AUX	_	7	aux	_	_
-7	καταστεί	καθίσταμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	12	advcl	_	_
+7	καταστεί	καθίσταμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	10	advcl	_	_
 8	αποτελεσματική	αποτελεσματικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	7	xcomp	_	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	7	punct	_	_
-10	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	_
+10	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 11	να	να	AUX	AUX	_	12	aux	_	_
-12	στηριχθεί	στηρίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	_
+12	στηριχθεί	στηρίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	10	csubj	_	_
 13-14	στην	_	_	_	_	_	_	_	_
 13	σ	σε	ADP	ADP	_	16	case	_	_
 14	την	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	16	det	_	_
@@ -291,18 +291,18 @@
 37	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
 38	παράνομη	παράνομος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	39	amod	_	_
 39	διακίνηση	διακίνηση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	35	obl	_	SpaceAfter=No
-40	,	,	PUNCT	PUNCT	_	46	punct	_	_
+40	,	,	PUNCT	PUNCT	_	43	punct	_	_
 41	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	42	det	_	_
 42	οποίες	οποίος	PRON	PRON	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Rel	46	nsubj	_	_
-43	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	46	aux	_	_
+43	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	acl:relcl	_	_
 44	να	να	AUX	AUX	_	46	aux	_	_
 45	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	46	cop	_	_
-46	αποτελεσματικές	αποτελεσματικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	33	acl:relcl	_	SpaceAfter=No
+46	αποτελεσματικές	αποτελεσματικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	43	csubj	_	SpaceAfter=No
 47	,	,	PUNCT	PUNCT	_	48	punct	_	_
 48	ανάλογες	ανάλογος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	46	conj	_	_
 49	και	και	CCONJ	CCONJ	_	50	cc	_	_
 50	αποτρεπτικές	αποτρεπτικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	46	conj	_	SpaceAfter=No
-51	.	.	PUNCT	PUNCT	_	12	punct	_	_
+51	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 # sent_id = gdt-20020204-ep-sessions_044-9
 # text = Εκφράζουμε την ικανοποίησή μας με τους στόχους της έκθεσης του κ. Oostlander.
@@ -324,7 +324,7 @@
 # text = Είναι σαφές ότι τα κατασταλτικά μέτρα κατά των δραστών της παράνομης διακίνησης πρέπει να συμπληρώνονται και να ολοκληρώνονται με μια πολιτική πρόληψης και κοινωνικής επανένταξης των ατόμων που είναι εξαρτημένα από τα ναρκωτικά.
 1	Είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	cop	_	_
 2	σαφές	σαφής	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
-3	ότι	ότι	SCONJ	SCONJ	_	15	mark	_	_
+3	ότι	ότι	SCONJ	SCONJ	_	13	mark	_	_
 4	τα	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	6	det	_	_
 5	κατασταλτικά	κατασταλτικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	6	amod	_	_
 6	μέτρα	μέτρο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	15	nsubj:pass	_	_
@@ -334,9 +334,9 @@
 10	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 11	παράνομης	παράνομος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	12	amod	_	_
 12	διακίνησης	διακίνηση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
-13	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	aux	_	_
+13	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj	_	_
 14	να	να	AUX	AUX	_	15	aux	_	_
-15	συμπληρώνονται	συμπληρώνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	csubj	_	_
+15	συμπληρώνονται	συμπληρώνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	csubj	_	_
 16	και	και	CCONJ	CCONJ	_	18	cc	_	_
 17	να	να	AUX	AUX	_	18	aux	_	_
 18	ολοκληρώνονται	ολοκληρώνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	15	conj	_	_
@@ -486,9 +486,9 @@
 5	σημαντική	σημαντικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	_
 6	διευκρίνιση	διευκρίνιση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 7	που	που	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel	10	nsubj	_	_
-8	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
+8	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
 9	να	να	AUX	AUX	_	10	aux	_	_
-10	γίνει	γίνομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	6	acl:relcl	_	_
+10	γίνει	γίνομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	8	csubj	_	_
 11	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	cop	_	_
 12	ότι	ότι	SCONJ	SCONJ	_	15	mark	_	_
 13	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
@@ -878,10 +878,10 @@
 7	διάσταση	διάσταση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
 8	και	και	CCONJ	CCONJ	_	9	cc	_	_
 9	σοβαρότητα	σοβαρότητα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	_
-10	ώστε	ώστε	SCONJ	SCONJ	_	13	mark	_	_
-11	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	_
+10	ώστε	ώστε	SCONJ	SCONJ	_	11	mark	_	_
+11	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	_
 12	να	να	AUX	AUX	_	13	aux	_	_
-13	αποτελέσει	αποτελώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	advcl	_	_
+13	αποτελέσει	αποτελώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	11	csubj	_	_
 14	αντικείμενο	αντικείμενο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	13	obj	_	_
 15	ποινικών	ποινικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Plur	16	amod	_	_
 16	κυρώσεων	κύρωση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	SpaceAfter=No
@@ -2259,11 +2259,11 @@
 15	δεν	δεν	PART	PART	_	16	advmod	_	_
 16	έχει	έχω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
 17	στέγη	στέγη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
-18	και	και	CCONJ	CCONJ	_	22	cc	_	_
-19	ότι	ότι	SCONJ	SCONJ	_	22	mark	_	_
-20	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	aux	_	_
+18	και	και	CCONJ	CCONJ	_	20	cc	_	_
+19	ότι	ότι	SCONJ	SCONJ	_	20	mark	_	_
+20	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
 21	να	να	AUX	AUX	_	22	aux	_	_
-22	ανοικοδομηθούν	ανοικοδομώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass	7	conj	_	_
+22	ανοικοδομηθούν	ανοικοδομώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass	20	csubj	_	_
 23	12.000	12.000	NUM	NUM	NumType=Card	24	nummod	_	_
 24	κατοικίες	κατοικία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	22	nsubj:pass	_	SpaceAfter=No
 25	.	.	PUNCT	PUNCT	_	1	punct	_	_
@@ -2378,11 +2378,11 @@
 2	δύο	δύο	NUM	NUM	Case=Nom|Gender=Fem|Number=Plur|NumType=Card	4	nummod	_	_
 3	αυτές	αυτός	DET	DET	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	4	det	_	_
 4	πραγματικότητες	πραγματικότητα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	_
-5	θα	θα	AUX	AUX	_	9	aux	_	_
-6	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
+5	θα	θα	AUX	AUX	_	6	aux	_	_
+6	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	να	να	AUX	AUX	_	9	aux	_	_
 8	μας	εγώ	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	9	obj	_	_
-9	οδηγήσουν	οδηγώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+9	οδηγήσουν	οδηγώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	6	csubj	_	_
 10	σε	σε	ADP	ADP	_	12	case	_	_
 11	μια	ένας	DET	DET	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	στρατηγική	στρατηγική	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
@@ -2402,7 +2402,7 @@
 26	αυτήν	αυτός	DET	DET	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	28	det	_	_
 27	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 28	περιοχή	περιοχή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
-29	.	.	PUNCT	PUNCT	_	9	punct	_	_
+29	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 # sent_id = gdt-20020207-ep-sessions_131-8
 # text = Είναι βέβαιο ότι λείπει μια ορθή πολιτική ανοικοδόμησης της Γκόμα και μια πολιτική πρόληψης πιθανών νέων εκρήξεων και ελέγχου του ηφαιστείου Νιραγκόνγκο.
@@ -3323,7 +3323,7 @@
 7	για	για	ADP	ADP	_	9	case	_	_
 8	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	αεροπορία	αεροπορία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
-10	δεδομένου	δεδομένο	ADV	ADV	_	15	mark	_	_
+10	δεδομένου	δεδομένο	ADV	ADV	ExtPos=SCONJ	15	mark	_	_
 11	ότι	ότι	SCONJ	SCONJ	_	10	fixed	_	_
 12	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	ΕΛΑΣ	ΕΛΑΣ	NOUN	NOUN	Abbr=Yes	15	nsubj	_	_
@@ -4034,7 +4034,7 @@
 14	ιδιαίτερα	ιδιαίτερα	ADV	ADV	_	15	advmod	_	_
 15	ανησυχητική	ανησυχητικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	7	xcomp	_	SpaceAfter=No
 16	,	,	PUNCT	PUNCT	_	19	punct	_	_
-17	δεδομένου	δεδομένο	ADV	ADV	_	19	mark	_	_
+17	δεδομένου	δεδομένο	ADV	ADV	ExtPos=SCONJ	19	mark	_	_
 18	ότι	ότι	SCONJ	SCONJ	_	17	fixed	_	_
 19	μπορεί	μπορώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
 20	να	να	AUX	AUX	_	21	aux	_	_
@@ -5565,7 +5565,7 @@
 12	κράτησε	κρατώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
 13	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	εξουσία	εξουσία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
-15	μέχρι	μέχρι	ADP	ADP	_	18	mark	_	_
+15	μέχρι	μέχρι	ADP	ADP	ExtPos=SCONJ	18	mark	_	_
 16	που	που	ADV	ADV	_	15	fixed	_	_
 17	την	εγώ	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
 18	παρέδωσε	παραδίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	_
@@ -5607,7 +5607,7 @@
 7	και	και	CCONJ	CCONJ	_	8	cc	_	_
 8	εθνικιστής	εθνικιστής	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	13	punct	_	_
-10	αν	αν	SCONJ	SCONJ	_	13	mark	_	_
+10	αν	αν	SCONJ	SCONJ	ExtPos=SCONJ	13	mark	_	_
 11	και	και	CCONJ	CCONJ	_	10	fixed	_	_
 12	ριζοσπάστης	ριζοσπάστης	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	13	amod	_	_
 13	εθνικιστής	εθνικιστής	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
@@ -5629,7 +5629,7 @@
 27	τις	ο	DET	DET	Case=Acc|Gender=Fem|Number=Plur	28	det	_	_
 28	ΗΠΑ	ΗΠΑ	NOUN	NOUN	Abbr=Yes	23	conj	_	SpaceAfter=No
 29	,	,	PUNCT	PUNCT	_	47	punct	_	_
-30	παρόλο	παρόλο	ADV	ADV	_	47	mark	_	_
+30	παρόλο	παρόλο	ADV	ADV	ExtPos=SCONJ	47	mark	_	_
 31	που	που	ADV	ADV	_	30	fixed	_	_
 32	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
 33	συνοπτική	συνοπτικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	34	amod	_	_
@@ -6049,7 +6049,7 @@
 10	τους	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	κομουνιστές	κομουνιστής	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
 12	,	,	PUNCT	PUNCT	_	20	punct	_	_
-13	παρόλο	παρόλο	ADV	ADV	_	20	mark	_	_
+13	παρόλο	παρόλο	ADV	ADV	ExtPos=SCONJ	20	mark	_	_
 14	που	που	ADV	ADV	_	13	fixed	_	_
 15	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	ίδιος	ίδιος	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
@@ -8570,7 +8570,7 @@
 11	τη	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	12	det	_	_
 12	Ρώμη	Ρώμη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 13	,	,	PUNCT	PUNCT	_	17	punct	_	_
-14	αν	αν	SCONJ	SCONJ	_	17	mark	_	_
+14	αν	αν	SCONJ	SCONJ	ExtPos=SCONJ	17	mark	_	_
 15	και	και	CCONJ	CCONJ	_	14	fixed	_	_
 16	δεν	δεν	PART	PART	_	17	advmod	_	_
 17	επικυρώθηκε	επικυρώνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	9	advcl	_	_
@@ -8887,14 +8887,14 @@
 17	όργανα	όργανο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	10	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	PUNCT	_	19	punct	_	_
 19	δήλωσα	δηλώνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-20	ότι	ότι	SCONJ	SCONJ	_	22	mark	_	_
+20	ότι	ότι	SCONJ	SCONJ	_	27	mark	_	_
 21	πρωταρχική	πρωταρχικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	22	amod	_	_
-22	προτεραιότητα	προτεραιότητα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	19	ccomp	_	_
+22	προτεραιότητα	προτεραιότητα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	27	csubj	_	_
 23	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 24	νέου	νέος	ADJ	ADJ	Case=Gen|Gender=Masc|Number=Sing	25	amod	_	_
 25	Προέδρου	πρόεδρος	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	_
-26	θα	θα	AUX	AUX	_	22	aux	_	_
-27	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	aux	_	_
+26	θα	θα	AUX	AUX	_	27	aux	_	_
+27	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	ccomp	_	_
 28	να	να	AUX	AUX	_	22	aux	_	_
 29	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	22	cop	_	_
 30	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
@@ -8949,9 +8949,9 @@
 # sent_id = gdt-20020206-ep-sessions_008-6
 # text = Τι πρέπει να κάνουμε στην πράξη προκειμένου να επιτύχουμε τον στόχο αυτόν;
 1	Τι	τι	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int	4	obj	_	_
-2	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+2	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	να	να	AUX	AUX	_	4	aux	_	_
-4	κάνουμε	κάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	0	root	_	_
+4	κάνουμε	κάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	2	csubj	_	_
 5-6	στην	_	_	_	_	_	_	_	_
 5	σ	σε	ADP	ADP	_	7	case	_	_
 6	την	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	7	det	_	_
@@ -8962,7 +8962,7 @@
 11	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	στόχο	στόχος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
 13	αυτόν	αυτός	DET	DET	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	det	_	SpaceAfter=No
-14	;	;	PUNCT	PUNCT	_	4	punct	_	_
+14	;	;	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = gdt-20020206-ep-sessions_008-7
 # text = Προσωπικά, διατύπωσα τρεις ιδέες, εκ των οποίων οι δύο νομίζω ότι συμφωνούν εν μέρει με τα σχέδιά σας.
@@ -8990,7 +8990,7 @@
 
 # sent_id = gdt-20020206-ep-sessions_008-8
 # text = Όσο για την τρίτη, τολμώ να πω με έπαρση ότι θα μπορούσε να καλύψει ενδεχόμενα κενά.
-1	Όσο	όσο	ADV	ADV	_	4	case	_	_
+1	Όσο	όσο	ADV	ADV	ExtPos=SCONJ	4	case	_	_
 2	για	για	ADP	ADP	_	1	fixed	_	_
 3	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	τρίτη	τρίτος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing|NumType=Ord	6	obl	_	SpaceAfter=No
@@ -9076,12 +9076,12 @@
 9	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
 10	Σώμα	σώμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	_
 11	μας	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod	_	SpaceAfter=No
-12	,	,	PUNCT	PUNCT	_	17	punct	_	_
-13	καθώς	καθώς	SCONJ	SCONJ	_	17	mark	_	_
-14	θα	θα	AUX	AUX	_	17	aux	_	_
-15	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	aux	_	_
+12	,	,	PUNCT	PUNCT	_	15	punct	_	_
+13	καθώς	καθώς	SCONJ	SCONJ	_	15	mark	_	_
+14	θα	θα	AUX	AUX	_	15	aux	_	_
+15	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
 16	να	να	AUX	AUX	_	17	aux	_	_
-17	επιτρέψουμε	επιτρέπω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	7	advcl	_	_
+17	επιτρέψουμε	επιτρέπω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	15	csubj	_	_
 18	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	διατύπωση	διατύπωση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	_
 20	και	και	CCONJ	CCONJ	_	22	cc	_	_
@@ -9123,18 +9123,18 @@
 
 # sent_id = gdt-20020206-ep-sessions_008-12
 # text = Κατόπιν, ο καθένας θα πρέπει να αναλάβει τις ευθύνες του.
-1	Κατόπιν	κατόπιν	ADV	ADV	_	8	advmod	_	SpaceAfter=No
+1	Κατόπιν	κατόπιν	ADV	ADV	_	6	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
 3	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	καθένας	καθένας	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	nsubj	_	_
-5	θα	θα	AUX	AUX	_	8	aux	_	_
-6	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
+5	θα	θα	AUX	AUX	_	6	aux	_	_
+6	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	να	να	AUX	AUX	_	8	aux	_	_
-8	αναλάβει	αναλαμβάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+8	αναλάβει	αναλαμβάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	6	csubj	_	_
 9	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	ευθύνες	ευθύνη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	8	obj	_	_
 11	του	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	PUNCT	_	8	punct	_	_
+12	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 # sent_id = gdt-20020206-ep-sessions_008-13
 # text = Επιθυμία μας είναι η Συνέλευση να ταρακουνήσει τη Διακυβερνητική Διάσκεψη·
@@ -9728,12 +9728,12 @@
 10	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	νόμος	νόμος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
 12	λέει	λέγω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-13	ότι	ότι	SCONJ	SCONJ	_	18	mark	_	_
+13	ότι	ότι	SCONJ	SCONJ	_	16	mark	_	_
 14	κάθε	κάθε	DET	DET	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	15	det	_	_
 15	εταιρεία	εταιρεία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
-16	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	aux	_	_
+16	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp	_	_
 17	να	να	AUX	AUX	_	18	aux	_	_
-18	υποβάλλει	υποβάλλω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp	_	_
+18	υποβάλλει	υποβάλλω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	csubj	_	_
 19	στοιχεία	στοιχείο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	18	obj	_	_
 20	για	για	ADP	ADP	_	22	case	_	_
 21	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	22	det	_	_
@@ -9938,7 +9938,7 @@
 37	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	39	det	_	_
 38	κρατών	κράτος	ADJ	ADJ	Case=Gen|Gender=Neut|Number=Plur	39	amod	_	_
 39	μελών	μέλος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	36	nmod	_	_
-40	όσον	όσο	ADV	ADV	_	43	case	_	_
+40	όσον	όσο	ADV	ADV	ExtPos=ADP	43	case	_	_
 41	αφορά	αφορώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	fixed	_	_
 42	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	43	det	_	_
 43	επίλυση	επίλυση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	36	nmod	_	_
@@ -10052,12 +10052,12 @@
 10	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
 11	έτος	έτος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	nmod	_	_
 12	2010	2010	NOUN	NOUN	_	11	nmod	_	SpaceAfter=No
-13	,	,	PUNCT	PUNCT	_	18	punct	_	_
+13	,	,	PUNCT	PUNCT	_	16	punct	_	_
 14	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	οποίες	οποίος	PRON	PRON	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Rel	18	obj	_	_
-16	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	aux	_	_
+16	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
 17	να	να	AUX	AUX	_	18	aux	_	_
-18	σεβαστούμε	σέβομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Pass	7	acl:relcl	_	SpaceAfter=No
+18	σεβαστούμε	σέβομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Pass	16	csubj	_	SpaceAfter=No
 19	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = gdt-20020116-ep-sessions_161-8
@@ -10099,7 +10099,7 @@
 
 # sent_id = gdt-20020116-ep-sessions_161-9
 # text = Ως εκ τούτου βρίσκω θετικό το ότι ψηφίσαμε ότι χρειάζεται να υπάρχουν πιο μακρόπνοοι στόχοι, με τους οποίους θα γίνονται σεβαστές οι τιμές στόχοι της ΠΟΥ.
-1	Ως	ως	ADV	ADV	_	4	advmod	_	_
+1	Ως	ως	ADV	ADV	ExtPos=ADV	4	advmod	_	_
 2	εκ	εκ	ADP	ADP	_	1	fixed	_	_
 3	τούτου	τούτος	PRON	PRON	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Dem	1	fixed	_	_
 4	βρίσκω	βρίσκω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -10241,13 +10241,13 @@
 60	υπάρχουν	υπάρχω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	_
 61	πλέον	πλέον	ADV	ADV	_	60	advmod	_	_
 62	κανόνες	κανόνας	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	60	nsubj	_	_
-63	για	για	ADP	ADP	_	69	case	_	_
-64	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	69	det	_	_
-65	πότε	πότε	ADV	ADV	_	69	advmod	_	_
-66	θα	θα	AUX	AUX	_	69	aux	_	_
-67	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	69	aux	_	_
+63	για	για	ADP	ADP	_	67	case	_	_
+64	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	67	det	_	_
+65	πότε	πότε	ADV	ADV	_	67	advmod	_	_
+66	θα	θα	AUX	AUX	_	67	aux	_	_
+67	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	62	acl	_	_
 68	να	να	AUX	AUX	_	69	aux	_	_
-69	προειδοποιούνται	προειδοποιώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	62	acl	_	_
+69	προειδοποιούνται	προειδοποιώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	67	csubj	_	_
 70	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	71	det	_	_
 71	πολίτες	πολίτης	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	69	nsubj:pass	_	_
 72	ότι	ότι	SCONJ	SCONJ	_	79	mark	_	_
@@ -10281,7 +10281,7 @@
 16	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	cop	_	_
 17	ιδιαίτερα	ιδιαίτερα	ADV	ADV	_	18	advmod	_	_
 18	ευαίσθητες	ευαίσθητος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	14	acl:relcl	_	_
-19	όσον	όσο	ADV	ADV	_	22	case	_	_
+19	όσον	όσο	ADV	ADV	ExtPos=ADP	22	case	_	_
 20	αφορά	αφορώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	fixed	_	_
 21	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	22	det	_	_
 22	προβλήματα	πρόβλημα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	18	nmod	_	_
@@ -10350,7 +10350,7 @@
 21	την	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	22	det	_	_
 22	Ένωση	ένωση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	PUNCT	_	36	punct	_	_
-24	ούτως	ούτως	ADV	ADV	_	36	mark	_	_
+24	ούτως	ούτως	ADV	ADV	ExtPos=SCONJ	36	mark	_	_
 25	ώστε	ώστε	SCONJ	SCONJ	_	24	fixed	_	_
 26	και	και	CCONJ	CCONJ	_	27	cc	_	_
 27	εκείνες	εκείνος	PRON	PRON	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	36	nsubj	_	_
@@ -10549,7 +10549,7 @@
 
 # sent_id = gdt-20120307-elwikinews-5039-7
 # text = Αν και ηττήθηκε, η Μίλαν πήρε την πρόκριση για την επόμενη φάση του Τσάμπιονς Λιγκ.
-1	Αν	αν	SCONJ	SCONJ	_	3	mark	_	_
+1	Αν	αν	SCONJ	SCONJ	ExtPos=SCONJ	3	mark	_	_
 2	και	και	CCONJ	CCONJ	_	1	fixed	_	_
 3	ηττήθηκε	ηττώμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	3	punct	_	_
@@ -11491,10 +11491,10 @@
 1	Γιάννης	Γιάννης	PROPN	PROPN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 2	Στουρνάρας	Στουρνάρας	PROPN	PROPN	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	SpaceAfter=No
 3	:	:	PUNCT	PUNCT	_	1	punct	_	_
-4	Θα	θα	AUX	AUX	_	7	aux	_	_
-5	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
+4	Θα	θα	AUX	AUX	_	5	aux	_	_
+5	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
 6	να	να	AUX	AUX	_	7	aux	_	_
-7	επιστρέψουν	επιστρέφω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+7	επιστρέψουν	επιστρέφω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	5	csubj	_	_
 8-9	στην	_	_	_	_	_	_	_	_
 8	σ	σε	ADP	ADP	_	10	case	_	_
 9	την	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	10	det	_	_
@@ -11519,11 +11519,11 @@
 6	σ	σε	ADP	ADP	_	8	case	_	_
 7	το	ο	DET	DET	Case=Acc|Gender=Neut|Number=Sing	8	det	_	_
 8	εξωτερικό	εξωτερικό	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	_
-9	θα	θα	AUX	AUX	_	13	aux	_	_
-10	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	_
+9	θα	θα	AUX	AUX	_	10	aux	_	_
+10	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	ccomp	_	_
 11	να	να	AUX	AUX	_	13	aux	_	_
 12	τα	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	13	obj	_	_
-13	επιστρέψουν	επιστρέφω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	19	ccomp	_	_
+13	επιστρέψουν	επιστρέφω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	10	csubj	_	_
 14-15	στις	_	_	_	_	_	_	_	_
 14	σ	σε	ADP	ADP	_	17	case	_	_
 15	τις	ο	DET	DET	Case=Acc|Gender=Fem|Number=Plur	17	det	_	_
@@ -11548,11 +11548,11 @@
 34	,	,	PUNCT	PUNCT	_	32	punct	_	_
 35	ξεκαθαρίζοντας	ξεκαθαρίζω	VERB	VERB	Aspect=Imp|VerbForm=Conv|Voice=Act	19	advcl	_	_
 36	μάλιστα	μάλιστα	ADV	ADV	_	35	advmod	_	_
-37	πως	πως	SCONJ	SCONJ	_	41	mark	_	_
-38	δεν	δεν	PART	PART	_	41	advmod	_	_
-39	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	41	aux	_	_
+37	πως	πως	SCONJ	SCONJ	_	39	mark	_	_
+38	δεν	δεν	PART	PART	_	39	advmod	_	_
+39	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	35	ccomp	_	_
 40	να	να	AUX	AUX	_	41	aux	_	_
-41	περιμένουν	περιμένω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	35	ccomp	_	_
+41	περιμένουν	περιμένω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	39	csubj	_	_
 42	αμνήστευση	αμνήστευση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	41	obj	_	_
 43	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	44	det	_	_
 44	πράξεών	πράξη	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	42	nmod	_	_
@@ -11565,16 +11565,16 @@
 2	Γιάννης	Γιάννης	PROPN	PROPN	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 3	Στουρνάρας	Στουρνάρας	PROPN	PROPN	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_
 4	αναφέρει	αναφέρω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	ότι	ότι	SCONJ	SCONJ	_	26	mark	_	_
-6	"	"	PUNCT	PUNCT	_	26	punct	_	SpaceAfter=No
-7	τώρα	τώρα	ADV	ADV	_	26	advmod	_	_
+5	ότι	ότι	SCONJ	SCONJ	_	14	mark	_	_
+6	"	"	PUNCT	PUNCT	_	14	punct	_	SpaceAfter=No
+7	τώρα	τώρα	ADV	ADV	_	14	advmod	_	_
 8	που	που	ADV	ADV	_	12	advmod	_	_
 9	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	συνθήκες	συνθήκη	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	12	nsubj:pass	_	_
 11	έχουν	έχω	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	_
 12	ομαλοποιηθεί	ομαλοποιώ	VERB	VERB	Aspect=Perf|VerbForm=Inf|Voice=Pass	7	advcl	_	_
-13	θα	θα	AUX	AUX	_	26	aux	_	_
-14	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	aux	_	_
+13	θα	θα	AUX	AUX	_	14	aux	_	_
+14	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	_
 15	όσοι	όσος	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind,Rel	26	nsubj	_	_
 16	απέσυραν	αποσύρω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	acl:relcl	_	_
 17	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
@@ -11586,8 +11586,8 @@
 23	τράπεζες	τράπεζα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	16	obl	_	_
 24	να	να	AUX	AUX	_	26	aux	_	_
 25	τις	εγώ	PRON	PRON	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	26	obj	_	_
-26	επιστρέψουν	επιστρέφω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	4	ccomp	_	SpaceAfter=No
-27	"	"	PUNCT	PUNCT	_	26	punct	_	_
+26	επιστρέψουν	επιστρέφω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	14	csubj	_	SpaceAfter=No
+27	"	"	PUNCT	PUNCT	_	14	punct	_	_
 28	και	και	CCONJ	CCONJ	_	29	cc	_	_
 29	σημειώνει	σημειώνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
 30	ότι	ότι	SCONJ	SCONJ	_	38	mark	_	_

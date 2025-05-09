@@ -18,7 +18,7 @@
     <tag name="ADJ">5109</tag><!-- ευρωπαϊκός, όλος, πολύς, μεγάλος, νέος, σημαντικός, πρώτος, εθνικός, ίδιος, πολιτικός -->
     <tag name="ADP">5313</tag><!-- σε, για, με, από, κατά, προς, μεταξύ, μέχρι, μετά, εν -->
     <tag name="ADV">2737</tag><!-- επίσης, όπως, ως, όσο, σχετικά, πολύ, σήμερα, μόνο, ακόμα, εδώ -->
-    <tag name="AUX">3019</tag><!-- να, είμαι, θα, έχω, πρέπει, ας -->
+    <tag name="AUX">2786</tag><!-- να, είμαι, θα, έχω, ας -->
     <tag name="CCONJ">2050</tag><!-- και, αλλά, ή, ωστόσο, όμως, ούτε, είτε, παρά, οπότε, πλην -->
     <tag name="DET">12119</tag><!-- ο, ένας, αυτός, άλλος, κάθε, τέτοιος, κάποιος, κανένας, οποιοσδήποτε, αρκετός -->
     <tag name="NOUN">13544</tag><!-- επιτροπή, χώρα, πρόεδρος, κοινοβούλιο, συμβούλιο, ένωση, χρόνος, κράτος, ΗΠΑ, μέλος -->
@@ -29,11 +29,11 @@
     <tag name="PUNCT">6319</tag><!-- ,, ., ", -, :, «, », (, ), ; -->
     <tag name="SCONJ">1042</tag><!-- ότι, αν, ενώ, όταν, προκειμένου, καθώς, ώστε, πως, διότι, επειδή -->
     <tag name="SYM">1</tag><!-- = -->
-    <tag name="VERB">5866</tag><!-- μπορώ, έχω, γίνομαι, αποτελώ, θέλω, αναφέρω, υπάρχω, βρίσκω, αφορώ, δηλώνω -->
+    <tag name="VERB">6099</tag><!-- πρέπει, μπορώ, έχω, γίνομαι, αποτελώ, θέλω, αναφέρω, υπάρχω, βρίσκω, αφορώ -->
     <tag name="X">974</tag><!-- αλ, Κάστρο, σκορ, Αφγανιστάν, Ουάσιγκτον, Σαντόρουμ, Μιτ, Ρικ, Ρόμνεϊ, Θιβέτ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="43">
+  <feats unique="47">
     <feat name="Abbr" value="Yes" upos="ADV,NOUN">365</feat><!-- ΗΠΑ, κ., ΕΕ, χλμ., ΟΗΕ, π.χ., ΕΛΑΣ, ΕΑΜ, ΕΚ, ΕΝ -->
     <feat name="Aspect" value="Imp" upos="AUX,VERB">3948</feat><!-- είναι, πρέπει, έχει, ήταν, έχουν, μπορεί, είχε, αφορά, αποτελεί, έχουμε -->
     <feat name="Aspect" value="Perf" upos="AUX,VERB">2983</feat><!-- δήλωσε, γίνει, ανέφερε, έγινε, πω, ανακοίνωσε, ήταν, τεθεί, αποτελέσει, γίνουν -->
@@ -46,6 +46,10 @@
     <feat name="Definite" value="Ind" upos="DET">468</feat><!-- μια, ένα, μία, ένας, ενός, μιας, έναν, μίας -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">258</feat><!-- περισσότερο, μεγαλύτερο, μεγαλύτερη, περισσότερα, περισσότερες, αργότερα, καλύτερη, περισσότεροι, νωρίτερα, μικρότερες -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">40</feat><!-- σοβαρότατες, ελάχιστα, ελάχιστες, ελάχιστο, Ανώτατο, ανώτατων, μέγιστη, πιθανότατα, Γαληνότατης, Δριμύτατη -->
+    <feat name="ExtPos" value="ADP" upos="ADP,ADV">40</feat><!-- ως, όσον, απ', Όσο, από -->
+    <feat name="ExtPos" value="ADV" upos="ADV">4</feat><!-- ως, ούτως -->
+    <feat name="ExtPos" value="CCONJ" upos="CCONJ">1</feat><!-- πλην -->
+    <feat name="ExtPos" value="SCONJ" upos="ADP,ADV,SCONJ">40</feat><!-- αν, έτσι, δεδομένου, ούτως, έως, παρόλο, μέχρι, Όσο, μιας -->
     <feat name="Foreign" value="Yes" upos="X">974</feat><!-- αλ, Κάστρο, σκορ, Αφγανιστάν, Ουάσιγκτον, Σαντόρουμ, Μιτ, Ρικ, Ρόμνεϊ, Θιβέτ -->
     <feat name="Gender" value="Fem" upos="ADJ,ADP,DET,NOUN,NUM,PRON,PROPN,VERB">18163</feat><!-- την, της, η, τη, τις, των, οι, που, μια, αυτή -->
     <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">7441</feat><!-- ο, του, τον, τους, οι, των, μας, που, το, σας -->
@@ -82,18 +86,18 @@
   <deps unique="37">
     <dep name="acl">279</dep>
     <dep name="acl:relcl">1024</dep>
-    <dep name="advcl">812</dep>
+    <dep name="advcl">813</dep>
     <dep name="advmod">2782</dep>
     <dep name="amod">4399</dep>
-    <dep name="appos">264</dep>
-    <dep name="aux">2420</dep>
+    <dep name="appos">265</dep>
+    <dep name="aux">2187</dep>
     <dep name="case">5374</dep>
     <dep name="cc">2026</dep>
     <dep name="ccomp">659</dep>
     <dep name="compound">22</dep>
-    <dep name="conj">2132</dep>
+    <dep name="conj">2131</dep>
     <dep name="cop">599</dep>
-    <dep name="csubj">166</dep>
+    <dep name="csubj">399</dep>
     <dep name="csubj:pass">46</dep>
     <dep name="dep">1</dep>
     <dep name="det">12112</dep>
@@ -107,7 +111,7 @@
     <dep name="nsubj">2797</dep>
     <dep name="nsubj:pass">782</dep>
     <dep name="nummod">466</dep>
-    <dep name="obj">2382</dep>
+    <dep name="obj">2381</dep>
     <dep name="obl">3684</dep>
     <dep name="obl:agent">105</dep>
     <dep name="obl:arg">1</dep>
