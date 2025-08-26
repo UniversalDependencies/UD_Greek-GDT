@@ -42,6 +42,14 @@ National Technical University of Athens.
 
 # Changelog
 
+* 2025-11-15 v2.17
+  * Added the PronType feature in DET nodes involved in multiword tokens
+  * Fixed a violation of the too-many-objects validation rule
+
+* 2025-05-15 v2.16
+  * Undid `AUX/aux` annotations for `πρέπει`. Reverted to treating relevant constructions as `VERB`s heading `csubj`s
+  * Added the `ExtPos` feature for heads of `fixed` relations
+
 * 2024-11-15 v2.15
   * Fixed wrong dependency labels that lead to leaf-det-clf errors
   * Fixed errors in lemma annotations
