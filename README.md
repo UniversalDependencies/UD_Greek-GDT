@@ -100,6 +100,7 @@ National Technical University of Athens.
 Data available since: UD v1.1
 License: CC BY-NC-SA 3.0
 Includes text: yes
+Parallel: no
 Genre: news wiki spoken
 Lemmas: manual native
 UPOS: converted from manual
