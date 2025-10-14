@@ -3628,7 +3628,7 @@
 19	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	Δευτέρα	Δευτέρα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
 21	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	22	det	_	_
-22	βράδυ	βράδυ	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	20	obl	_	_
+22	βράδυ	βράδυ	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	20	nmod	_	_
 23	καθώς	καθώς	SCONJ	SCONJ	_	24	mark	_	_
 24	άρχισαν	αρχίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	_
 25	να	να	AUX	AUX	_	26	aux	_	_
@@ -5051,7 +5051,7 @@
 10	ειδικά	ειδικά	ADV	ADV	_	13	advmod	_	_
 11	σε	σε	ADP	ADP	_	13	case	_	_
 12	δύσκολες	δύσκολος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	13	amod	_	_
-13	περιόδους	περίοδος	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	8	obl	_	SpaceAfter=No
+13	περιόδους	περίοδος	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = gdt-20020227-ep-sessions_066-19
@@ -21215,9 +21215,9 @@
 3	τροπολογίες	τροπολογία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
 4	πηγαίνουν	πηγαίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	ένα	ένας	DET	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
-6	βήμα	βήμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
+6	βήμα	βήμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
 7	πιο	πιο	ADV	ADV	_	8	advmod	_	_
-8	πέρα	πέρα	ADV	ADV	_	6	obl	_	SpaceAfter=No
+8	πέρα	πέρα	ADV	ADV	_	4	advmod	_	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	10	punct	_	_
 10	επιτρέποντας	επιτρέπω	VERB	VERB	Aspect=Imp|VerbForm=Conv|Voice=Act	4	advcl	_	_
 11	να	να	AUX	AUX	_	12	aux	_	_
@@ -38551,7 +38551,7 @@
 10	,	,	PUNCT	PUNCT	_	13	punct	_	_
 11	σαφώς	σαφώς	ADV	ADV	_	13	advmod	_	_
 12	εκ	εκ	ADP	ADP	_	13	case	_	_
-13	μέρους	μέρος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	9	obl	_	_
+13	μέρους	μέρος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	7	obl	_	_
 14	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	Επιτροπής	επιτροπή	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
 16	αλλά	αλλά	CCONJ	CCONJ	_	19	cc	_	_

@@ -45,7 +45,8 @@ National Technical University of Athens.
 * 2025-11-15 v2.17
   * Added the PronType feature in DET nodes involved in multiword tokens
   * Fixed a violation of the too-many-objects validation rule
-
+  * Fixed a few violations of the obl-should-be-nmod validation rule
+  
 * 2025-05-15 v2.16
   * Undid `AUX/aux` annotations for `πρέπει`. Reverted to treating relevant constructions as `VERB`s heading `csubj`s
   * Added the `ExtPos` feature for heads of `fixed` relations
