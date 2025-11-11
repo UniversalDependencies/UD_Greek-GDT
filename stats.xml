@@ -42,7 +42,7 @@
     <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">9027</feat><!-- της, του, των, τους, μας, μου, σας, επιτροπής, ένωσης, κοινοβουλίου -->
     <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">9262</feat><!-- η, ο, οι, το, που, τα, επιτροπή, αυτό, οποία, αυτή -->
     <feat name="Case" value="Voc" upos="ADJ,NOUN">186</feat><!-- κύριε, Πρόεδρε, κυρίες, κύριοι, κυρία, συνάδελφοι, Ύπατε, Εκπρόσωπε, Επίτροπε, αγαπητοί -->
-    <feat name="Definite" value="Def" upos="DET">9379</feat><!-- την, της, το, η, του, των, ο, οι, τα, τη -->
+    <feat name="Definite" value="Def" upos="DET">11047</feat><!-- την, το, της, η, του, των, τη, τις, τα, ο -->
     <feat name="Definite" value="Ind" upos="DET">468</feat><!-- μια, ένα, μία, ένας, ενός, μιας, έναν, μίας -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">258</feat><!-- περισσότερο, μεγαλύτερο, μεγαλύτερη, περισσότερα, περισσότερες, αργότερα, καλύτερη, περισσότεροι, νωρίτερα, μικρότερες -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">40</feat><!-- σοβαρότατες, ελάχιστα, ελάχιστες, ελάχιστο, Ανώτατο, ανώτατων, μέγιστη, πιθανότατα, Γαληνότατης, Δριμύτατη -->
@@ -66,7 +66,7 @@
     <feat name="Person" value="2" upos="AUX,PRON,VERB">212</feat><!-- σας, είπατε, εσείς, έχετε, επιτρέψτε, Δώστε, αναφερθήκατε, επισκεφθείτε, εσάς, κάνετε -->
     <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">7805</feat><!-- που, είναι, πρέπει, τους, αυτό, του, αυτή, έχει, οποία, ήταν -->
     <feat name="Poss" value="Yes" upos="PRON">636</feat><!-- τους, του, μας, της, μου, σας, σου -->
-    <feat name="PronType" value="Art" upos="DET">9847</feat><!-- την, της, το, η, του, των, ο, οι, τα, τη -->
+    <feat name="PronType" value="Art" upos="DET">11515</feat><!-- την, το, της, η, του, των, τη, τις, τα, ο -->
     <feat name="PronType" value="Dem" upos="DET,PRON">620</feat><!-- αυτό, αυτή, αυτά, αυτές, αυτής, αυτού, αυτών, αυτόν, αυτήν, αυτούς -->
     <feat name="PronType" value="Ind" upos="DET,PRON">304</feat><!-- κάθε, κάτι, άλλες, άλλα, άλλη, άλλων, κανείς, κάποια, άλλο, καμία -->
     <feat name="PronType" value="Ind,Rel" upos="DET,PRON">49</feat><!-- όσα, οποιαδήποτε, ό,τι, όσοι, οτιδήποτε, όσους, όσων, οποιασδήποτε, οποιοδήποτε, Οποιεσδήποτε -->
@@ -87,7 +87,7 @@
     <dep name="acl">279</dep>
     <dep name="acl:relcl">1024</dep>
     <dep name="advcl">813</dep>
-    <dep name="advmod">2782</dep>
+    <dep name="advmod">2783</dep>
     <dep name="amod">4399</dep>
     <dep name="appos">265</dep>
     <dep name="aux">2187</dep>
@@ -102,17 +102,17 @@
     <dep name="dep">1</dep>
     <dep name="det">12112</dep>
     <dep name="discourse">2</dep>
-    <dep name="expl">20</dep>
+    <dep name="expl">21</dep>
     <dep name="fixed">89</dep>
     <dep name="flat">664</dep>
     <dep name="iobj">70</dep>
     <dep name="mark">1162</dep>
-    <dep name="nmod">6451</dep>
+    <dep name="nmod">6452</dep>
     <dep name="nsubj">2797</dep>
     <dep name="nsubj:pass">782</dep>
     <dep name="nummod">466</dep>
-    <dep name="obj">2381</dep>
-    <dep name="obl">3684</dep>
+    <dep name="obj">2380</dep>
+    <dep name="obl">3682</dep>
     <dep name="obl:agent">105</dep>
     <dep name="obl:arg">1</dep>
     <dep name="orphan">42</dep>
