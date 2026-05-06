@@ -1,9 +1,9 @@
 # Summary
 
 The Greek UD treebank (UD_Greek-GDT) is derived from the Greek Dependency Treebank
-(http://gdt.ilsp.gr), a resource developed and maintained by
+(https://gdt.ilsp.gr), a resource developed and maintained by
 researchers at the Institute for Language and Speech Processing/Athena
-R.C. (http://www.ilsp.gr).
+R.C. (https://www.ilsp.gr).
 
 # Introduction
 
@@ -12,7 +12,7 @@ data in the current release derive from primary texts that are in the
 public domain, including wikinews articles and european parliament
 sessions. The treebank is licensed under the terms of [Creative
 Commons Attribution-NonCommercial-ShareAlike, CC BY-NC-SA
-3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 The morphological and syntactic annotation of the Greek UD treebank
 was originally created through a semi-automatic conversion of
